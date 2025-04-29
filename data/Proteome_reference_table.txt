@@ -1,0 +1,8 @@
+species proteome
+Ag Ag-CAM1351-DRAFT-PanAnd-1.0.aa.fasta
+Mg Miscanthus_sinensis.aa.fasta
+Pv Pvirgatumvar_WBCHAP1_778_v1.0.aa.fasta
+Sn Sn-CAM1369-DRAFT-PanAnd-1.0.aa.fasta
+Trip19 Td-FL_9056069_6-DRAFT-PanAnd-1.0.aa.fasta
+Trip22 Td-FL_9056069_6-DRAFT-PanAnd-1.0.aa.fasta
+Trip Td-FL_9056069_6-DRAFT-PanAnd-1.0.aa.fasta

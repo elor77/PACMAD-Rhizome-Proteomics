@@ -1,0 +1,31 @@
+# R specific
+.Rproj.user/
+.Rhistory
+.Ruserdata
+*.Rproj
+
+# Ignore general .RData files but keep specific RNA-seq data
+.RData
+# Exceptions for essential data files
+!data/6_mRNA/RNAseq_DEG_maize_tissues.RData
+!data/6_mRNA/RNAseq_DEG_Td.RData
+
+# macOS specific
+.DS_Store
+.Rapp.history
+
+# Large files
+*.gz
+*.dmnd
+uniprot/uniprot_sprot.fasta.gz
+
+# Temporary files
+**/temp/
+**/archive/
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/

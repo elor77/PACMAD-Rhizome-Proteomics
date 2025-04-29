@@ -1,0 +1,140 @@
+Biological_Process,Assigned_Category
+glutamine biosynthetic process,Amino acid and peptide biosynthesis
+glycine biosynthetic process,Amino acid and peptide biosynthesis
+L-leucine biosynthetic process,Amino acid and peptide biosynthesis
+proline biosynthetic process,Amino acid and peptide biosynthesis
+tryptophan biosynthetic process,Amino acid and peptide biosynthesis
+carbohydrate metabolic process,Carbohydrate metabolism
+fructose 6-phosphate metabolic process,Carbohydrate metabolism
+galactose metabolic process,Carbohydrate metabolism
+gluconeogenesis,Carbohydrate metabolism
+glucose metabolic process,Carbohydrate metabolism
+glycogen catabolic process,Carbohydrate metabolism
+glycolytic process,Carbohydrate metabolism
+monosaccharide metabolic process,Carbohydrate metabolism
+pentose-phosphate shunt,Carbohydrate metabolism
+pyruvate metabolic process,Carbohydrate metabolism
+starch biosynthetic process,Carbohydrate metabolism
+starch metabolic process,Carbohydrate metabolism
+sucrose biosynthetic process,Carbohydrate metabolism
+chitin catabolic process,polysaccharide catabolism
+polysaccharide catabolic process,polysaccharide catabolism
+xyloglucan metabolic process,Other
+actin filament depolymerization,Other
+defense response,Defense response and pathogen resistance
+defense response to fungus,Defense response and pathogen resistance
+modulation of process of another organism,Defense response and pathogen resistance
+response to other organism,Defense response and pathogen resistance
+response to wounding,Defense response and pathogen resistance
+glyoxylate cycle,Energy generation (glyoxylate malate cycles)
+malate metabolic process,Energy generation (glyoxylate malate cycles)
+mitochondrial respiratory chain complex II assembly,Energy generation (glyoxylate malate cycles)
+NADH dehydrogenase complex assembly,Energy generation (glyoxylate malate cycles)
+cellular response to heat,Response to heat
+cellular response to zinc ion starvation,Other
+response to heat,Response to heat
+abscisic acid-activated signaling pathway,ABA hormone signaling
+maintenance of seed dormancy by absisic acid,ABA hormone signaling
+response to abscisic acid,ABA hormone signaling
+lipid metabolic process,Lipid transport and metabolism
+lipid transport,Lipid transport and metabolism
+AMP salvage,Nucleotide biosynthesis and metabolism
+nucleoside monophosphate phosphorylation,Nucleotide biosynthesis and metabolism
+purine nucleobase metabolic process,Nucleotide biosynthesis and metabolism
+UTP biosynthetic process,Nucleotide biosynthesis and metabolism
+amino acid transmembrane transport,Other
+base-excision repair,Other
+cell division,Other
+embryo sac development,Other
+formate catabolic process,Other
+glycine decarboxylation via glycine cleavage system,Other
+heme oxidation,Other
+intracellular sequestering of iron ion,Other
+iron-sulfur cluster assembly,Other
+L-alanine catabolic process,Other
+L-phenylalanine catabolic process,Other
+mitotic spindle disassembly,Other
+monoatomic cation transport,Other
+monocarboxylic acid transport,Other
+monosaccharide transmembrane transport,Other
+NA,Other
+phosphate ion transport,Other
+pollen sperm cell differentiation,Other
+potassium ion transport,Other
+protein localization,Other
+protein modification process,Other
+protein transport,Other
+proton export across plasma membrane,Other
+proton transmembrane transport,Other
+regulation of circadian rhythm,Other
+response to acid chemical,Other
+SCF complex assembly,Other
+sulfate assimilation,Other
+thylakoid membrane organization,Other
+transmembrane transport,Other
+transsulfuration,Other
+tryptophan catabolic process to kynurenine,Other
+vesicle-mediated transport,Other
+cellular aldehyde metabolic process,Oxidative stress response and ROS detox
+cellular oxidant detoxification,Oxidative stress response and ROS detox
+cellular response to oxidative stress,Oxidative stress response and ROS detox
+formaldehyde catabolic process,Oxidative stress response and ROS detox
+glutathione metabolic process,Oxidative stress response and ROS detox
+glyoxal metabolic process,Oxidative stress response and ROS detox
+hydrogen peroxide catabolic process,Oxidative stress response and ROS detox
+methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione,Oxidative stress response and ROS detox
+response to hydrogen peroxide,Oxidative stress response and ROS detox
+response to reactive oxygen species,Oxidative stress response and ROS detox
+xenobiotic detoxification by transmembrane export across the plasma membrane,Oxidative stress response and ROS detox
+ERAD pathway,Protein folding and stress chaperones
+positive regulation of proteasomal protein catabolic process,Protein folding and stress chaperones
+protein folding,Protein folding and stress chaperones
+protein processing,Protein folding and stress chaperones
+protein refolding,Protein folding and stress chaperones
+proteolysis,Protein folding and stress chaperones
+proteolysis involved in protein catabolic process,Protein folding and stress chaperones
+chromatin remodeling,RNA processing and gene regulation
+cytoplasmic translation,RNA processing and gene regulation
+cytosolic ribosome assembly,RNA processing and gene regulation
+formation of cytoplasmic translation initiation complex,RNA processing and gene regulation
+formation of translation preinitiation complex,RNA processing and gene regulation
+methylation,RNA processing and gene regulation
+mRNA processing,RNA processing and gene regulation
+"mRNA splicing, via spliceosome",RNA processing and gene regulation
+negative regulation of translation,RNA processing and gene regulation
+positive regulation of DNA-templated transcription,RNA processing and gene regulation
+post-transcriptional regulation of gene ...,RNA processing and gene regulation
+regulation of DNA-templated transcription,RNA processing and gene regulation
+regulation of mRNA stability,RNA processing and gene regulation
+ribosomal large subunit export from nucleus,RNA processing and gene regulation
+spliceosomal complex disassembly,RNA processing and gene regulation
+spliceosomal tri-snRNP complex assembly,RNA processing and gene regulation
+translation,RNA processing and gene regulation
+translational initiation,RNA processing and gene regulation
+acetyl-CoA biosynthetic process from pyruvate,Other
+anthocyanin-containing compound biosynthetic process,Specialized metabolite biosynthesis
+aromatic amino acid family catabolic process to alcohol via Ehrlich pathway,Other
+biosynthetic process,Other
+chlorophyll biosynthetic process,Other
+coumarin biosynthetic process,Specialized metabolite biosynthesis
+diterpenoid metabolic process,Specialized metabolite biosynthesis
+flavonoid biosynthetic process,Specialized metabolite biosynthesis
+gamma-aminobutyric acid metabolic process,Other
+heme biosynthetic process,Other
+inositol biosynthetic process,Other
+L-ascorbic acid biosynthetic process,Other
+lactate biosynthetic process,Other
+lignan metabolic process,Specialized metabolite biosynthesis
+lignin biosynthetic process,Other
+oxylipin biosynthetic process,Specialized metabolite biosynthesis
+phenylpropanoid biosynthetic process,Specialized metabolite biosynthesis
+phenylpropanoid metabolic process,Specialized metabolite biosynthesis
+prostaglandin biosynthetic process,Specialized metabolite biosynthesis
+S-methylmethionine cycle,Other
+small molecule metabolic process,Other
+cold acclimation,Water deficit and cold stress responses
+response to cold,Water deficit and cold stress responses
+response to desiccation,Water deficit and cold stress responses
+response to salt stress,Water deficit and cold stress responses
+response to water deprivation,Water deficit and cold stress responses
+intracellular calcium ion homeostasis,Other

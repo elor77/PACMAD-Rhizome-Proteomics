@@ -1,0 +1,17 @@
+Sample_NO. 	Sample_name 	TMT16pro_assignment
+1 	C002_Summer 	126
+2 	C004_Summer 	127N
+3 	C022_Summer 	127C
+4 	C031_Summer 	128N
+5 	C071-1_Summer 	128C
+6 	C071-2_Summer 	129N
+7 	C071-3_Summer 	129C
+8 	C076_Summer 	130N
+9 	C002_Winter 	130C
+10 	C004_Winter 	131N
+11 	C022_Winter 	131C
+12 	C031_Winter 	132N
+13 	C071-1_Winter 	132C
+14 	C071-2_Winter 	133N
+15 	C071-3_Winter 	133C
+16 	C076_Winter 	134N

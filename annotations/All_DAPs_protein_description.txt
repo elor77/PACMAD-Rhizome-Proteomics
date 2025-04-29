@@ -1,0 +1,1188 @@
+orthogroup	protein_id	description
+OG0000012	Td00001aa039642_T001	Actin
+OG0000014	Ag00001aa002239_T001	NA
+OG0000014	PvWBCH1.1KG289200.1.v1.1	NA
+OG0000014	Td00001aa019942_T001	Histone H2A/H2B/H3 domain-containing protein
+OG0000017	PvWBCH1.4KG239800.1.v1.1	Tubulin beta chain
+OG0000017	PvWBCH1.5KG130100.1.v1.1	Tubulin beta chain
+OG0000017	PvWBCH1.5KG340100.1.v1.1	Tubulin beta chain
+OG0000017	Sn00001aa021927_T001	Tubulin beta chain
+OG0000017	Td00001aa008491_T001	Tubulin beta chain
+OG0000017	Td00001aa009575_T001	Tubulin beta chain
+OG0000017	Td00001aa013434_T001	Tubulin beta chain
+OG0000017	Td00001aa018507_T001	Tubulin beta chain
+OG0000017	Td00001aa025123_T001	Tubulin beta chain
+OG0000017	Td00001aa027665_T001	Tubulin beta chain
+OG0000017	Td00001aa034793_T001	Tubulin beta chain
+OG0000034	Ag00001aa022279_T001	Heat shock protein 70
+OG0000034	Ag00001aa047169_T001	Heat shock protein 70
+OG0000034	PvWBCH1.5KG363600.1.v1.1	Heat shock protein 70
+OG0000034	PvWBCH1.5NG350300.1.v1.1	Heat shock protein 70
+OG0000034	Td00001aa019280_T001	Heat shock protein 70
+OG0000034	Td00001aa024202_T001	Heat shock protein 70
+OG0000047	MisinT397300.1.v7.1	Tubulin alpha chain
+OG0000047	PvWBCH1.3KG248000.1.v1.1	Tubulin alpha chain
+OG0000047	PvWBCH1.9KG097200.1.v1.1	Tubulin alpha chain
+OG0000047	PvWBCH1.9NG063900.1.v1.1	Tubulin alpha chain
+OG0000047	Sn00001aa000746_T001	Tubulin alpha chain
+OG0000047	Td00001aa000549_T001	Tubulin alpha chain
+OG0000047	Td00001aa024805_T002	Tubulin alpha chain
+OG0000047	Td00001aa027429_T002	Tubulin alpha chain
+OG0000047	Td00001aa027648_T001	Tubulin alpha chain
+OG0000059	PvWBCH1.1KG237200.1.v1.1	Phenylalanine ammonia-lyase
+OG0000059	PvWBCH1.1KG237300.1.v1.1	Phenylalanine ammonia-lyase
+OG0000060	Td00001aa036572_T002	E2 ubiquitin-conjugating protein UBC5
+OG0000088	Misin01G032900.1.v7.1	ADP-ribosylation factor
+OG0000110	Ag00001aa156538_T001	Heat shock protein 83
+OG0000110	Td00001aa041578_T002	Heat shock protein 83
+OG0000116	Td00001aa031102_T001	Calmodulin-7 isoform X1
+OG0000161	Ag00001aa122903_T001	S-adenosylmethionine synthase
+OG0000161	Misin05G145900.1.v7.1	S-adenosylmethionine synthase
+OG0000161	MisinT386500.1.v7.1	S-adenosylmethionine synthase
+OG0000161	Td00001aa009680_T001	S-adenosylmethionine synthase
+OG0000161	Td00001aa030296_T001	S-adenosylmethionine synthase
+OG0000161	Td00001aa042790_T001	S-adenosylmethionine synthase
+OG0000185	PvWBCH1.2KG082400.1.v1.1	NA
+OG0000185	Td00001aa020748_T003	NA
+OG0000197	PvWBCH1.3NG219800.1.v1.1	Ras- protein RABE1c
+OG0000200	PvWBCH1.7KG055700.1.v1.1	Probable aldo-keto reductase 2
+OG0000224	PvWBCH1.1KG063300.1.v1.1	H(+)-exporting diphosphatase
+OG0000224	PvWBCH1.4KG219500.1.v1.1	H(+)-exporting diphosphatase
+OG0000227	Td00001aa001768_T001	60S ribosomal protein L34
+OG0000229	Ag00001aa040662_T001	Glutamine synthetase
+OG0000252	PvWBCH1.9KG207500.1.v1.1	ALOG domain-containing protein
+OG0000260	Td00001aa039925_T001	Peroxidase
+OG0000269	Td00001aa006424_T002	Amino acid transporter transmembrane domain-containing protein
+OG0000286	PvWBCH1.9KG499400.1.v1.1	Cell division cycle protein 48 homolog
+OG0000286	Td00001aa013792_T002	Cell division cycle protein 48 homolog
+OG0000288	Ag00001aa014453_T001	Class I heat shock protein 1
+OG0000288	Ag00001aa078823_T001	Class I heat shock protein 1
+OG0000288	Ag00001aa097918_T001	Class I heat shock protein 1
+OG0000288	Ag00001aa097924_T001	Class I heat shock protein 1
+OG0000288	Ag00001aa118595_T001	Small heat shock protein HSP
+OG0000288	Ag00001aa143736_T001	Class I heat shock protein 1
+OG0000288	Sn00001aa041377_T001	Class I heat shock protein 1
+OG0000288	Td00001aa033192_T001	16.9 kDa class I heat shock protein 1
+OG0000288	Td00001aa033307_T001	Class I heat shock protein 1
+OG0000288	Td00001aa033308_T001	Class I heat shock protein 1
+OG0000289	Ag00001aa071072_T001	Alcohol dehydrogenase 1
+OG0000289	PvWBCH1.8KG100900.1.v1.1	Alcohol dehydrogenase 1
+OG0000289	Sn00001aa023333_T004	Alcohol dehydrogenase 1
+OG0000289	Td00001aa024734_T004	Alcohol dehydrogenase 1
+OG0000305	Ag00001aa030359_T001	Aquaporin
+OG0000305	Ag00001aa056960_T001	Aquaporin
+OG0000305	Ag00001aa061390_T001	Aquaporin
+OG0000305	Ag00001aa062385_T001	Plasma membrane intrinsic protein 1
+OG0000305	Misin07G437200.1.v7.1	Aquaporin
+OG0000305	Misin07G548500.1.v7.1	Aquaporin
+OG0000305	PvWBCH1.1KG264600.1.v1.1	Plasma membrane intrinsic protein
+OG0000305	PvWBCH1.1NG248800.1.v1.1	Plasma membrane intrinsic protein 1
+OG0000305	PvWBCH1.7KG202400.1.v1.1	Aquaporin
+OG0000305	Sn00001aa039024_T001	Aquaporin
+OG0000316	PvWBCH1.9NG239500.1.v1.1	alanine transaminase
+OG0000316	Td00001aa026000_T001	alanine transaminase
+OG0000332	PvWBCH1.3NG101500.1.v1.1	glutathione transferase
+OG0000355	PvWBCH1.3KG424900.1.v1.1	Plasma membrane ATPase
+OG0000355	Sn00001aa074929_T001	Plasma membrane ATPase
+OG0000355	Td00001aa025008_T004	Plasma membrane ATPase
+OG0000402	PvWBCH1.3NG157700.1.v1.1	Ubiquitin-conjugating enzyme E2 36
+OG0000433	Ag00001aa004423_T002	Peroxidase
+OG0000433	Ag00001aa023989_T001	Peroxidase
+OG0000433	Ag00001aa155706_T001	Peroxidase
+OG0000433	Td00001aa022195_T001	Peroxidase
+OG0000506	PvWBCH1.5NG032300.1.v1.1	Malic enzyme
+OG0000517	Td00001aa007062_T001	Glycosyltransferase
+OG0000523	PvWBCH1.7KG117800.1.v1.1	NADP-dependent oxidoreductase domain-containing protein
+OG0000523	PvWBCH1.7NG127400.1.v1.1	NADP-dependent oxidoreductase domain-containing protein
+OG0000527	Sn00001aa091151_T001	Glycosyltransferase
+OG0000538	Sn00001aa004935_T002	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+OG0000565	PvWBCH1.3KG156000.1.v1.1	Isocitrate dehydrogenase [NADP]
+OG0000566	PvWBCH1.5KG232200.1.v1.1	Cytochrome P450 family 72 subfamily A polypeptide 8
+OG0000566	Td00001aa007022_T003	Cytochrome P450 family 72 subfamily A polypeptide 8
+OG0000568	Td00001aa026762_T001	Ent-cassadiene C2-hydroxylase
+OG0000579	Td00001aa037166_T003	KEN domain-containing protein
+OG0000596	Misin02G359400.1.v7.1	Hydroxyproline-rich glycoprotein family protein
+OG0000596	PvWBCH1.2NG392700.1.v1.1	Hydroxyproline-rich glycoprotein family protein
+OG0000596	Td00001aa014817_T001	Hydroxyproline-rich glycoprotein family protein
+OG0000597	Td00001aa014781_T002	DOG1 domain-containing protein
+OG0000618	PvWBCH1.3KG173500.1.v1.1	Secondary cell wall-related glycosyltransferase family 47
+OG0000620	PvWBCH1.5KG315300.1.v1.1	Formamidase
+OG0000642	Ag00001aa135121_T001	Glutathione S-transferase
+OG0000642	PvWBCH1.9KG056000.1.v1.1	Glutathione S-transferase
+OG0000642	PvWBCH1.9NG055800.1.v1.1	Glutathione S-transferase
+OG0000642	Sn00001aa005515_T001	Glutathione S-transferase
+OG0000642	Td00001aa024450_T001	Glutathione S-transferase
+OG0000642	Td00001aa024451_T001	Glutathione S-transferase
+OG0000646	Td00001aa007991_T003	Lipoxygenase
+OG0000646	Td00001aa007992_T002	Lipoxygenase
+OG0000654	Ag00001aa004820_T001	Dirigent protein (Fragment)
+OG0000654	Ag00001aa004824_T001	Dirigent protein (Fragment)
+OG0000654	Ag00001aa004825_T001	Dirigent protein (Fragment)
+OG0000654	Ag00001aa138044_T002	Dirigent protein (Fragment)
+OG0000654	Ag00001aa138047_T001	Dirigent protein (Fragment)
+OG0000670	PvWBCH1.3KG334800.1.v1.1	ABC transporter domain-containing protein
+OG0000670	Sn00001aa050960_T001	ABC transporter domain-containing protein
+OG0000670	Td00001aa005913_T001	ABC transporter domain-containing protein
+OG0000704	Td00001aa033446_T004	"Acyl-coenzyme A oxidase 4, peroxisomal"
+OG0000710	Ag00001aa050176_T001	NADP-dependent oxidoreductase P2
+OG0000710	Ag00001aa126910_T003	"NADP-dependent oxidoreductase P1, putative, expressed"
+OG0000711	Td00001aa011427_T001	"4-hydroxy-7-methoxy-3-oxo-3,4-dihydro-2H-1,4-benzoxazin-2-yl glucosidebeta-D-glucosidase"
+OG0000711	Td00001aa011430_T003	Avenacosidase 2
+OG0000715	PvWBCH1.1KG237100.1.v1.1	Phenylalanine ammonia-lyase
+OG0000715	PvWBCH1.1NG224900.1.v1.1	Phenylalanine ammonia-lyase
+OG0000715	PvWBCH1.7KG173500.1.v1.1	Phenylalanine ammonia-lyase
+OG0000715	PvWBCH1.7NG178200.1.v1.1	Phenylalanine ammonia-lyase
+OG0000715	Sn00001aa009014_T001	Phenylalanine ammonia-lyase
+OG0000715	Td00001aa004249_T001	Phenylalanine ammonia-lyase
+OG0000715	Td00001aa017003_T001	Phenylalanine ammonia-lyase
+OG0000715	Td00001aa029037_T001	Phenylalanine ammonia-lyase
+OG0000744	PvWBCH1.3NG401800.1.v1.1	AB hydrolase-1 domain-containing protein
+OG0000823	Ag00001aa096557_T001	Glutathione S-transferase
+OG0000823	Sn00001aa092320_T001	Glutathione S-transferase
+OG0000823	Td00001aa018860_T001	Glutathione S-transferase
+OG0000835	PvWBCH1.3NG084400.1.v1.1	Serine/arginine-rich splicing factor RS2Z32
+OG0000837	Misin17G041200.1.v7.1	NA
+OG0000844	PvWBCH1.2KG079800.1.v1.1	Vesicle-associated membrane protein 725
+OG0000863	Ag00001aa044676_T001	Xylanase inhibitor protein 1
+OG0000863	Ag00001aa120445_T001	Xylanase inhibitor protein 1
+OG0000863	PvWBCH1.8KG089500.1.v1.1	Xylanase inhibitor protein 1
+OG0000885	PvWBCH1.4NG163700.1.v1.1	Coatomer subunit beta'
+OG0000889	Td00001aa008365_T001	ALOG domain-containing protein
+OG0000891	Misin05G173500.1.v7.1	"Thiamine thiazole synthase, chloroplastic"
+OG0000891	Td00001aa006961_T001	"Thiamine thiazole synthase, chloroplastic"
+OG0000891	Td00001aa009874_T001	"Thiamine thiazole synthase, chloroplastic"
+OG0000898	PvWBCH1.6KG114300.1.v1.1	C2H2-type domain-containing protein
+OG0000915	Td00001aa033015_T001	Peroxidase
+OG0000920	PvWBCH1.3NG057100.1.v1.1	VWFA domain-containing protein
+OG0000929	Td00001aa001541_T001	"Tuliposide A-converting enzyme 2, chloroplastic"
+OG0000937	Td00001aa036466_T004	glycerophosphodiester phosphodiesterase
+OG0000950	PvWBCH1.3NG116300.1.v1.1	Cellulose synthase
+OG0000950	Td00001aa033546_T001	Cellulose synthase
+OG0000971	Td00001aa030923_T003	"Fructose-1,6-bisphosphatase, cytosolic"
+OG0000973	Misin05G317500.1.v7.1	Expansin
+OG0001000	Sn00001aa043654_T003	cinnamyl-alcohol dehydrogenase
+OG0001014	PvWBCH1.9NG358300.1.v1.1	Nascent polypeptide-associated complex subunit alpha-like protein 1
+OG0001019	Td00001aa011649_T002	"Cytochrome P450 family protein, expressed"
+OG0001032	Misin04G083200.1.v7.1	Methyltransferase
+OG0001078	Misin09G018200.1.v7.1	2-isopropylmalate synthase
+OG0001078	Sn00001aa096746_T001	2-isopropylmalate synthase
+OG0001087	Misin09G057300.1.v7.1	Coatomer subunit beta
+OG0001095	Td00001aa007047_T001	Flavanone 4-reductase
+OG0001112	Td00001aa029477_T004	Lipoxygenase
+OG0001124	Ag00001aa077312_T002	Subtilisin-like protease
+OG0001124	Td00001aa041768_T003	Subtilisin-like serine endopeptidase family protein
+OG0001139	Misin02G374500.1.v7.1	Bet v I/Major latex protein domain-containing protein
+OG0001139	Td00001aa014690_T001	Bet v I/Major latex protein domain-containing protein
+OG0001162	PvWBCH1.2NG036100.1.v1.1	NA
+OG0001162	Td00001aa002847_T001	Cylicin-1
+OG0001162	Td00001aa040575_T001	NA
+OG0001173	Td00001aa031593_T001	Transcription factor CBF/NF-Y/archaeal histone domain-containing protein
+OG0001189	Sn00001aa022890_T001	Calcineurin B-like protein 3
+OG0001189	Td00001aa043587_T002	Calcineurin B-like protein 3
+OG0001196	Td00001aa023617_T001	Leucine-rich repeat extensin-like protein 3
+OG0001215	Td00001aa039885_T001	Serine/threonine-protein kinase NAK
+OG0001228	PvWBCH1.3KG080900.1.v1.1	Cytochrome b5 heme-binding domain-containing protein
+OG0001259	Ag00001aa123912_T001	Polyamine oxidase
+OG0001259	PvWBCH1.9KG469900.1.v1.1	Polyamine oxidase
+OG0001259	Td00001aa038427_T002	NA
+OG0001268	PvWBCH1.1KG292700.1.v1.1	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha
+OG0001268	Sn00001aa009456_T002	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha
+OG0001268	Td00001aa017372_T002	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha
+OG0001296	Ag00001aa067474_T001	Thioredoxin domain-containing protein
+OG0001296	Ag00001aa110604_T001	Thioredoxin domain-containing protein
+OG0001312	Td00001aa021855_T002	Polyol transporter 5
+OG0001322	Ag00001aa027795_T002	Lipoxygenase
+OG0001322	Misin01G114400.1.v7.1	Lipoxygenase
+OG0001322	Misin02G103400.1.v7.1	Lipoxygenase
+OG0001322	Td00001aa024952_T002	Lipoxygenase
+OG0001322	Td00001aa027330_T001	Lipoxygenase
+OG0001372	Misin06G110100.1.v7.1	Argonaute 4
+OG0001379	PvWBCH1.5NG302600.1.v1.1	Chorismate mutase
+OG0001450	PvWBCH1.7KG056200.1.v1.1	NADP-dependent oxidoreductase domain-containing protein
+OG0001479	Sn00001aa071959_T001	UDP-glucose 6-dehydrogenase 3
+OG0001479	Td00001aa024620_T001	UDP-glucose 6-dehydrogenase 3
+OG0001503	Misin10G048800.1.v7.1	Transmembrane 9 superfamily member
+OG0001503	Misin14G060100.1.v7.1	Transmembrane 9 superfamily member
+OG0001503	PvWBCH1.3KG041900.1.v1.1	Transmembrane 9 superfamily member
+OG0001503	PvWBCH1.8NG048200.1.v1.1	Transmembrane 9 superfamily member
+OG0001521	Misin07G413400.1.v7.1	Aquaporin plasma membrane intrinsic protein 2-2
+OG0001521	PvWBCH1.1KG238400.1.v1.1	Aquaporin plasma membrane intrinsic protein 2-2
+OG0001521	Td00001aa004234_T001	Aquaporin plasma membrane intrinsic protein 2-2
+OG0001536	PvWBCH1.5KG338400.1.v1.1	Plastidic phosphate translocator-like protein1
+OG0001536	Td00001aa022874_T001	Plastidic phosphate translocator-like protein1
+OG0001655	PvWBCH1.9KG112500.1.v1.1	Beta-glucosidase 7
+OG0001655	Td00001aa024936_T001	Beta-glucosidase 8
+OG0001662	Misin11G003400.1.v7.1	Glyoxylate/hydroxypyruvate reductase HPR3
+OG0001707	Td00001aa003164_T002	"1,3-beta-glucan synthase"
+OG0001787	Ag00001aa009579_T001	Small heat shock protein HSP
+OG0001787	Td00001aa014480_T001	SHSP domain-containing protein
+OG0001861	Td00001aa027460_T001	Zinc finger BED domain-containing protein RICESLEEPER 2
+OG0001890	Ag00001aa101082_T002	Apoptosis-inducing factor 2
+OG0001891	PvWBCH1.4NG206200.1.v1.1	Phosphoglycerate kinase
+OG0001897	Td00001aa039430_T005	Aluminum induced protein with YGL and LRDR motifs
+OG0001916	Td00001aa043582_T001	NA
+OG0001948	PvWBCH1.8NG111400.1.v1.1	Bifunctional dihydrofolate reductase-thymidylate synthase
+OG0001959	Ag00001aa092812_T001	chitinase
+OG0001959	PvWBCH1.9KG512900.1.v1.1	chitinase
+OG0001959	PvWBCH1.9NG503500.1.v1.1	chitinase
+OG0001959	Sn00001aa050399_T001	chitinase
+OG0001959	Sn00001aa062552_T001	chitinase
+OG0001963	PvWBCH1.6KG252500.1.v1.1	"Malate dehydrogenase [NADP], chloroplastic"
+OG0001998	Td00001aa023115_T002	Putative MYB DNA-binding domain superfamily protein
+OG0002006	PvWBCH1.9NG404100.1.v1.1	"Trifunctional UDP-glucose 4,6-dehydratase/UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase/UDP-4-keto-L-rhamnose-reductase RHM1"
+OG0002031	Td00001aa006065_T001	Glycosyltransferase
+OG0002175	PvWBCH1.1KG337200.1.v1.1	UMP-CMP kinase
+OG0002175	Td00001aa043750_T003	UMP-CMP kinase
+OG0002192	PvWBCH1.9KG290600.1.v1.1	Mitochondrial carnitine/acylcarnitine carrier-like protein
+OG0002197	Td00001aa030762_T001	DNA replication licensing factor MCM6
+OG0002219	Td00001aa028747_T003	Ubiquitin fusion degradation protein 1
+OG0002237	PvWBCH1.5NG174900.1.v1.1	RNA helicase
+OG0002255	Td00001aa029643_T001	VAMP protein SEC22
+OG0002300	Sn00001aa024444_T001	Acyl-coenzyme A oxidase
+OG0002316	Ag00001aa082217_T001	NA
+OG0002368	Ag00001aa004029_T001	Alpha-ketoglutarate-dependent dioxygenase alkB-like protein 2
+OG0002368	PvWBCH1.2KG390400.1.v1.1	Alpha-ketoglutarate-dependent dioxygenase alkB-like protein 2
+OG0002425	Ag00001aa045267_T001	NA
+OG0002472	Sn00001aa079782_T001	GTP-binding protein YPTM2
+OG0002505	PvWBCH1.3NG181100.1.v1.1	ATP-dependent 6-phosphofructokinase
+OG0002521	Td00001aa012353_T001	WEB family protein chloroplastic
+OG0002524	Misin14G086000.1.v7.1	GRAM domain-containing protein
+OG0002524	PvWBCH1.3KG337600.1.v1.1	GRAM domain-containing protein
+OG0002524	PvWBCH1.3NG315700.1.v1.1	GRAM domain-containing protein
+OG0002524	Sn00001aa050948_T001	GRAM domain-containing protein
+OG0002524	Td00001aa039232_T002	GRAM domain-containing protein
+OG0002541	PvWBCH1.6NG158300.1.v1.1	SCP domain-containing protein
+OG0002541	Td00001aa032227_T001	Ferredoxin-related
+OG0002545	PvWBCH1.1KG182300.1.v1.1	Dehydrin
+OG0002556	PvWBCH1.9KG472700.1.v1.1	GTP-BINDING protein 3
+OG0002556	Td00001aa026630_T001	"Putative small GTPase superfamily, P-loop containing nucleoside triphosphate hydrolase"
+OG0002559	Misin19G055000.1.v7.1	Pre-mRNA-processing-splicing factor 8A
+OG0002559	PvWBCH1.4NG037300.1.v1.1	MPN domain-containing protein
+OG0002600	Td00001aa033159_T002	Phenylcoumaran benzylic ether reductase-like protein I (Fragment)
+OG0002600	Td00001aa033160_T001	Phenylcoumaran benzylic ether reductase-like protein I (Fragment)
+OG0002621	Misin03G085700.1.v7.1	V-type proton ATPase subunit G
+OG0002676	Td00001aa037912_T002	Powdery mildew resistance protein PM3 variant
+OG0002679	PvWBCH1.6KG070600.1.v1.1	lactoylglutathione lyase
+OG0002718	Td00001aa000735_T001	X8 domain-containing protein
+OG0002760	PvWBCH1.9KG341600.1.v1.1	S-norcoclaurine synthase 1
+OG0002763	Td00001aa000236_T001	"RNA-binding protein CP29B, chloroplastic-like"
+OG0002784	Td00001aa027731_T002	H15 domain-containing protein
+OG0002818	PvWBCH1.5NG005600.1.v1.1	Salt stress root protein RS1
+OG0002922	Misin07G098400.1.v7.1	Monosaccharide-sensing protein 2
+OG0002925	Ag00001aa114791_T001	NA
+OG0002948	Td00001aa008136_T003	Omega-hydroxypalmitate O-feruloyl transferase
+OG0003002	PvWBCH1.8NG114700.1.v1.1	NA
+OG0003031	Td00001aa032137_T001	"High mobility group, HMG-I/HMG-Y"
+OG0003031	Td00001aa035827_T001	High mobility group A
+OG0003161	PvWBCH1.4KG098300.1.v1.1	CELLULOSE SYNTHASE INTERACTIVE 3
+OG0003189	Td00001aa038554_T001	NA
+OG0003283	Ag00001aa099111_T001	X8 domain-containing protein
+OG0003400	Td00001aa033758_T001	NA
+OG0003417	Td00001aa009152_T001	TFIIS N-terminal domain-containing protein
+OG0003421	Td00001aa033337_T001	KOW domain-containing protein
+OG0003442	Ag00001aa089354_T001	Calcium ion binding protein
+OG0003478	Ag00001aa055266_T001	Gibberellin receptor GID1L2
+OG0003478	PvWBCH1.1KG200800.1.v1.1	Gibberellin receptor GID1L2
+OG0003478	Td00001aa016799_T001	Gibberellin receptor GID1L2
+OG0003555	PvWBCH1.4KG275100.1.v1.1	"1,4-alpha-glucan branching enzyme"
+OG0003576	Misin05G263200.1.v7.1	DUF642 domain-containing protein
+OG0003576	PvWBCH1.5KG309100.1.v1.1	DUF642 domain-containing protein
+OG0003576	Sn00001aa091279_T001	DUF642 domain-containing protein
+OG0003621	Td00001aa006685_T001	DNA replication licensing factor MCM4
+OG0003663	Misin07G267200.1.v7.1	Transmembrane 9 superfamily member
+OG0003663	PvWBCH1.6KG246800.1.v1.1	Transmembrane 9 superfamily member
+OG0003663	Sn00001aa048684_T001	Transmembrane 9 superfamily member
+OG0003663	Td00001aa036043_T002	Transmembrane 9 superfamily member
+OG0003673	Td00001aa036158_T003	Patatin
+OG0003692	PvWBCH1.3KG146800.1.v1.1	Mitochondrial adenine nucleotide transporter ADNT1
+OG0003720	Sn00001aa031675_T002	Dienelactone hydrolase domain-containing protein
+OG0003728	Ag00001aa007156_T002	CSD domain-containing protein
+OG0003728	Ag00001aa061896_T002	NA
+OG0003792	PvWBCH1.8NG128600.1.v1.1	"Succinate dehydrogenase assembly factor 2, mitochondrial"
+OG0003817	Td00001aa014588_T001	GST N-terminal domain-containing protein
+OG0003817	Td00001aa019248_T001	GST N-terminal domain-containing protein
+OG0003852	Ag00001aa085945_T001	NA
+OG0003852	Td00001aa043628_T001	NA
+OG0003919	Td00001aa011371_T001	Acyl transferase 5
+OG0003927	Td00001aa023605_T003	GDSL esterase/lipase
+OG0003960	PvWBCH1.2KG076400.1.v1.1	Bifunctional inhibitor/plant lipid transfer protein/seed storage helical domain-containing protein
+OG0003992	PvWBCH1.2KG223500.1.v1.1	Copper transport protein
+OG0004053	Ag00001aa012950_T001	"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial"
+OG0004074	Misin04G357300.1.v7.1	Caltractin
+OG0004214	Ag00001aa153066_T001	aminodeoxychorismate lyase
+OG0004214	PvWBCH1.5NG003300.1.v1.1	aminodeoxychorismate lyase
+OG0004264	Td00001aa020170_T003	O-methyltransferase ZRP4
+OG0004282	Td00001aa005697_T003	Phosphatidate cytidylyltransferase
+OG0004385	Td00001aa003911_T001	ADP-ribosylation factor
+OG0004415	PvWBCH1.1NG094800.1.v1.1	Peroxidase
+OG0004468	Td00001aa011129_T003	RRM domain-containing protein
+OG0004474	Misin06G383600.1.v7.1	E3 ubiquitin-protein ligase RGLG1
+OG0004515	PvWBCH1.5KG346500.1.v1.1	TOG domain-containing protein
+OG0004515	Td00001aa008436_T001	VHS domain-containing protein
+OG0004557	PvWBCH1.5NG234800.1.v1.1	Vacuolar protein sorting-associated protein 25
+OG0004576	Ag00001aa048771_T001	Aspartic proteinase-like protein 2
+OG0004696	Ag00001aa065363_T001	NA
+OG0004741	PvWBCH1.7KG277200.1.v1.1	Orphans transcription factor
+OG0004773	Td00001aa029261_T001	Protein-L-isoaspartate O-methyltransferase 1 isoform X1
+OG0004932	PvWBCH1.9KG072500.1.v1.1	Isoflavone 2'-hydroxylase
+OG0004961	Ag00001aa088349_T001	Fe2OG dioxygenase domain-containing protein
+OG0004961	Td00001aa035379_T002	Fe2OG dioxygenase domain-containing protein
+OG0004982	MisinT054100.1.v7.1	LIS1 motif containing protein
+OG0004982	Td00001aa006646_T002	LIS1 motif containing protein
+OG0005018	PvWBCH1.4KG012300.1.v1.1	"Multiple organellar RNA editing factor 2, chloroplastic"
+OG0005050	PvWBCH1.6KG052700.1.v1.1	ACB domain-containing protein
+OG0005050	PvWBCH1.6NG050800.1.v1.1	ACB domain-containing protein
+OG0005050	Td00001aa038583_T001	ACB domain-containing protein
+OG0005084	Ag00001aa154978_T001	Dirigent protein (Fragment)
+OG0005144	Td00001aa001856_T001	Alpha-amylase type A isozyme
+OG0005214	Ag00001aa012639_T001	SUI1 domain-containing protein
+OG0005216	Ag00001aa148452_T001	NA
+OG0005220	Td00001aa009125_T006	Carboxypeptidase
+OG0005269	Ag00001aa013246_T001	Ribonuclease 1
+OG0005315	PvWBCH1.6KG004600.1.v1.1	SLH domain-containing protein
+OG0005361	Td00001aa024340_T001	Thioredoxin domain-containing protein
+OG0005402	Td00001aa025149_T001	Dehydrin
+OG0005405	Td00001aa025171_T003	Methyl binding domain115
+OG0005469	Sn00001aa021034_T002	Sodium/calcium exchanger
+OG0005483	Sn00001aa045518_T001	Class II heat shock protein
+OG0005483	Td00001aa008985_T001	Small heat shock protein HSP17.8
+OG0005483	Td00001aa019065_T001	Small heat shock protein HSP17.8
+OG0005483	Td00001aa033621_T001	Small heat shock protein HSP17.8
+OG0005549	Sn00001aa054154_T001	Activator of Hsp90 ATPase AHSA1-like N-terminal domain-containing protein
+OG0005569	Sn00001aa053959_T001	Succinate-semialdehyde dehydrogenase
+OG0005593	Td00001aa005269_T001	TPX2 C-terminal domain-containing protein
+OG0005595	Td00001aa002733_T002	H15 domain-containing protein
+OG0005710	Sn00001aa008298_T001	UspA domain-containing protein
+OG0005710	Td00001aa003480_T001	UspA domain-containing protein
+OG0005715	Misin07G519500.1.v7.1	Eukaryotic translation initiation factor 3 subunit G
+OG0005728	Td00001aa003277_T001	Phloem-specific lectin
+OG0005796	Ag00001aa015316_T001	Peroxidase
+OG0005796	Misin05G381000.1.v7.1	Peroxidase
+OG0005796	Td00001aa007570_T001	Peroxidase
+OG0005873	Misin18G170000.1.v7.1	Glutathione S-transferase
+OG0005940	PvWBCH1.5KG274600.1.v1.1	Farnesyl pyrophosphate synthase
+OG0005961	PvWBCH1.5KG249400.1.v1.1	Iron-sulfur cluster assembly protein
+OG0005964	Ag00001aa141498_T001	V-type proton ATPase subunit E
+OG0005980	Td00001aa007038_T001	Aspartic proteinase oryzasin-1
+OG0005989	PvWBCH1.2KG075800.1.v1.1	Coatomer subunit gamma
+OG0006047	PvWBCH1.7NG243500.1.v1.1	"Gamma-aminobutyrate transaminase 1, mitochondrial"
+OG0006053	PvWBCH1.9NG501800.1.v1.1	Methyltransferase
+OG0006086	PvWBCH1.6KG238300.1.v1.1	HTH OST-type domain-containing protein
+OG0006090	Td00001aa031963_T001	NA
+OG0006151	Td00001aa007007_T001	C2 domain-containing protein
+OG0006161	Ag00001aa104120_T004	"Pyruvate, phosphate dikinase"
+OG0006177	Td00001aa000441_T001	Fruit bromelain
+OG0006196	Td00001aa012101_T001	"Protein FATTY ACID EXPORT 2, chloroplastic"
+OG0006202	Td00001aa028382_T001	shikimate kinase
+OG0006221	Sn00001aa100989_T001	Remorin
+OG0006288	Td00001aa013159_T001	TLC domain-containing protein
+OG0006312	Misin12G062800.1.v7.1	Exostosin GT47 domain-containing protein
+OG0006321	PvWBCH1.7KG292600.1.v1.1	Phosphomannomutase
+OG0006417	Misin01G274000.1.v7.1	AT-hook motif nuclear-localized protein
+OG0006466	Misin02G401700.1.v7.1	anthranilate synthase
+OG0006567	PvWBCH1.8NG151200.1.v1.1	RNA polymerase II transcription elongation factor DSIF/SUPT5H/SPT5
+OG0006624	Td00001aa039086_T001	NA
+OG0006856	PvWBCH1.2KG277500.1.v1.1	Hydroxymethylglutaryl-CoA synthase
+OG0006856	PvWBCH1.2NG253200.1.v1.1	Hydroxymethylglutaryl-CoA synthase
+OG0006869	Misin03G236400.1.v7.1	Endoglucanase
+OG0006869	PvWBCH1.2KG286200.1.v1.1	Endoglucanase
+OG0006869	Sn00001aa003072_T001	Endoglucanase
+OG0006869	Td00001aa001138_T001	Endoglucanase
+OG0006902	Td00001aa000821_T001	X8 domain-containing protein
+OG0006941	Ag00001aa012894_T001	Zeamatin
+OG0006941	Sn00001aa051893_T001	Zeamatin
+OG0007031	Sn00001aa073394_T001	TOG domain-containing protein
+OG0007103	PvWBCH1.9KG104900.1.v1.1	Dynamin-related protein 1C
+OG0007103	Sn00001aa023222_T002	Dynamin-related protein 1C
+OG0007104	Misin02G094400.1.v7.1	Atypical receptor-like kinase MARK
+OG0007104	Td00001aa024871_T001	Atypical receptor-like kinase MARK
+OG0007122	Misin01G130700.1.v7.1	X8 domain-containing protein
+OG0007172	Misin12G003500.1.v7.1	Rhomboid-like protein 19
+OG0007172	Td00001aa041542_T001	Rhomboid-like protein 19
+OG0007244	Misin06G081500.1.v7.1	Pectin methylesterase CGR2
+OG0007249	Sn00001aa047322_T003	Fibronectin type III-like domain-containing protein
+OG0007321	PvWBCH1.1KG060800.1.v1.1	"Chaperone protein ClpB3, mitochondrial"
+OG0007321	Sn00001aa069832_T001	"Chaperone protein ClpB4, mitochondrial"
+OG0007331	Td00001aa005230_T005	Lipoxygenase
+OG0007331	Td00001aa016275_T003	Lipoxygenase
+OG0007346	Td00001aa039445_T001	Pop3 peptide
+OG0007412	Ag00001aa029877_T001	glycerophosphodiester phosphodiesterase
+OG0007481	Misin07G467100.1.v7.1	Transmembrane 9 superfamily member
+OG0007481	PvWBCH1.1KG298900.1.v1.1	Transmembrane 9 superfamily member
+OG0007495	Ag00001aa051743_T001	Pyruvate dehydrogenase E1 component subunit alpha
+OG0007495	Sn00001aa037753_T002	Pyruvate dehydrogenase E1 component subunit alpha
+OG0007520	Misin07G513900.1.v7.1	Class II heat shock protein
+OG0007520	PvWBCH1.1NG326900.1.v1.1	Class III heat shock protein
+OG0007520	Td00001aa003426_T001	18 class III heat shock protein
+OG0007550	PvWBCH1.1NG101300.1.v1.1	GDSL esterase/lipase
+OG0007580	Td00001aa032796_T001	Peroxidase
+OG0007585	Td00001aa032831_T002	Pectinesterase
+OG0007666	Td00001aa008177_T001	chitinase
+OG0007678	Misin19G275200.1.v7.1	"Cell elongation protein diminuto, putative"
+OG0007678	Sn00001aa063593_T002	Cell elongation protein DIMINUTO
+OG0007696	Td00001aa034727_T001	Lipid binding protein
+OG0007712	Misin19G162800.1.v7.1	Transmembrane 9 superfamily member
+OG0007712	PvWBCH1.4KG182800.1.v1.1	Transmembrane 9 superfamily member
+OG0007794	Ag00001aa033409_T001	Golgin subfamily A member 2-like
+OG0007798	PvWBCH1.5KG266500.1.v1.1	Glutathione S-transferase
+OG0007798	Sn00001aa007255_T001	Glutathione S-transferase
+OG0007874	Td00001aa039970_T008	non-specific serine/threonine protein kinase
+OG0007876	Td00001aa013578_T001	Polygalacturonase
+OG0007920	Td00001aa013611_T001	Fasciclin-like arabinogalactan protein 8
+OG0007954	Misin07G241900.1.v7.1	Serrate RNA effector molecule
+OG0008092	Ag00001aa047463_T001	protein-disulfide reductase
+OG0008092	PvWBCH1.5KG333000.1.v1.1	protein-disulfide reductase
+OG0008092	Td00001aa010670_T002	protein-disulfide reductase
+OG0008114	Td00001aa025510_T002	Ferulate 5-hydroxylase
+OG0008132	Td00001aa012013_T001	adenylate kinase
+OG0008133	Td00001aa012020_T001	"Leucine-rich repeat, plant specific"
+OG0008152	PvWBCH1.7KG203600.1.v1.1	Glycosyltransferase
+OG0008210	Td00001aa029363_T001	anthranilate synthase
+OG0008236	Ag00001aa044213_T001	Subtilisin-like protease
+OG0008236	Ag00001aa123881_T001	Subtilisin-like protease
+OG0008236	PvWBCH1.7NG110900.1.v1.1	Subtilisin-like protease
+OG0008270	Ag00001aa120298_T001	GH18 domain-containing protein
+OG0008288	Ag00001aa089959_T001	NSP (Nuclear shuttle protein)-interacting GTPase
+OG0008288	Misin07G090700.1.v7.1	NSP (Nuclear shuttle protein)-interacting GTPase
+OG0008324	Ag00001aa018374_T001	Anthocyanidin reductase
+OG0008355	Misin07G156500.1.v7.1	Transmembrane 9 superfamily member
+OG0008355	PvWBCH1.6NG099100.1.v1.1	Transmembrane 9 superfamily member
+OG0008355	Td00001aa038271_T001	Transmembrane 9 superfamily member
+OG0008368	PvWBCH1.3NG245100.1.v1.1	glutathione transferase
+OG0008368	Td00001aa023196_T001	glutathione transferase
+OG0008380	Td00001aa023055_T003	Delta-1-pyrroline-5-carboxylate synthase
+OG0008398	Ag00001aa064448_T001	pyruvate decarboxylase
+OG0008419	Misin16G210600.1.v7.1	Receptor like protein 29
+OG0008432	PvWBCH1.3KG169800.1.v1.1	t-SNARE coiled-coil homology domain-containing protein
+OG0008446	Misin16G044000.1.v7.1	Long-chain-fatty-acid--CoA ligase
+OG0008463	PvWBCH1.9KG321100.1.v1.1	glutathione transferase
+OG0008463	PvWBCH1.9KG321200.1.v1.1	glutathione transferase
+OG0008483	Ag00001aa020048_T001	NA
+OG0008483	PvWBCH1.9NG341200.1.v1.1	NA
+OG0008494	Ag00001aa009020_T002	UDP-glucose 4-epimerase
+OG0008494	MisinT394200.1.v7.1	UDP-glucose 4-epimerase
+OG0008494	Td00001aa014939_T002	UDP-glucose 4-epimerase
+OG0008528	Ag00001aa022335_T001	Safener induced1
+OG0008528	Sn00001aa010629_T001	Safener induced1
+OG0008538	PvWBCH1.9KG413800.1.v1.1	UDP-glucuronate decarboxylase
+OG0008538	Sn00001aa010667_T001	UDP-glucuronate decarboxylase
+OG0008548	Td00001aa019363_T002	phosphoenolpyruvate carboxykinase (ATP)
+OG0008575	Td00001aa014042_T002	Alcohol dehydrogenase
+OG0008582	Ag00001aa015171_T001	NA
+OG0008582	Ag00001aa018649_T001	Embryonic protein DC-8
+OG0008582	Ag00001aa021532_T001	Embryonic protein DC-8
+OG0008582	Misin01G469600.1.v7.1	Embryonic protein DC-8
+OG0008582	PvWBCH1.9KG488800.1.v1.1	Embryonic protein DC-8
+OG0008608	PvWBCH1.4KG111200.1.v1.1	"Formate dehydrogenase, mitochondrial"
+OG0008608	PvWBCH1.4NG094400.1.v1.1	"Formate dehydrogenase, mitochondrial"
+OG0008608	Sn00001aa074601_T001	"Formate dehydrogenase, mitochondrial"
+OG0008632	Td00001aa035198_T002	Microtubule-associated protein 70-2 isoform X2
+OG0008648	PvWBCH1.3KG087700.1.v1.1	UMP-CMP kinase
+OG0008665	Td00001aa037189_T002	ENTH domain-containing protein
+OG0008674	Td00001aa037279_T002	"Starch synthase, chloroplastic/amyloplastic"
+OG0008755	PvWBCH1.2KG279700.1.v1.1	RHOMBOID-like protein (Fragment)
+OG0008788	PvWBCH1.3NG336500.1.v1.1	Peroxidase
+OG0008796	Td00001aa040072_T001	Peptidase A1 domain-containing protein
+OG0008806	PvWBCH1.1NG058800.1.v1.1	cinnamyl-alcohol dehydrogenase
+OG0008809	Misin07G084900.1.v7.1	Transcription initiation factor TFIID subunit 15b-like isoform X1
+OG0008874	PvWBCH1.6KG019300.1.v1.1	L-gulonolactone oxidase
+OG0008882	Misin06G106700.1.v7.1	Cysteine proteinase inhibitor
+OG0008882	PvWBCH1.5NG112200.1.v1.1	Cysteine proteinase inhibitor
+OG0008882	Sn00001aa021863_T001	Cysteine proteinase inhibitor
+OG0008918	Misin16G013800.1.v7.1	Cupin type-1 domain-containing protein
+OG0008918	Td00001aa030219_T001	Cupin type-1 domain-containing protein
+OG0008943	Td00001aa023611_T003	Abscisic acid receptor PYL8
+OG0008960	PvWBCH1.2KG401400.1.v1.1	Pyrrolidone-carboxylate peptidase
+OG0009045	Td00001aa002280_T001	Fiber protein Fb34
+OG0009085	Td00001aa020997_T002	AB hydrolase-1 domain-containing protein
+OG0009087	Td00001aa001759_T002	Methyltransferase
+OG0009096	PvWBCH1.2KG222900.1.v1.1	GOST seven transmembrane domain-containing protein
+OG0009116	PvWBCH1.2KG240500.1.v1.1	Isoamylase-type starch debranching enzyme3
+OG0009116	PvWBCH1.2NG216600.1.v1.1	Isoamylase-type starch debranching enzyme3
+OG0009129	PvWBCH1.2NG232500.1.v1.1	"Heat shock 70 kDa protein, mitochondrial"
+OG0009186	Sn00001aa091713_T003	GTP-BINDING PROTEIN RAB6
+OG0009193	Td00001aa021651_T001	ATP synthase gamma chain
+OG0009203	Td00001aa000669_T001	Glycosyltransferase
+OG0009291	Td00001aa024100_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009363	Misin02G078400.1.v7.1	Endoglucanase
+OG0009363	PvWBCH1.9KG088900.1.v1.1	Endoglucanase
+OG0009378	Td00001aa027406_T001	NA
+OG0009392	Misin01G120000.1.v7.1	DUF538 domain-containing protein
+OG0009403	Misin01G131700.1.v7.1	Small GTP binding protein Rab5
+OG0009410	Misin02G112800.1.v7.1	Chaperone protein dnaJ 3
+OG0009411	Td00001aa027151_T001	CSL zinc finger domain-containing protein
+OG0009444	Ag00001aa028565_T001	Low-temperature-induced 65 kDa protein
+OG0009444	Ag00001aa041516_T001	Low-temperature-induced 65 kDa protein
+OG0009444	Ag00001aa121107_T001	Low-temperature-induced 65 kDa protein
+OG0009444	Misin02G173100.1.v7.1	NA
+OG0009444	PvWBCH1.9KG185700.1.v1.1	Low-temperature-induced 65 kDa protein
+OG0009444	PvWBCH1.9NG181900.1.v1.1	Low-temperature-induced 65 kDa protein
+OG0009444	Sn00001aa004579_T001	NA
+OG0009496	PvWBCH1.5KG009200.1.v1.1	AAA+ ATPase domain-containing protein
+OG0009496	PvWBCH1.5NG010300.1.v1.1	AAA+ ATPase domain-containing protein
+OG0009496	Sn00001aa040888_T001	AAA+ ATPase domain-containing protein
+OG0009496	Td00001aa008864_T001	"Lon protease homolog, mitochondrial isoform X2"
+OG0009496	Td00001aa033829_T001	AAA+ ATPase domain-containing protein
+OG0009505	Misin05G021700.1.v7.1	4-methyl-5-thiazole monophosphate biosynthesis protein
+OG0009507	PvWBCH1.5KG016800.1.v1.1	Trichome birefringence-like N-terminal domain-containing protein
+OG0009509	Td00001aa033760_T001	Heme-binding protein 2
+OG0009527	Misin07G136300.1.v7.1	Equilibrative nucleotide transporter 1
+OG0009529	PvWBCH1.5KG033000.1.v1.1	Fe2OG dioxygenase domain-containing protein
+OG0009569	Ag00001aa118606_T001	Putative calcium-binding protein CML16
+OG0009585	Td00001aa033955_T003	Aldehyde dehydrogenase
+OG0009593	PvWBCH1.4NG251700.1.v1.1	Clathrin light chain
+OG0009593	Sn00001aa062042_T001	Clathrin light chain
+OG0009593	Td00001aa026412_T001	Clathrin light chain
+OG0009618	Td00001aa005684_T001	NA
+OG0009680	Misin14G027400.1.v7.1	Calcineurin B-like protein (Fragment)
+OG0009746	Misin07G346000.1.v7.1	Pectinesterase inhibitor domain-containing protein
+OG0009757	Ag00001aa029719_T002	Calmodulin-binding protein 60 B
+OG0009757	Misin07G366600.1.v7.1	Calmodulin-binding protein 60 B
+OG0009761	Misin07G367300.1.v7.1	glutathione transferase
+OG0009772	PvWBCH1.9KG335200.1.v1.1	Brassinosteroid synthesis1
+OG0009783	Ag00001aa055541_T001	GrpE protein homolog
+OG0009809	Ag00001aa055898_T001	Dehydrin
+OG0009809	PvWBCH1.1NG251700.1.v1.1	Dehydrin
+OG0009809	Td00001aa004040_T001	Dehydrin
+OG0009809	Td00001aa017178_T001	Dehydrin
+OG0009861	Td00001aa003648_T002	Nucleobase-ascorbate transporter 6
+OG0009897	Td00001aa003350_T001	DNA replication licensing factor MCM5
+OG0009913	Misin07G547500.1.v7.1	K Homology domain-containing protein
+OG0009913	PvWBCH1.1NG352100.1.v1.1	K Homology domain-containing protein
+OG0009913	Td00001aa017835_T001	K Homology domain-containing protein
+OG0009930	Td00001aa005038_T001	Seed biotin-containing protein SBP65
+OG0009942	Ag00001aa139153_T001	Protein TIME FOR COFFEE
+OG0010033	PvWBCH1.5KG392000.1.v1.1	Putative methyltransferase PMT25
+OG0010033	Td00001aa011016_T004	Putative methyltransferase PMT25
+OG0010051	Ag00001aa031817_T001	chitinase
+OG0010057	PvWBCH1.5KG371100.1.v1.1	"Alpha-glucan phosphorylase, H isozyme"
+OG0010057	PvWBCH1.5NG357200.1.v1.1	"Alpha-glucan phosphorylase, H isozyme"
+OG0010072	Td00001aa026247_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0010082	Ag00001aa151368_T001	Peroxidase
+OG0010125	Td00001aa024999_T001	Thioesterase domain-containing protein
+OG0010140	Td00001aa011239_T001	MSP domain-containing protein
+OG0010152	Td00001aa008397_T002	Non-specific lipid-transfer protein
+OG0010191	Ag00001aa047794_T002	Malic enzyme
+OG0010191	Ag00001aa141013_T001	Malic enzyme
+OG0010191	PvWBCH1.5KG299900.1.v1.1	Malic enzyme
+OG0010191	PvWBCH1.5NG286600.1.v1.1	Malic enzyme
+OG0010191	Sn00001aa007068_T001	Malic enzyme
+OG0010191	Td00001aa010483_T001	Malic enzyme
+OG0010227	PvWBCH1.6NG120700.1.v1.1	UspA domain-containing protein
+OG0010227	Td00001aa007217_T002	UspA domain-containing protein
+OG0010266	Ag00001aa017786_T001	"15.7 kDa heat shock protein, peroxisomal-like"
+OG0010283	PvWBCH1.5NG169800.1.v1.1	Peroxidase
+OG0010336	PvWBCH1.7KG230700.1.v1.1	"Multiple organellar RNA editing factor 2, chloroplastic"
+OG0010346	Td00001aa028539_T001	Polygalacturonase QRT3
+OG0010347	PvWBCH1.7KG240100.1.v1.1	UDP-N-acetylglucosamine diphosphorylase
+OG0010347	Td00001aa012271_T001	UDP-N-acetylglucosamine diphosphorylase
+OG0010347	Td00001aa028535_T002	UDP-N-acetylglucosamine diphosphorylase
+OG0010361	Sn00001aa086694_T001	Glucose-1-phosphate adenylyltransferase
+OG0010361	Td00001aa020796_T002	Glucose-1-phosphate adenylyltransferase
+OG0010376	Ag00001aa021282_T001	glutathione transferase
+OG0010376	Td00001aa013672_T001	glutathione transferase
+OG0010377	Ag00001aa021281_T001	glutathione transferase
+OG0010380	Misin01G496800.1.v7.1	Calcium-binding EF hand family protein
+OG0010399	PvWBCH1.9NG518000.1.v1.1	T-complex protein 1 subunit delta
+OG0010453	Td00001aa031791_T002	UBX domain-containing protein
+OG0010523	Td00001aa022333_T001	Protein kinase domain-containing protein
+OG0010544	PvWBCH1.3NG271800.1.v1.1	Glyoxysomal fatty acid beta-oxidation multifunctional protein MFP-a
+OG0010573	Sn00001aa018414_T003	Triose phosphate isomerase5
+OG0010616	PvWBCH1.7NG293600.1.v1.1	4-coumarate--CoA ligase
+OG0010649	Ag00001aa007270_T001	V-type proton ATPase subunit D
+OG0010650	Td00001aa012141_T001	ABC transporter B family member 19
+OG0010651	Sn00001aa085238_T001	Fibronectin type III-like domain-containing protein
+OG0010710	Ag00001aa124402_T001	chitinase
+OG0010710	Td00001aa012719_T001	chitinase
+OG0010710	Td00001aa029174_T001	chitinase
+OG0010748	PvWBCH1.5KG444200.1.v1.1	Plectin/eS10 N-terminal domain-containing protein
+OG0010777	PvWBCH1.9KG495500.1.v1.1	SMP domain-containing protein
+OG0010777	Td00001aa013828_T001	SMP domain-containing protein
+OG0010826	PvWBCH1.7NG170500.1.v1.1	CLIP-associated protein
+OG0010826	Td00001aa029104_T001	CLIP-associated protein
+OG0010901	PvWBCH1.1NG299100.1.v1.1	NA
+OG0010927	Td00001aa023188_T001	Beta-hexosaminidase
+OG0010948	Ag00001aa064399_T001	NA
+OG0010948	PvWBCH1.3KG230100.1.v1.1	NA
+OG0011004	Ag00001aa007822_T001	SHSP domain-containing protein
+OG0011009	PvWBCH1.4NG080700.1.v1.1	Starch synthase catalytic domain-containing protein
+OG0011068	PvWBCH1.9NG348600.1.v1.1	"Flavonoid 3',5'-hydroxylase"
+OG0011068	Td00001aa018922_T002	"Flavonoid 3',5'-hydroxylase"
+OG0011089	Ag00001aa019743_T001	Probable leucine-rich repeat receptor-like protein kinase At5g49770
+OG0011089	MisinT437000.1.v7.1	Probable leucine-rich repeat receptor-like protein kinase At5g49770
+OG0011110	Td00001aa014621_T001	AB hydrolase-1 domain-containing protein
+OG0011134	Ag00001aa022087_T001	Small ribosomal subunit protein uS10 domain-containing protein
+OG0011144	Misin01G421800.1.v7.1	Transmembrane 9 superfamily member
+OG0011144	PvWBCH1.9KG440300.1.v1.1	Transmembrane 9 superfamily member
+OG0011144	Td00001aa014316_T001	Transmembrane 9 superfamily member
+OG0011183	PvWBCH1.9KG470600.1.v1.1	inositol-3-phosphate synthase
+OG0011183	Td00001aa014170_T002	inositol-3-phosphate synthase
+OG0011230	PvWBCH1.4KG117700.1.v1.1	Selenoprotein O
+OG0011282	Sn00001aa044627_T001	Thioredoxin domain-containing protein
+OG0011308	Td00001aa037462_T002	H15 domain-containing protein
+OG0011325	PvWBCH1.8KG041700.1.v1.1	Abscisic stress ripening
+OG0011382	Td00001aa000911_T001	C2 domain-containing protein
+OG0011466	Td00001aa035459_T004	Esterase
+OG0011466	Td00001aa037301_T003	Esterase
+OG0011547	PvWBCH1.6KG016800.1.v1.1	Carbohydrate kinase PfkB domain-containing protein
+OG0011547	Sn00001aa076816_T003	Carbohydrate kinase PfkB domain-containing protein
+OG0011573	Td00001aa006536_T002	Chalcone-flavonone isomerase family protein
+OG0011574	PvWBCH1.8NG007300.1.v1.1	Non-specific lipid-transfer protein
+OG0011591	Td00001aa014223_T001	Beta-hexosaminidase
+OG0011610	Ag00001aa122642_T001	Subtilisin-chymotrypsin inhibitor-2A
+OG0011610	Ag00001aa127927_T001	NA
+OG0011661	Td00001aa006485_T001	VAMP protein SEC22
+OG0011701	Td00001aa040535_T001	Putative LRR receptor-like serine/threonine-protein kinase
+OG0011742	Td00001aa002603_T003	Chloroplast mRNA-binding protein CSP41 (Fragment)
+OG0011754	PvWBCH1.2KG092500.1.v1.1	rRNA N-glycosidase
+OG0011783	Td00001aa002316_T001	Alpha-galactosidase
+OG0011784	Ag00001aa001505_T001	Aquaporin
+OG0011784	Misin03G107200.1.v7.1	Plasma membrane intrinsic protein 2
+OG0011784	PvWBCH1.2KG132000.1.v1.1	Aquaporin plasma membrane intrinsic protein 2-1
+OG0011784	PvWBCH1.2NG109100.1.v1.1	Aquaporin
+OG0011803	Td00001aa002093_T001	E2 ubiquitin-conjugating protein UBC5
+OG0011850	Td00001aa021055_T002	"20 kDa chaperonin, chloroplastic"
+OG0011860	Td00001aa001592_T001	1-aminocyclopropane-1-carboxylate oxidase (Fragment)
+OG0011875	Td00001aa001507_T002	Coatomer subunit zeta
+OG0011920	PvWBCH1.2KG291400.1.v1.1	UspA domain-containing protein
+OG0011924	PvWBCH1.2KG298900.1.v1.1	High mobility group B protein 2
+OG0011931	PvWBCH1.2KG303500.1.v1.1	Transmembrane 9 superfamily member
+OG0011982	Misin14G099700.1.v7.1	Phospho-2-dehydro-3-deoxyheptonate aldolase
+OG0011982	PvWBCH1.2KG389100.1.v1.1	Phospho-2-dehydro-3-deoxyheptonate aldolase
+OG0011982	Sn00001aa081139_T001	Phospho-2-dehydro-3-deoxyheptonate aldolase
+OG0012018	PvWBCH1.9KG006700.1.v1.1	ADP-ribosylation factor GTPase-activating protein AGD8
+OG0012018	Td00001aa023972_T001	ADP-ribosylation factor GTPase-activating protein AGD8
+OG0012032	Ag00001aa071693_T001	Actin-depolymerizing factor 2
+OG0012032	PvWBCH1.9KG029500.1.v1.1	Actin-depolymerizing factor 3
+OG0012032	PvWBCH1.9NG029700.1.v1.1	Actin-depolymerizing factor 3
+OG0012032	Td00001aa024207_T001	Actin-depolymerizing factor 3
+OG0012053	Ag00001aa027119_T002	Stem-specific protein TSJT1
+OG0012053	Td00001aa024379_T002	Stem-specific protein TSJT1
+OG0012064	Ag00001aa027254_T002	Cytochrome b-c1 complex subunit 7
+OG0012064	Sn00001aa005661_T003	Cytochrome b-c1 complex subunit 7
+OG0012079	PvWBCH1.9KG080200.1.v1.1	Lysosomal beta glucosidase
+OG0012082	Td00001aa024674_T003	YTH domain-containing family protein
+OG0012087	Td00001aa027502_T001	sulfate adenylyltransferase
+OG0012127	Misin01G123100.1.v7.1	NA
+OG0012165	PvWBCH1.9NG156900.1.v1.1	UDP-arabinopyranose mutase
+OG0012165	Sn00001aa022808_T001	UDP-arabinopyranose mutase
+OG0012185	Td00001aa025492_T002	Methionine gamma-lyase
+OG0012209	Td00001aa026843_T001	ALOG domain-containing protein
+OG0012263	PvWBCH1.5KG009700.1.v1.1	Water stress and hypersensitive response domain-containing protein
+OG0012283	PvWBCH1.9KG103900.1.v1.1	C2 domain-containing protein
+OG0012343	Misin07G008200.1.v7.1	Kinesin light chain
+OG0012343	Td00001aa005791_T001	Kinesin light chain
+OG0012452	Misin07G119900.1.v7.1	Plasma membrane-associated cation-binding protein 1
+OG0012452	PvWBCH1.1KG132500.1.v1.1	Plasma membrane-associated cation-binding protein 1
+OG0012452	PvWBCH1.1NG121300.1.v1.1	Plasma membrane-associated cation-binding protein 1
+OG0012452	Td00001aa005184_T001	Plasma membrane-associated cation-binding protein 1
+OG0012494	Td00001aa004529_T003	Photolyase/cryptochrome alpha/beta domain-containing protein
+OG0012515	Td00001aa004295_T001	Temperature-induced lipocalin
+OG0012580	Td00001aa003768_T001	Transmembrane 9 superfamily member
+OG0012590	Misin08G281600.1.v7.1	Peptidase M48 domain-containing protein
+OG0012593	Td00001aa003659_T005	Katanin p60 ATPase-containing subunit A1 isoform X1
+OG0012601	PvWBCH1.1KG320900.1.v1.1	Fibronectin type III-like domain-containing protein
+OG0012645	Misin08G317700.1.v7.1	Clathrin interactor EPSIN 2
+OG0012693	Td00001aa024176_T005	"D-xylose-proton symporter-like 3, chloroplastic"
+OG0012704	PvWBCH1.9KG080100.1.v1.1	Lysosomal beta glucosidase
+OG0012748	PvWBCH1.5NG409300.1.v1.1	Coiled-coil domain-containing protein SCD2
+OG0012814	PvWBCH1.4KG269700.1.v1.1	Ras-related protein RABA3
+OG0012873	Ag00001aa108923_T001	Peroxidase
+OG0012906	Td00001aa008406_T001	Non-green plastid inner envelope membrane protein
+OG0012924	Sn00001aa006768_T001	Cysteine proteinase inhibitor
+OG0012974	Td00001aa007428_T002	Alliinase C-terminal domain-containing protein
+OG0013076	PvWBCH1.2KG347500.1.v1.1	"Bifunctional monothiol glutaredoxin-S16, chloroplastic"
+OG0013077	Td00001aa028811_T001	alpha-L-fucosidase
+OG0013118	Sn00001aa081364_T002	Probable UDP-arabinose 4-epimerase 2
+OG0013157	Td00001aa036507_T001	SHSP domain-containing protein
+OG0013211	PvWBCH1.6KG173800.1.v1.1	D-3-phosphoglycerate dehydrogenase
+OG0013211	Td00001aa035935_T002	D-3-phosphoglycerate dehydrogenase
+OG0013243	Ag00001aa068063_T001	Argonaute 4
+OG0013274	Misin16G125400.1.v7.1	UDP-glucuronate decarboxylase
+OG0013274	PvWBCH1.3KG283200.1.v1.1	UDP-glucuronate decarboxylase
+OG0013321	PvWBCH1.5NG360500.1.v1.1	Nematode resistance protein-like HSPRO2
+OG0013350	Td00001aa025429_T004	Protein DETOXIFICATION
+OG0013356	PvWBCH1.9NG214900.1.v1.1	H(+)/Pi cotransporter
+OG0013374	PvWBCH1.7KG293000.1.v1.1	K(+) efflux antiporter 2 chloroplastic
+OG0013440	Td00001aa029161_T001	(+)-neomenthol dehydrogenase
+OG0013447	Misin12G126200.1.v7.1	Malate synthase
+OG0013447	Td00001aa029231_T001	Malate synthase
+OG0013540	PvWBCH1.9KG533800.1.v1.1	"Protein tyrosine phosphatase, putative, expressed"
+OG0013561	Sn00001aa030309_T001	Adenosine kinase
+OG0013568	Misin11G171000.1.v7.1	Calcium-transporting ATPase
+OG0013568	Sn00001aa088201_T001	Calcium-transporting ATPase
+OG0013568	Td00001aa012305_T002	Calcium-transporting ATPase
+OG0013568	Td00001aa028586_T001	Calcium-transporting ATPase
+OG0013614	Td00001aa001268_T005	Beta-glucosidase 31
+OG0013638	PvWBCH1.1KG346900.1.v1.1	Hexosyltransferase
+OG0013655	PvWBCH1.1NG143900.1.v1.1	Cysteine protease1
+OG0013655	Td00001aa004869_T001	Cysteine protease1
+OG0013692	Ag00001aa064445_T001	Phospholipid-binding protein
+OG0013692	Ag00001aa069057_T001	Phospholipid-binding protein
+OG0013692	Misin17G176700.1.v7.1	NA
+OG0013692	PvWBCH1.3KG225700.1.v1.1	PEBP (Phosphatidylethanolamine-binding protein) family protein
+OG0013692	Sn00001aa103117_T001	NA
+OG0013692	Td00001aa031042_T001	PEBP (Phosphatidylethanolamine-binding protein) family protein
+OG0013697	Ag00001aa104490_T001	NADP-dependent oxidoreductase domain-containing protein
+OG0013697	Misin17G174300.1.v7.1	NADP-dependent oxidoreductase domain-containing protein
+OG0013697	PvWBCH1.3KG223000.1.v1.1	NADP-dependent oxidoreductase domain-containing protein
+OG0013697	Sn00001aa092671_T001	Aldehyde reductase
+OG0013697	Td00001aa022969_T001	Aldose reductase
+OG0013788	Td00001aa015632_T001	Transcription factor
+OG0013792	Ag00001aa023590_T001	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10-B
+OG0013841	PvWBCH1.9KG358700.1.v1.1	t-SNARE coiled-coil homology domain-containing protein
+OG0013853	PvWBCH1.9KG379800.1.v1.1	ABC transporter domain-containing protein
+OG0013879	PvWBCH1.9KG404800.1.v1.1	Asparagine synthetase [glutamine-hydrolyzing]
+OG0013895	PvWBCH1.9KG422400.1.v1.1	LIM zinc-binding domain-containing protein
+OG0013925	Td00001aa019475_T001	Anaerobic nitrite reductase GLB1
+OG0013978	PvWBCH1.9KG531400.1.v1.1	Remorin C-terminal domain-containing protein
+OG0013978	Td00001aa013480_T001	Remorin C-terminal domain-containing protein
+OG0014019	Misin18G127100.1.v7.1	65-kDa microtubule-associated protein 1
+OG0014037	PvWBCH1.4KG107600.1.v1.1	"Alternative NAD(P)H-ubiquinone oxidoreductase C1, chloroplastic/mitochondrial"
+OG0014048	Ag00001aa086826_T001	Sucrose synthase
+OG0014048	Sn00001aa093821_T001	Sucrose synthase
+OG0014076	PvWBCH1.4KG022800.1.v1.1	Glycine cleavage T-protein family
+OG0014108	Misin09G146400.1.v7.1	GOST seven transmembrane domain-containing protein
+OG0014118	Misin05G140500.1.v7.1	"Outer envelope pore protein 16-2, chloroplastic"
+OG0014118	PvWBCH1.5NG129100.1.v1.1	"Outer envelope pore protein 16-2, chloroplastic"
+OG0014118	Td00001aa032866_T001	"Outer envelope pore protein 16-2, chloroplastic"
+OG0014135	Td00001aa009381_T001	Nodulin-related protein 1
+OG0014160	Misin14G145400.1.v7.1	Ureidoglycolate hydrolase
+OG0014168	Td00001aa021716_T001	NA
+OG0014192	Misin18G152900.1.v7.1	"Alpha-glucan water dikinase, chloroplastic"
+OG0014192	PvWBCH1.4KG144600.1.v1.1	"Alpha-glucan water dikinase, chloroplastic"
+OG0014274	PvWBCH1.1NG029100.1.v1.1	X8 domain-containing protein
+OG0014274	Td00001aa005618_T001	X8 domain-containing protein
+OG0014288	Td00001aa005196_T004	RNA helicase
+OG0014297	Misin19G206700.1.v7.1	Sucrose-phosphate synthase
+OG0014299	Td00001aa018400_T001	Receptor-like protein kinase HERK 1
+OG0014368	PvWBCH1.6NG020100.1.v1.1	Probable calcium-binding protein CML7
+OG0014368	Sn00001aa049357_T001	Putative calcium-binding protein CML7
+OG0014368	Td00001aa032602_T001	Putative calcium-binding protein CML7
+OG0014422	Td00001aa013920_T001	Sucrose transporter
+OG0014428	Td00001aa023916_T001	Polygalacturonase inhibitor
+OG0014466	Td00001aa023759_T001	Centrosomal protein of 135 kDa-like protein
+OG0014482	Td00001aa023647_T003	Stem 28 kDa glycoprotein
+OG0014511	Sn00001aa058372_T001	Coatomer subunit delta
+OG0014578	Ag00001aa000654_T001	t-SNARE coiled-coil homology domain-containing protein
+OG0014578	Misin03G005300.1.v7.1	t-SNARE coiled-coil homology domain-containing protein
+OG0014578	PvWBCH1.2KG047300.1.v1.1	t-SNARE coiled-coil homology domain-containing protein
+OG0014578	Td00001aa040574_T002	Syntaxin-132
+OG0014638	Td00001aa002232_T001	NA
+OG0014697	Td00001aa001511_T001	glutathione transferase
+OG0014773	Misin03G281400.1.v7.1	Glucose-6-phosphate/phosphate translocator 2
+OG0014773	Td00001aa021684_T001	Glucose-6-phosphate/phosphate translocator 2
+OG0014809	Td00001aa000108_T001	Peptidase A1 domain-containing protein
+OG0014844	Td00001aa024155_T001	Protein DEFECTIVE IN EXINE FORMATION 1
+OG0014852	Td00001aa024292_T003	DUF642 domain-containing protein
+OG0014866	Td00001aa027713_T001	"Acetyltransferase, GNAT family protein, expressed"
+OG0014928	Td00001aa025035_T001	Sulfotransferase
+OG0014932	PvWBCH1.9KG129700.1.v1.1	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OG0014932	Td00001aa025078_T002	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OG0014954	Td00001aa027113_T002	"FLK, putative, expressed"
+OG0014966	Td00001aa027028_T002	Protein DETOXIFICATION
+OG0015093	Td00001aa016005_T001	SHSP domain-containing protein
+OG0015134	Ag00001aa100594_T001	"Heat shock protein, mitochondrial"
+OG0015134	PvWBCH1.1KG077700.1.v1.1	"Heat shock protein, mitochondrial"
+OG0015161	PvWBCH1.3KG026500.1.v1.1	WIBG Mago-binding domain-containing protein
+OG0015161	Td00001aa039438_T001	WIBG Mago-binding domain-containing protein
+OG0015224	Td00001aa004700_T002	ATPase inhibitor
+OG0015226	Td00001aa004680_T001	VAMP protein SEC22
+OG0015291	Td00001aa004055_T001	Harpin-induced 1
+OG0015293	PvWBCH1.1KG268000.1.v1.1	High mobility group box protein2
+OG0015293	Td00001aa017188_T002	High mobility group box protein2
+OG0015364	Td00001aa003400_T002	Diacylglycerol kinase
+OG0015372	Misin07G527200.1.v7.1	Transmembrane 9 superfamily member
+OG0015372	PvWBCH1.1NG336100.1.v1.1	Transmembrane 9 superfamily member
+OG0015409	Ag00001aa090087_T003	NAD(P)-binding Rossmann-fold superfamily protein
+OG0015414	Td00001aa016360_T001	Allene oxide synthase
+OG0015464	Sn00001aa063960_T002	UDP-D-apiose/UDP-D-xylose synthase 2
+OG0015482	Misin05G400200.1.v7.1	DUF255 domain-containing protein
+OG0015482	Sn00001aa006179_T001	DUF255 domain-containing protein
+OG0015520	Td00001aa010907_T001	Auxin transporter-like protein 1
+OG0015533	PvWBCH1.4NG248100.1.v1.1	DNA-binding protein MNB1B
+OG0015533	Td00001aa026374_T002	DNA-binding protein MNB1B
+OG0015558	Td00001aa034720_T001	Glycosyltransferases
+OG0015577	Td00001aa018155_T002	heme oxygenase (biliverdin-producing)
+OG0015584	Sn00001aa090816_T002	ATP/GTP-binding protein family
+OG0015629	Td00001aa010744_T002	"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)"
+OG0015799	Ag00001aa018455_T003	Beta-amylase
+OG0015799	Misin01G486600.1.v7.1	Beta-amylase
+OG0015799	PvWBCH1.9NG497900.1.v1.1	Beta-amylase
+OG0015799	Td00001aa013725_T006	Beta-amylase
+OG0015805	Td00001aa013675_T002	glutathione transferase
+OG0015849	Td00001aa031767_T001	STI1/HOP DP domain-containing protein
+OG0015941	PvWBCH1.5KG361700.1.v1.1	UDP-glucuronate decarboxylase
+OG0015977	Td00001aa020162_T001	W2 domain-containing protein
+OG0015977	Td00001aa034013_T001	W2 domain-containing protein
+OG0016022	PvWBCH1.7NG276800.1.v1.1	UVB-resistance protein UVR8
+OG0016022	Td00001aa012053_T002	NA
+OG0016115	Ag00001aa123995_T001	23.2 kDa heat shock protein-like
+OG0016115	Td00001aa012926_T001	Class IV heat shock protein
+OG0016115	Td00001aa029496_T001	22.0 kDa class IV heat shock protein-like
+OG0016166	Ag00001aa106444_T001	Late embryogenesis abundant
+OG0016166	Ag00001aa129885_T002	Late embryogenesis abundant
+OG0016166	Ag00001aa157044_T001	SMP domain-containing protein
+OG0016166	Misin13G081600.1.v7.1	Late embryogenesis abundant protein D-34-like
+OG0016166	PvWBCH1.6KG130100.1.v1.1	SMP domain-containing protein
+OG0016166	PvWBCH1.6NG112900.1.v1.1	SMP domain-containing protein
+OG0016204	PvWBCH1.8KG091300.1.v1.1	"Light-induced protein, chloroplastic"
+OG0016205	Td00001aa012885_T001	NA
+OG0016300	Td00001aa017572_T001	"Heat shock protein, mitochondrial"
+OG0016318	Td00001aa028828_T001	Glycosyltransferase
+OG0016334	Td00001aa004274_T001	Glutaredoxin
+OG0016350	Sn00001aa046971_T001	Pi starvation-induced protein
+OG0016449	Td00001aa015619_T001	Tobamovirus multiplication protein 2A
+OG0016454	Ag00001aa023522_T001	"39 kDa EF-Hand containing protein, putative, expressed"
+OG0016454	Sn00001aa002111_T004	"39 kDa EF-Hand containing protein, putative, expressed"
+OG0016454	Td00001aa026590_T004	"39 kDa EF-Hand containing protein, putative, expressed"
+OG0016457	PvWBCH1.9NG286200.1.v1.1	peptide-methionine (S)-S-oxide reductase
+OG0016482	Ag00001aa008535_T002	Peroxidase
+OG0016482	PvWBCH1.9KG329200.1.v1.1	Peroxidase
+OG0016482	PvWBCH1.9NG317100.1.v1.1	Peroxidase
+OG0016482	Td00001aa015308_T002	Peroxidase
+OG0016503	PvWBCH1.9NG341500.1.v1.1	Co-chaperone protein p23
+OG0016532	Td00001aa014847_T001	Receptor-like protein kinase FERONIA
+OG0016578	Ag00001aa009716_T001	Small heat shock protein 26
+OG0016578	Ag00001aa102742_T001	Small heat shock protein 26
+OG0016578	Td00001aa014362_T001	"Heat shock protein, chloroplastic"
+OG0016587	Td00001aa019447_T001	Peroxidase
+OG0016748	PvWBCH1.4KG039800.1.v1.1	Esterase
+OG0016748	PvWBCH1.4NG029400.1.v1.1	Esterase
+OG0016748	Td00001aa037305_T002	Esterase
+OG0016783	PvWBCH1.5NG112300.1.v1.1	Peroxidase
+OG0016783	Sn00001aa042255_T001	Peroxidase
+OG0016788	Misin06G101900.1.v7.1	Transcription factor Pur-alpha 1
+OG0016788	PvWBCH1.5KG112700.1.v1.1	Transcription factor Pur-alpha 1
+OG0016846	PvWBCH1.4KG036500.1.v1.1	Saposin B-type domain-containing protein
+OG0016860	PvWBCH1.8KG094400.1.v1.1	NA
+OG0016860	Td00001aa041092_T001	NA
+OG0016916	Td00001aa005911_T002	Amidohydrolase-related domain-containing protein
+OG0016973	Misin18G151700.1.v7.1	Reticulon-like protein (Fragment)
+OG0016973	Sn00001aa080797_T001	Reticulon-like protein (Fragment)
+OG0016974	Ag00001aa090489_T002	GDSL esterase/lipase
+OG0016974	PvWBCH1.4NG138300.1.v1.1	GDSL esterase/lipase
+OG0016974	Td00001aa017913_T001	GDSL esterase/lipase
+OG0016991	Td00001aa018252_T001	"Protein TIC 21, chloroplastic"
+OG0017005	PvWBCH1.4NG198100.1.v1.1	4-coumarate--CoA ligase
+OG0017005	Td00001aa018430_T003	4-coumarate--CoA ligase
+OG0017026	Misin07G150400.1.v7.1	ADP-ribosylation factor 1
+OG0017026	PvWBCH1.6NG093300.1.v1.1	ADP-ribosylation factor 1
+OG0017062	Ag00001aa092719_T001	MSP domain-containing protein
+OG0017067	MisinT036500.1.v7.1	Tryptophan synthase
+OG0017067	Sn00001aa060716_T002	Tryptophan synthase
+OG0017172	Sn00001aa057719_T001	"RAB GTPASE A2A, ARABIDOPSIS RAB GTPASE A2A, RAB GTPase 11C"
+OG0017177	PvWBCH1.3KG080800.1.v1.1	Cysteine proteinase
+OG0017181	Misin17G023300.1.v7.1	ENTH domain-containing protein
+OG0017216	PvWBCH1.3KG126400.1.v1.1	Early fruit mRNA
+OG0017265	Td00001aa020613_T001	Transmembrane protein
+OG0017278	PvWBCH1.3NG047700.1.v1.1	Glucuronoxylan 4-O-methyltransferase 1
+OG0017343	PvWBCH1.3NG322100.1.v1.1	Germin-like protein 5-1
+OG0017379	PvWBCH1.2KG138800.1.v1.1	monodehydroascorbate reductase (NADH)
+OG0017439	Sn00001aa012896_T001	Peroxidase
+OG0017500	PvWBCH1.2NG311200.1.v1.1	Beta-amylase
+OG0017537	Td00001aa024012_T001	Transferring glycosyl group transferase
+OG0017553	Ag00001aa027095_T003	Glutamate dehydrogenase
+OG0017553	Td00001aa024392_T003	Glutamate dehydrogenase
+OG0017654	Misin02G199600.1.v7.1	acetyl-CoA C-acyltransferase
+OG0017688	Ag00001aa137998_T002	L-ascorbate peroxidase
+OG0017690	Td00001aa029906_T001	Farnesylated protein 1
+OG0017751	Td00001aa016026_T002	Cell division control protein 2 homolog 2
+OG0017768	Td00001aa005500_T001	Glycine cleavage system H protein
+OG0017836	Td00001aa037706_T001	Cysteine synthase
+OG0017871	PvWBCH1.6NG124400.1.v1.1	NA
+OG0017906	PvWBCH1.1NG215900.1.v1.1	Hydroxycinnamoyltransferase 1
+OG0017969	Misin07G506600.1.v7.1	1-aminocyclopropane-1-carboxylate oxidase
+OG0017969	Td00001aa003491_T001	1-aminocyclopropane-1-carboxylate oxidase 1
+OG0017969	Td00001aa017626_T002	1-aminocyclopropane-1-carboxylate oxidase
+OG0017995	PvWBCH1.1NG355800.1.v1.1	DUF6817 domain-containing protein (Fragment)
+OG0018010	PvWBCH1.1NG094500.1.v1.1	Peroxidase
+OG0018010	Sn00001aa053626_T001	Peroxidase
+OG0018010	Td00001aa004993_T001	Peroxidase
+OG0018028	Misin01G018500.1.v7.1	Galactokinase
+OG0018028	PvWBCH1.9KG021600.1.v1.1	Galactokinase
+OG0018053	Td00001aa009581_T001	Germin-like protein 1-1
+OG0018059	Ag00001aa015322_T001	Peroxidase
+OG0018059	Ag00001aa046278_T001	Peroxidase
+OG0018134	Ag00001aa108211_T001	Peroxidase
+OG0018210	Td00001aa008567_T001	Receptor-like serine/threonine-protein kinase
+OG0018312	PvWBCH1.3KG338700.1.v1.1	Aminopeptidase
+OG0018330	Misin01G502300.1.v7.1	Blue fluorescent1
+OG0018330	Sn00001aa000144_T001	Blue fluorescent1
+OG0018330	Sn00001aa011441_T001	Blue fluorescent1
+OG0018349	PvWBCH1.6KG200500.1.v1.1	Transmembrane 9 superfamily member
+OG0018363	PvWBCH1.6NG228400.1.v1.1	monodehydroascorbate reductase (NADH)
+OG0018363	Td00001aa031973_T001	monodehydroascorbate reductase (NADH)
+OG0018442	Td00001aa027778_T002	Calcium-dependent protein kinase
+OG0018478	PvWBCH1.7KG291000.1.v1.1	Stem-specific protein TSJT1
+OG0018478	Td00001aa011954_T001	Stem-specific protein TSJT1
+OG0018543	Sn00001aa028066_T001	Ultraviolet-B receptor UVR8
+OG0018545	PvWBCH1.7KG104200.1.v1.1	L-ascorbate peroxidase
+OG0018642	Misin11G207200.1.v7.1	START domain-containing protein
+OG0018713	PvWBCH1.7NG270400.1.v1.1	NADPH--cytochrome P450 reductase
+OG0018718	Td00001aa011871_T001	Thioesterase domain-containing protein
+OG0018759	Td00001aa022922_T003	Probable leucine-rich repeat receptor-like protein kinase At5g49770
+OG0018765	PvWBCH1.3KG211600.1.v1.1	"glutamate-1-semialdehyde 2,1-aminomutase"
+OG0018769	Td00001aa022834_T001	UspA domain-containing protein
+OG0018783	PvWBCH1.3KG190900.1.v1.1	Heat shock protein 101
+OG0018783	Td00001aa022640_T001	Heat shock protein 101
+OG0018790	Sn00001aa055938_T001	Enoyl-CoA delta isomerase 3
+OG0018835	PvWBCH1.9NG279200.1.v1.1	60S ribosomal export protein NMD3
+OG0018850	PvWBCH1.9NG285000.1.v1.1	Serine/threonine-protein kinase SAPK3
+OG0018858	Td00001aa018619_T001	Beta expansin 3
+OG0018902	Ag00001aa023126_T001	Pathogenesis-related protein 1-21
+OG0018907	Ag00001aa101737_T001	EF-hand domain-containing protein
+OG0018910	Td00001aa015187_T005	Inter-alpha-trypsin inhibitor heavy chain-related
+OG0018913	Td00001aa018756_T002	Sucrose synthase
+OG0018931	Td00001aa018921_T001	Pyrrolidone-carboxylate peptidase
+OG0018947	Sn00001aa010450_T001	hydroxyacylglutathione hydrolase
+OG0019003	PvWBCH1.9NG449100.1.v1.1	Nodulin-related protein 1
+OG0019021	Ag00001aa010183_T001	3-ketoacyl-CoA synthase
+OG0019021	Misin02G454400.1.v7.1	3-ketoacyl-CoA synthase
+OG0019021	Td00001aa013976_T001	3-ketoacyl-CoA synthase
+OG0019032	Ag00001aa021483_T001	Probable histone H2A variant 1
+OG0019032	PvWBCH1.9KG493100.1.v1.1	Probable histone H2A variant 1
+OG0019133	Td00001aa037347_T001	Nucleosome assembly protein 1
+OG0019193	PvWBCH1.5NG072800.1.v1.1	Galactose mutarotase N-terminal barrel domain-containing protein
+OG0019214	Ag00001aa025656_T001	Peptidase A1 domain-containing protein
+OG0019237	Misin19G056400.1.v7.1	Caffeoyl-CoA O-methyltransferase 2
+OG0019237	Td00001aa035427_T001	Caffeoyl-CoA O-methyltransferase 2
+OG0019301	Td00001aa036100_T001	BAHD acyltransferase DCR
+OG0019331	Sn00001aa053988_T001	TATA-binding protein interacting (TIP20) domain-containing protein
+OG0019355	Misin18G197900.1.v7.1	tryptophan synthase
+OG0019417	Misin13G027300.1.v7.1	Nitrate transporter
+OG0019419	Td00001aa038686_T001	Transcription factor MYBS3
+OG0019460	Misin07G132100.1.v7.1	Polyphenol oxidase chloroplastic
+OG0019544	Sn00001aa056484_T001	Tetraspanin-3
+OG0019635	PvWBCH1.3KG115700.1.v1.1	DnaJ protein ERDJ3B
+OG0019636	PvWBCH1.3KG115800.1.v1.1	Tubulin gamma chain
+OG0019715	Td00001aa002742_T001	Xylanase inhibitor protein 1
+OG0019839	Ag00001aa026466_T001	Glutathione S-transferase T1
+OG0019855	Td00001aa024430_T001	FAS1 domain-containing protein
+OG0019922	Td00001aa025516_T002	Methyltransferase
+OG0019942	Misin01G210000.1.v7.1	Calcium ion binding
+OG0019996	Td00001aa033405_T001	UspA domain-containing protein
+OG0020022	Misin08G007700.1.v7.1	Carboxypeptidase
+OG0020036	PvWBCH1.6KG127700.1.v1.1	4-coumarate--CoA ligase
+OG0020036	Sn00001aa053936_T002	4-coumarate--CoA ligase
+OG0020036	Td00001aa005444_T003	4-coumarate--CoA ligase
+OG0020037	Td00001aa016203_T001	Ubiquitin fusion degradation protein
+OG0020040	Td00001aa005268_T001	"Glucan endo-1,3-beta-D-glucosidase"
+OG0020116	Misin08G161000.1.v7.1	Thioredoxin domain-containing protein
+OG0020214	Td00001aa003331_T001	CobW C-terminal domain-containing protein
+OG0020232	Td00001aa043199_T001	Cannabidiolic acid synthase-like
+OG0020328	PvWBCH1.4KG243800.1.v1.1	L-ascorbate oxidase
+OG0020328	Td00001aa026554_T001	SKU5 similar 4
+OG0020359	Td00001aa007867_T002	Methanethiol oxidase
+OG0020378	Td00001aa008628_T002	Mal d 1-associated protein
+OG0020387	PvWBCH1.5KG283000.1.v1.1	Prenylcysteine oxidase / farnesylcysteine lyase
+OG0020442	Ag00001aa006944_T001	NA
+OG0020442	PvWBCH1.7KG234800.1.v1.1	Embryonic protein DC-8
+OG0020455	Ag00001aa010523_T001	glutathione transferase
+OG0020468	Td00001aa031551_T001	Phosphate-induced protein
+OG0020497	Td00001aa036222_T002	Enoyl reductase (ER) domain-containing protein
+OG0020508	Misin17G257700.1.v7.1	AAA+ ATPase domain-containing protein
+OG0020515	PvWBCH1.3KG282400.1.v1.1	Peroxidase
+OG0020546	PvWBCH1.4KG001600.1.v1.1	"homogentisate 1,2-dioxygenase"
+OG0020553	PvWBCH1.9KG074200.1.v1.1	"Alpha-1,4 glucan phosphorylase"
+OG0020681	Td00001aa010869_T003	Delta-1-pyrroline-5-carboxylate synthase
+OG0020709	PvWBCH1.7NG142000.1.v1.1	Agmatine deiminase
+OG0020716	Td00001aa028852_T001	"Protein TRIGALACTOSYLDIACYLGLYCEROL 1, chloroplastic"
+OG0020723	Misin12G201000.1.v7.1	(S)-2-hydroxy-acid oxidase
+OG0020736	Td00001aa028224_T001	"Beta-fructofuranosidase, insoluble isoenzyme 7"
+OG0020806	Misin12G110200.1.v7.1	Bet v I/Major latex protein domain-containing protein
+OG0020806	PvWBCH1.7KG131500.1.v1.1	Bet v I/Major latex protein domain-containing protein
+OG0020806	Td00001aa029351_T001	Bet v I/Major latex protein domain-containing protein
+OG0020832	Td00001aa003563_T002	RRM domain-containing protein
+OG0020846	Td00001aa042603_T001	NA
+OG0020878	Td00001aa022737_T001	GTP-binding protein RIC2
+OG0020906	Ag00001aa023812_T001	SHSP domain-containing protein
+OG0020952	Misin01G316300.1.v7.1	Clp R domain-containing protein
+OG0020952	Sn00001aa001519_T001	Clp R domain-containing protein
+OG0020952	Td00001aa018793_T002	Clp R domain-containing protein
+OG0020982	PvWBCH1.9KG375900.1.v1.1	Sucrose synthase
+OG0020982	Sn00001aa014328_T001	Sucrose synthase
+OG0020982	Td00001aa014878_T002	Sucrose synthase
+OG0021020	PvWBCH1.9KG450300.1.v1.1	Atypical receptor-like kinase MARK
+OG0021020	Sn00001aa011082_T002	Atypical receptor-like kinase MARK
+OG0021020	Td00001aa019499_T002	Inactive receptor kinase
+OG0021020	Td00001aa019500_T002	Atypical receptor-like kinase MARK
+OG0021021	Td00001aa014231_T001	X8 domain-containing protein
+OG0021022	Ag00001aa009888_T001	Heat shock 70 kDa protein 8
+OG0021022	Ag00001aa019017_T001	Heat shock 70 kDa protein 8
+OG0021022	PvWBCH1.9NG442300.1.v1.1	Heat shock 70 kDa protein 8
+OG0021022	Sn00001aa014825_T001	Heat shock 70 kDa protein 8
+OG0021022	Td00001aa019508_T001	Heat shock 70 kDa protein 8
+OG0021027	Td00001aa019565_T001	Metal transporter
+OG0021080	Td00001aa025644_T004	"Cytochrome P450, family 86, subfamily B, polypeptide 1"
+OG0021183	Misin03G213900.1.v7.1	chitinase
+OG0021197	Td00001aa000125_T004	Beta-glucosidase 26
+OG0021204	Sn00001aa043139_T003	Monocopper oxidase-like protein SKU5
+OG0021215	Td00001aa005972_T003	Lipoxygenase
+OG0021221	Td00001aa041145_T001	Small GTP binding protein Rab5
+OG0021271	PvWBCH1.6NG158500.1.v1.1	12-oxophytodienoate reductase 3
+OG0021271	Td00001aa032228_T002	12-oxophytodienoate reductase 3
+OG0021310	PvWBCH1.4KG210900.1.v1.1	Glutaredoxin-dependent peroxiredoxin
+OG0021328	Td00001aa026124_T002	Xyloglucan endotransglucosylase/hydrolase
+OG0021347	Td00001aa032450_T002	MOB kinase activator-like 1A
+OG0021366	PvWBCH1.6NG042500.1.v1.1	MSP domain-containing protein
+OG0021369	Td00001aa032334_T001	X8 domain-containing protein
+OG0021387	Sn00001aa050368_T002	Hcy-binding domain-containing protein
+OG0021411	Sn00001aa014103_T002	Phospho-2-dehydro-3-deoxyheptonate aldolase
+OG0021411	Td00001aa015117_T001	Phospho-2-dehydro-3-deoxyheptonate aldolase
+OG0021482	Td00001aa030292_T001	Peroxidase
+OG0021543	PvWBCH1.9KG381100.1.v1.1	"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)"
+OG0021543	PvWBCH1.9NG371600.1.v1.1	"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)"
+OG0021543	Sn00001aa001175_T001	"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)"
+OG0021543	Sn00001aa010461_T001	"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)"
+OG0021544	Ag00001aa019936_T001	"Quinone-oxidoreductase homolog, chloroplastic"
+OG0021560	Td00001aa039218_T001	Selenium binding
+OG0021580	PvWBCH1.3KG054000.1.v1.1	Glutathione transferase
+OG0021580	PvWBCH1.3NG049700.1.v1.1	Glutathione transferase
+OG0021706	Misin04G126800.1.v7.1	Inosine/uridine-preferring nucleoside hydrolase domain-containing protein
+OG0021725	Td00001aa001700_T002	Tetraspanin-8
+OG0021785	Td00001aa024225_T002	Trichome birefringence-like N-terminal domain-containing protein
+OG0021805	Misin01G106600.1.v7.1	Luminal-binding protein
+OG0021862	Td00001aa023670_T002	Subtilisin-like protease
+OG0021867	Misin05G014300.1.v7.1	Ras-related protein Rab7
+OG0021867	Td00001aa008860_T001	Ras-related protein Rab7
+OG0021874	MisinT206400.1.v7.1	galactinol--sucrose galactosyltransferase
+OG0021874	PvWBCH1.5KG046700.1.v1.1	galactinol--sucrose galactosyltransferase
+OG0021930	Td00001aa006364_T001	PHD finger protein ALFIN-LIKE
+OG0021955	Td00001aa004721_T002	"1,4-alpha-glucan branching enzyme"
+OG0022016	Ag00001aa031593_T001	DUF6817 domain-containing protein (Fragment)
+OG0022089	PvWBCH1.4KG161300.1.v1.1	DJ-1/PfpI domain-containing protein
+OG0022089	PvWBCH1.4NG138000.1.v1.1	DJ-1/PfpI domain-containing protein
+OG0022194	Misin16G248000.1.v7.1	Water stress and hypersensitive response domain-containing protein
+OG0022194	PvWBCH1.3KG148200.1.v1.1	Water stress and hypersensitive response domain-containing protein
+OG0022195	Sn00001aa100959_T001	Glucose-1-phosphate adenylyltransferase
+OG0022338	Td00001aa029482_T001	OBP3-responsive gene 4
+OG0022344	Td00001aa029258_T001	peptide-methionine (S)-S-oxide reductase
+OG0022377	Misin09G141100.1.v7.1	NADH-ubiquinone reductase complex 1 MLRQ subunit
+OG0022377	PvWBCH1.8KG137800.1.v1.1	NA
+OG0022407	Ag00001aa053088_T001	ATP-dependent 6-phosphofructokinase 2
+OG0022407	PvWBCH1.7KG134800.1.v1.1	ATP-dependent 6-phosphofructokinase 2
+OG0022407	Sn00001aa030610_T001	ATP-dependent 6-phosphofructokinase 2
+OG0022407	Td00001aa012809_T001	ATP-dependent 6-phosphofructokinase 2
+OG0022454	Misin17G173700.1.v7.1	Aminotransferase class-III
+OG0022470	Ag00001aa064944_T001	Late embryogenesis abundant protein 3
+OG0022470	Ag00001aa069574_T002	Late embryogenesis abundant protein 3
+OG0022470	Ag00001aa111933_T001	Late embryogenesis abundant protein 3
+OG0022470	Misin17G219700.1.v7.1	NA
+OG0022470	PvWBCH1.3KG178100.1.v1.1	Late embryogenesis abundant protein 3
+OG0022470	PvWBCH1.3NG170900.1.v1.1	Late embryogenesis abundant protein 3
+OG0022470	Sn00001aa056018_T001	ABA-inducible protein PHV A1
+OG0022470	Td00001aa022594_T002	"Late embryogenesis abundant protein, group 3"
+OG0022523	Td00001aa015104_T001	NA
+OG0022555	PvWBCH1.9KG452300.1.v1.1	Hexose transporter
+OG0022613	PvWBCH1.9KG191900.1.v1.1	Fe2OG dioxygenase domain-containing protein
+OG0022616	Misin01G122900.1.v7.1	Nitrate transporter
+OG0022616	PvWBCH1.9KG121800.1.v1.1	Nitrate transporter
+OG0022616	Td00001aa025021_T003	Nitrate transporter
+OG0022704	Ag00001aa012571_T001	Aconitate hydratase
+OG0022704	Td00001aa021652_T001	Aconitate hydratase
+OG0022793	PvWBCH1.4KG235200.1.v1.1	Vacuolar-sorting receptor 6
+OG0022880	Misin01G380100.1.v7.1	"Enoyl-CoA hydratase/isomerase family protein, expressed"
+OG0022918	Td00001aa030489_T001	"NifU-like protein 4, mitochondrial"
+OG0022996	Td00001aa015624_T001	Pyruvate kinase
+OG0023022	Td00001aa027623_T001	Allene oxide synthase
+OG0023177	Td00001aa027593_T001	DM2 domain-containing protein
+OG0023272	Misin08G045800.1.v7.1	SNF1-related protein kinase regulatory subunit gamma-like PV42a
+OG0023522	PvWBCH1.9KG158400.1.v1.1	Subtilisin-like protease
+OG0023522	PvWBCH1.9NG155100.1.v1.1	Subtilisin-like protease
+OG0023544	Sn00001aa029587_T002	DJ-1 homolog D
+OG0023556	Td00001aa029010_T001	"Protein RETICULATA, chloroplastic"
+OG0023572	PvWBCH1.7NG099500.1.v1.1	"1,4-alpha-glucan branching enzyme"
+OG0023572	Td00001aa029686_T003	"1,4-alpha-glucan branching enzyme"
+OG0023602	Misin09G173300.1.v7.1	NA
+OG0023602	Misin10G188700.1.v7.1	14-3-3 domain-containing protein
+OG0023666	Td00001aa029103_T003	NADP-dependent oxidoreductase domain-containing protein
+OG0023680	Td00001aa017416_T001	Peptidase A1 domain-containing protein
+OG0023730	Ag00001aa008378_T001	glutathione transferase
+OG0023753	Misin01G418600.1.v7.1	Senescence domain-containing protein
+OG0023753	PvWBCH1.9KG437600.1.v1.1	Senescence domain-containing protein
+OG0023754	PvWBCH1.9KG439300.1.v1.1	Purple acid phosphatase
+OG0023776	Td00001aa033616_T002	1-aminocyclopropane-1-carboxylate oxidase
+OG0023941	Sn00001aa099345_T002	Protein HEAT-STRESS-ASSOCIATED 32
+OG0023941	Td00001aa026443_T002	Protein HEAT-STRESS-ASSOCIATED 32
+OG0023978	Td00001aa009603_T001	Aspartic proteinase
+OG0023989	Td00001aa011790_T001	Microtubule-associated protein 70-2
+OG0024018	Td00001aa010582_T001	Lysosomal Pro-X carboxypeptidase
+OG0024024	Ag00001aa106500_T001	12-oxophytodienoate reductase 1
+OG0024036	Ag00001aa127536_T001	transketolase
+OG0024036	PvWBCH1.7NG050900.1.v1.1	transketolase
+OG0024036	Sn00001aa082341_T001	transketolase
+OG0024057	Td00001aa018057_T003	Beta-galactosidase 4
+OG0024297	Sn00001aa023974_T001	Dipeptidylpeptidase IV N-terminal domain-containing protein
+OG0024297	Td00001aa027912_T001	Dipeptidylpeptidase IV N-terminal domain-containing protein
+OG0024301	PvWBCH1.9KG020900.1.v1.1	AB hydrolase-1 domain-containing protein
+OG0024318	Ag00001aa027609_T001	NA
+OG0024318	Td00001aa027412_T001	Dehydrin
+OG0024384	Sn00001aa035637_T001	Golgi apparatus membrane protein TVP15
+OG0024584	Td00001aa008789_T014	Glutamate carboxypeptidase 2
+OG0024802	PvWBCH1.3KG138400.1.v1.1	Nucleoside diphosphate kinase
+OG0024802	PvWBCH1.3NG130600.1.v1.1	Nucleoside diphosphate kinase
+OG0024817	Misin18G109800.1.v7.1	Pyruvate dehydrogenase E1 component subunit alpha
+OG0024817	PvWBCH1.4KG085600.1.v1.1	Pyruvate dehydrogenase E1 component subunit alpha
+OG0024817	PvWBCH1.4NG073500.1.v1.1	Pyruvate dehydrogenase E1 component subunit alpha
+OG0024817	Td00001aa036836_T001	Pyruvate dehydrogenase E1 component subunit alpha
+OG0024848	Sn00001aa042093_T001	UDP-glucuronate decarboxylase
+OG0025004	Ag00001aa102138_T001	Alanine-glyoxylate aminotransferase
+OG0025011	Td00001aa022732_T002	Globin domain-containing protein
+OG0025082	Td00001aa039340_T001	Abscisic stress ripening
+OG0025089	PvWBCH1.9KG395300.1.v1.1	"Outer envelope pore protein 16-2, chloroplastic"
+OG0025089	Sn00001aa014488_T001	"Outer envelope pore protein 16-2, chloroplastic"
+OG0025315	PvWBCH1.9KG134700.1.v1.1	VOC domain-containing protein
+OG0025315	PvWBCH1.9NG133300.1.v1.1	VOC domain-containing protein
+OG0025357	Ag00001aa107539_T001	rRNA N-glycosylase
+OG0025357	Ag00001aa116892_T001	rRNA N-glycosylase
+OG0025362	Misin03G046400.1.v7.1	tryptophan synthase
+OG0025413	PvWBCH1.1NG098700.1.v1.1	Sodium/calcium exchanger family protein / calcium-binding EF hand family protein
+OG0025808	PvWBCH1.8KG139700.1.v1.1	Xyloglucan endotransglucosylase/hydrolase
+OG0025808	Td00001aa042095_T001	Xyloglucan endotransglucosylase/hydrolase
+OG0025930	Td00001aa027099_T001	Fe2OG dioxygenase domain-containing protein
+OG0025960	Td00001aa002186_T003	"Short-chain dehydrogenase TIC 32, chloroplastic"
+OG0026292	Ag00001aa076340_T001	NA
+OG0026582	Td00001aa002372_T002	"Starch synthase, chloroplastic/amyloplastic"
+OG0026667	Td00001aa006273_T001	Phytase
+OG0026755	PvWBCH1.3NG389900.1.v1.1	CP-type G domain-containing protein
+OG0026957	PvWBCH1.9KG328200.1.v1.1	"Pyruvate, phosphate dikinase"
+OG0026987	PvWBCH1.3KG355300.1.v1.1	9beta-hydroxy-syn-pimar-15-ene synthase
+OG0026991	PvWBCH1.4KG166000.1.v1.1	FAD-binding PCMH-type domain-containing protein
+OG0028054	Td00001aa012628_T001	Aromatic amino acid beta-eliminating lyase/threonine aldolase domain-containing protein
+OG0028138	PvWBCH1.9NG437100.1.v1.1	Lecithin-cholesterol acyltransferase-like 1
+OG0029632	PvWBCH1.2NG099200.1.v1.1	12-oxophytodienoate reductase 1
+OG0029692	PvWBCH1.9KG334500.1.v1.1	Glycosyltransferase
+OG0032047	PvWBCH1.6KG147500.1.v1.1	L-gulonolactone oxidase
+OG0032943	Misin08G052900.1.v7.1	Tubulin/FtsZ GTPase domain-containing protein
+OG0033092	Ag00001aa146322_T001	WIBG Mago-binding domain-containing protein
+OG0034881	Misin02G051900.1.v7.1	Alpha tubulin (Fragment)
+OG0035043	Td00001aa033634_T001	Fungal lipase-type domain-containing protein
+OG0035217	Td00001aa005179_T001	FAD-binding PCMH-type domain-containing protein
+OG0035352	Misin12G270100.1.v7.1	DJ-1 homolog D
+OG0035880	PvWBCH1.6NG115600.1.v1.1	Glycosyltransferase
+OG0035897	Td00001aa034417_T002	Indole-2-monooxygenase
+OG0037012	Td00001aa034501_T001	O-methyltransferase 2
+OG0037479	Td00001aa038053_T001	"Starch synthase, chloroplastic/amyloplastic"
+OG0038035	Ag00001aa143464_T001	NA
+OG0038518	Ag00001aa040607_T001	NA
+OG0039078	Misin12G096700.1.v7.1	NADP-dependent oxidoreductase domain-containing protein
+OG0039451	Ag00001aa051029_T001	Aquaporin
+OG0040618	Ag00001aa083729_T005	glycerophosphodiester phosphodiesterase
+OG0041136	Ag00001aa099855_T001	Preproricin (Fragment)
+OG0042291	Misin01G050700.1.v7.1	"Stem-specific protein TSJT1, putative, expressed"
+OG0043297	Misin07G542400.1.v7.1	Putative voltage-gated potassium channel subunit beta
+OG0044253	PvWBCH1.1NG356400.1.v1.1	Cell elongation protein DIMINUTO
+OG0044516	PvWBCH1.3KG055400.1.v1.1	NA
+OG0044901	PvWBCH1.5KG263500.1.v1.1	chitinase
+OG0045179	PvWBCH1.7KG298400.1.v1.1	Peroxidase
+OG0045179	PvWBCH1.7NG298100.1.v1.1	Peroxidase
+OG0045335	PvWBCH1.9NG186500.1.v1.1	AB hydrolase-1 domain-containing protein
+OG0045376	PvWBCH1.9KG319800.1.v1.1	glutathione transferase
+OG0050407	Td00001aa025549_T001	NA
+OG0051254	Td00001aa034418_T002	tryptophan synthase
+OG0051255	Td00001aa034420_T001	Indolin-2-one monooxygenase
+OG0051256	Td00001aa034421_T001	3-hydroxyindolin-2-one monooxygenase
+OG0051958	Td00001aa040338_T001	Abscisic stress ripening
+OG0052122	Td00001aa006611_T001	Peroxidase
+OG0053759	Td00001aa022118_T001	NudC domain-containing protein 2

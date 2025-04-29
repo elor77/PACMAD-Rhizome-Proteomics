@@ -1,0 +1,34 @@
+protein_id	protein_id_base	orthogroup	short_name	species	log2FC	padj	description
+Ag00001aa004315_T001	Ag00001aa004315	OG0002772	Ag00001aa004315	Ag	-0.0709665213541436	1	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Ag00001aa005079_T001	Ag00001aa005079	OG0003463	Ag00001aa005079	Ag	0.15704371014558002	0.163282673645782	Eukaryotic peptide chain release factor GTP-binding subunit
+Ag00001aa013456_T001	Ag00001aa013456	OG0002772	Ag00001aa013456	Ag	0.08270258933024935	1	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Ag00001aa024074_T001	Ag00001aa024074	OG0002772	Ag00001aa024074	Ag	-0.1109159014018506	0.38979609318522	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Ag00001aa090727_T001	Ag00001aa090727	OG0000037	Ag00001aa090727	Ag	-0.496142467422571	0.198056846685052	Elongation factor 1-alpha
+Ag00001aa103966_T001	Ag00001aa103966	OG0000037	Ag00001aa103966	Ag	-0.4150374992788438	0.4134473216969	Elongation factor 1-alpha
+Ag00001aa148336_T001	Ag00001aa148336	OG0000037	Ag00001aa148336	Ag	-0.33642766458247736	0.787533293977791	Elongation factor 1-alpha
+Ag00001aa151642_T001	Ag00001aa151642	OG0000037	Ag00001aa151642	Ag	-0.2276920250415967	0.929837286948408	Elongation factor 1-alpha
+Misin03G325500.1.v7.1	Misin03G325500.1.v7.1	OG0000037	Misin03G325500	Mg	0.19655241640118817	0.817209841905073	Elongation factor 1-alpha
+Misin03G331800.1.v7.1	Misin03G331800.1.v7.1	OG0011388	Misin03G331800	Mg	0.11141063496177354	1	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Misin04G386000.1.v7.1	Misin04G386000.1.v7.1	OG0002772	Misin04G386000	Mg	0.03332402025789127	0.19991613884892	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Misin11G034900.1.v7.1	Misin11G034900.1.v7.1	OG0003463	Misin11G034900	Mg	0.24957569372667995	0.00869621397246158	Eukaryotic peptide chain release factor GTP-binding subunit
+Misin16G119500.1.v7.1	Misin16G119500.1.v7.1	OG0000037	Misin16G119500	Mg	0.3143903502947653	0.53115178798895	Elongation factor 1-alpha
+Misin18G180600.1.v7.1	Misin18G180600.1.v7.1	OG0000037	Misin18G180600	Mg	0.25125500179073273	0.835566721179256	Elongation factor 1-alpha
+PvWBCH1.1NG170400.1.v1.1	PvWBCH1.1NG170400.1.v1.1	OG0000037	PvWBCH1.1NG170400	Pv	-0.13606154957602837	1	Elongation factor 1-alpha
+PvWBCH1.2KG383800.1.v1.1	PvWBCH1.2KG383800.1.v1.1	OG0011388	PvWBCH1.2KG383800	Pv	0.27500704749986976	1	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+PvWBCH1.2KG410500.1.v1.1	PvWBCH1.2KG410500.1.v1.1	OG0000037	PvWBCH1.2KG410500	Pv	0.21661006874244176	1	Elongation factor 1-alpha
+PvWBCH1.2NG380200.1.v1.1	PvWBCH1.2NG380200.1.v1.1	OG0002772	PvWBCH1.2NG380200	Pv	0.05241589415113853	1	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+PvWBCH1.7KG042300.1.v1.1	PvWBCH1.7KG042300.1.v1.1	OG0003463	PvWBCH1.7KG042300	Pv	0.3895668117627256	0.00178043854568827	Eukaryotic peptide chain release factor GTP-binding subunit
+PvWBCH1.7NG043500.1.v1.1	PvWBCH1.7NG043500.1.v1.1	OG0003463	PvWBCH1.7NG043500	Pv	0.4615285594728771	0.2414060402801	Eukaryotic peptide chain release factor GTP-binding subunit
+Sn00001aa003917_T001	Sn00001aa003917	OG0002772	Sn00001aa003917	Sn	-0.34923544088309766	0.124157057635085	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Sn00001aa011707_T001	Sn00001aa011707	OG0002772	Sn00001aa011707	Sn	-0.4500844463780446	1	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Sn00001aa055325_T001	Sn00001aa055325	OG0000037	Sn00001aa055325	Sn	-0.5374241119577958	0.914573108198986	Elongation factor 1-alpha
+Sn00001aa065833_T003	Sn00001aa065833	OG0003463	Sn00001aa065833	Sn	0.6294731967869486	0.793117790212351	Eukaryotic peptide chain release factor GTP-binding subunit
+Sn00001aa083564_T001	Sn00001aa083564	OG0003463	Sn00001aa083564	Sn	0.25096157353321874	1	Eukaryotic peptide chain release factor GTP-binding subunit
+Td00001aa000086_T002	Td00001aa000086	OG0002772	Td00001aa000086	Trip	0.26019807636849646	0.0931877675818175	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Td00001aa000336_T002	Td00001aa000336	OG0011388	Td00001aa000336	Trip	0.4721186692045427	0.00264060412071757	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein
+Td00001aa000646_T001	Td00001aa000646	OG0000037	Td00001aa000646	Trip	-0.422752464406849	0.317798903559542	Elongation factor 1-alpha
+Td00001aa013264_T003	Td00001aa013264	OG0003463	Td00001aa013264	Trip	-0.0293290201838016	0.918447633053048	Eukaryotic peptide chain release factor GTP-binding subunit
+Td00001aa018119_T001	Td00001aa018119	OG0000037	Td00001aa018119	Trip	0.13455657591144052	0.0568013523818929	Elongation factor 1-alpha
+Td00001aa023457_T002	Td00001aa023457	OG0000037	Td00001aa023457	Trip	0.17440067722696223	0.0361492124952747	Elongation factor 1-alpha
+Td00001aa029928_T001	Td00001aa029928	OG0003463	Td00001aa029928	Trip	-0.18856918084196	0.865533004059105	Eukaryotic peptide chain release factor GTP-binding subunit
+Td00001aa030742_T001	Td00001aa030742	OG0011388	Td00001aa030742	Trip	0.45947126389034443	0.0593744943391762	Translation elongation factor EF1B beta/delta subunit guanine nucleotide exchange domain-containing protein

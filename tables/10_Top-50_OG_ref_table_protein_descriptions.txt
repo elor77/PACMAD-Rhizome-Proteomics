@@ -1,0 +1,159 @@
+Orthogroup	desc	BP_desc	Cold-related category	N Rows
+OG0000034	Heat shock protein 70	protein folding	Protein folding / stability	3
+OG0000034	Heat shock protein 70	protein folding	Protein folding / stability	1
+OG0000104	glutathione transferase	glutathione metabolic process	Detoxification / ROS scavenging	1
+OG0000110	Heat shock protein 83	protein folding	Protein folding / stability	1
+OG0000166	"Chlorophyll a-b binding protein, chloroplastic"	response to light stimulus	Other	2
+OG0000288	Class I heat shock protein 1	protein folding	Protein folding / stability	13
+OG0000288	Class I heat shock protein 1	protein folding	Protein folding / stability	1
+OG0000289	Alcohol dehydrogenase 1	formaldehyde catabolic process	Metabolism / osmoregulation	1
+OG0000523	NADP-dependent oxidoreductase domain-containing protein	unknown	Detoxification / ROS scavenging	3
+OG0000568	Ent-isokaurene C2-hydroxylase	defense response	Other	2
+OG0000642	Glutathione S-transferase	glutathione metabolic process	Detoxification / ROS scavenging	4
+OG0000642	Glutathione S-transferase	glutathione metabolic process	Detoxification / ROS scavenging	1
+OG0000642	Glutathione S-transferase	glutathione metabolic process	Detoxification / ROS scavenging	1
+OG0000646	Lipoxygenase	defense response	Cold signal transduction	1
+OG0000823	Glutathione S-transferase	glutathione metabolic process	Detoxification / ROS scavenging	1
+OG0000863	Xylanase inhibitor protein 1	cell wall macromolecule catabolic process	Other	1
+OG0001162	Syntaxins	unknown	Cytoskeleton stability	1
+OG0001162	Syntaxins	unknown	Cytoskeleton stability	1
+OG0001162	Syntaxins	unknown	Cytoskeleton stability	2
+OG0001296	Thioredoxin domain-containing protein	response to oxidative stress	Detoxification / ROS scavenging	1
+OG0001439	Non-specific lipid-transfer protein	lipid transport	Lipid metabolism	2
+OG0001891	Phosphoglycerate kinase	glycolytic process	Metabolism / osmoregulation	1
+OG0001959	chitinase	cell wall macromolecule catabolic process	Other	1
+OG0001959	chitinase	cell wall macromolecule catabolic process	Other	3
+OG0002524	GRAM domain-containing protein	maintenance of seed dormancy by absisic acid	Other	1
+OG0002524	GRAM domain-containing protein	maintenance of seed dormancy by absisic acid	Other	5
+OG0002545	Dehydrin	response to water deprivation	Protein aggregation / membrane stability	1
+OG0002559	MPN domain-containing protein	protein-RNA complex assembly	Other	1
+OG0002718	"Glucan endo-1,3-beta-glucosidase 13"	carbohydrate metabolic process	Metabolism / osmoregulation	1
+OG0003421	KOW domain-containing protein	ribosomal large subunit biogenesis	Other	1
+OG0003555	"1,4-alpha-glucan branching enzyme"	starch metabolic process	Metabolism / osmoregulation	1
+OG0003720	Dienelactone hydrolase domain-containing protein	unknown	Detoxification / ROS scavenging	1
+OG0004932	Isoflavone 2'-hydroxylase	organic substance metabolic process	Other	1
+OG0004932	Isoflavone 2'-hydroxylase	organic substance metabolic process	Other	1
+OG0004961	Fe2OG dioxygenase domain-containing protein	unknown	Detoxification / ROS scavenging	1
+OG0005018	"Multiple organellar RNA editing factor 2, chloroplastic-like"	mitochondrial mRNA modification	Other	1
+OG0005269	Ribonuclease 1	RNA catabolic process	Other	1
+OG0005483	Small heat shock protein HSP17.8	protein folding	Protein folding / stability	5
+OG0005710	UspA domain-containing protein	response to oxidative stress	Other	2
+OG0005715	Eukaryotic translation initiation factor 3 subunit G	formation of cytoplasmic translation initiation complex	Other	1
+OG0005796	Peroxidase	response to oxidative stress	Detoxification / ROS scavenging	2
+OG0006288	Transmembrane protein		Other	1
+OG0006927	"Chlorophyll a-b binding protein, chloroplastic"	response to light stimulus	Other	1
+OG0006941	Zeamatin	defense response	Antifreeze	3
+OG0007520	Class III heat shock protein	protein folding	Protein folding / stability	2
+OG0007798	Glutathione S-transferase	glutathione metabolic process	Detoxification / ROS scavenging	1
+OG0007798	Glutathione S-transferase	glutathione metabolic process	Detoxification / ROS scavenging	1
+OG0008092	protein-disulfide reductase	cellular oxidant detoxification	Detoxification / ROS scavenging	1
+OG0008092	protein-disulfide reductase	cellular oxidant detoxification	Detoxification / ROS scavenging	1
+OG0008270	GH18 domain-containing protein	carbohydrate metabolic process	Other	1
+OG0008398	pyruvate decarboxylase	aromatic amino acid family catabolic process to alcohol via Ehrlich pathway	Metabolism / osmoregulation	1
+OG0008483	uncharacterized protein	unknown	Other	1
+OG0008494	UDP-glucose 4-epimerase	galactose metabolic process	Metabolism / osmoregulation	1
+OG0008494	UDP-glucose 4-epimerase	galactose metabolic process	Metabolism / osmoregulation	1
+OG0008528	Safener induced1	cellular oxidant detoxification	Detoxification / ROS scavenging	1
+OG0008548	phosphoenolpyruvate carboxykinase (ATP)	gluconeogenesis	Metabolism / osmoregulation	1
+OG0008582	Embryonic protein DC-8	response to water deprivation	Protein aggregation / membrane stability	6
+OG0008648	UMP-CMP kinase	ATP metabolic process	Metabolism / osmoregulation	1
+OG0008674	"Starch synthase, chloroplastic/amyloplastic"	endosperm development	Metabolism / osmoregulation	1
+OG0008882	Cysteine proteinase inhibitor	defense response	Other	1
+OG0009444	Low-temperature-induced 65 kDa protein	response to abscisic acid	Protein aggregation / membrane stability	8
+OG0009496	AAA+ ATPase domain-containing protein	proteolysis	Protein folding / stability	2
+OG0009509	Heme-binding protein 2	proteolysis	Detoxification / ROS scavenging	1
+OG0009809	Dehydrin	response to water deprivation	Protein aggregation / membrane stability	4
+OG0009930	Seed biotin-containing protein SBP65		Other	1
+OG0010082	Peroxidase	response to oxidative stress	Detoxification / ROS scavenging	1
+OG0010191	Malic enzyme	malate metabolic process	Metabolism / osmoregulation	5
+OG0010227	UspA domain-containing protein	response to oxidative stress	Other	1
+OG0010361	Glucose-1-phosphate adenylyltransferase	starch biosynthetic process	Metabolism / osmoregulation	1
+OG0010710	chitinase	cell wall macromolecule catabolic process	Other	1
+OG0010710	chitinase	cell wall macromolecule catabolic process	Other	1
+OG0010777	Late embryogenesis abundant protein D-34-like	response to water deprivation	Protein aggregation / membrane stability	1
+OG0010901	uncharacterized protein	unknown	Other	1
+OG0011379	Intracellular ribonuclease LX	RNA catabolic process	Other	2
+OG0011742	"Chloroplast stem-loop binding protein of 41 kDa a, chloroplastic"	rRNA processing	Other	1
+OG0012032	Actin-depolymerizing factor 3	actin filament depolymerization	Cytoskeleton stability	1
+OG0012032	Actin-depolymerizing factor 3	actin filament depolymerization	Cytoskeleton stability	3
+OG0012053	Actin-depolymerizing factor 3	actin filament depolymerization	Cytoskeleton stability	1
+OG0012053	Actin-depolymerizing factor 3	actin filament depolymerization	Cytoskeleton stability	1
+OG0012185	Methionine gamma-lyase	protein homotetramerization	Detoxification / ROS scavenging	1
+OG0012263	Water stress and hypersensitive response domain-containing protein	response to desiccation	Protein aggregation / membrane stability	1
+OG0012515	Temperature-induced lipocalin	response to reactive oxygen species	Protein aggregation / membrane stability	2
+OG0012924	Cysteine proteinase inhibitor	defense response	Other	1
+OG0013321	Nematode resistance protein-like HSPRO2	defense response	Other	1
+OG0013350	Protein DETOXIFICATION	xenobiotic detoxification by transmembrane export across the plasma membrane	Detoxification / ROS scavenging	1
+OG0013447	Malate synthase	glyoxylate cycle	Metabolism / osmoregulation	1
+OG0013568	Calcium-transporting ATPase	response to water deprivation	Cold signal transduction	1
+OG0013614	Beta-glucosidase 31	carbohydrate metabolic process	Metabolism / osmoregulation	1
+OG0013692	Phosphatidylethanolamine-binding protein	unknown	Lipid metabolism	2
+OG0013692	Phosphatidylethanolamine-binding protein	unknown	Lipid metabolism	1
+OG0013692	Phosphatidylethanolamine-binding protein	unknown	Lipid metabolism	2
+OG0013692	Phosphatidylethanolamine-binding protein	unknown	Lipid metabolism	1
+OG0013697	Aldose reductase	unknown	Metabolism / osmoregulation	1
+OG0013697	Aldose reductase	unknown	Metabolism / osmoregulation	2
+OG0013697	Aldose reductase	unknown	Metabolism / osmoregulation	3
+OG0014118	"Outer envelope pore protein 16-2, chloroplastic"	amino acid transmembrane transport	Other	4
+OG0014160	Ureidoglycolate hydrolase	ureide catabolic process	Other	2
+OG0014428	Polygalacturonase inhibitor		Other	1
+OG0014638	SMP domain-containing protein	lipid transport	Lipid metabolism	2
+OG0014966	Protein DETOXIFICATION	xenobiotic detoxification by transmembrane export across the plasma membrane	Detoxification / ROS scavenging	1
+OG0015134	"Heat shock protein, mitochondrial"	protein folding	Protein folding / stability	1
+OG0015134	"Heat shock protein, mitochondrial"	protein folding	Protein folding / stability	2
+OG0015161	WIBG Mago-binding domain-containing protein	response to oxidative stress	Other	2
+OG0015224	ATPase inhibitor	unknown	Metabolism / osmoregulation	1
+OG0015482	DUF255 domain-containing protein	carbohydrate metabolic process	Other	1
+OG0015799	Beta-amylase	polysaccharide catabolic process	Metabolism / osmoregulation	1
+OG0016115	22.0 kDa class IV heat shock protein-like	protein folding	Protein folding / stability	2
+OG0016115	22.0 kDa class IV heat shock protein-like	protein folding	Protein folding / stability	1
+OG0016166	SMP domain-containing protein	lipid transport	Lipid metabolism	1
+OG0016454	39 kDa EF-Hand containing protein	calcium ion binding	Cold signal transduction	1
+OG0016454	"39 kDa EF-Hand containing protein, putative, expressed"	calcium ion binding	Cold signal transduction	3
+OG0016578	"Small heat shock protein, chloroplastic"	response to heat	Protein folding / stability	2
+OG0016578	"Small heat shock protein, chloroplastic"	response to heat	Protein folding / stability	2
+OG0016973	Reticulon-like protein (Fragment)	unknown	Other	2
+OG0017067	Tryptophan synthase	response to oxidative stress	Metabolism / osmoregulation	1
+OG0017265	Transmembrane protein		Other	1
+OG0017439	Peroxidase	response to oxidative stress	Detoxification / ROS scavenging	1
+OG0017690	Farnesylated protein 1	unknown	Other	1
+OG0018330	Blue fluorescent1	tryptophan biosynthetic process	Other	2
+OG0018783	Chaperone protein ClpB1	cellular response to heat	Protein aggregation / membrane stability	1
+OG0019331	TATA-binding protein interacting (TIP20) domain-containing protein	protein ubiquitination	Other	1
+OG0019355	Tryptophan synthase	tryptophan biosynthetic process	Metabolism / osmoregulation	1
+OG0020367	Permatin	response to external stimulus	Other	1
+OG0020387	Embryo-abundant protein EMB-like	methylation	Protein aggregation / membrane stability	1
+OG0020442	Embryonic protein DC-8	response to water deprivation	Protein aggregation / membrane stability	1
+OG0020723	(S)-2-hydroxy-acid oxidase	response to other organism	Metabolism / osmoregulation	1
+OG0020952	Clp R domain-containing protein	response to heat	Protein folding / stability	1
+OG0020982	Sucrose synthase	response to water deprivation	Metabolism / osmoregulation	1
+OG0021022	Heat shock 70 kDa protein 8	protein folding	Protein folding / stability	1
+OG0021543	"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)"	glucose catabolic process	Metabolism / osmoregulation	3
+OG0021805	Luminal-binding protein 5	protein folding	Protein folding / stability	1
+OG0022194	Water stress and hypersensitive response domain-containing protein	response to desiccation	Protein aggregation / membrane stability	1
+OG0022195	Glucose-1-phosphate adenylyltransferase	starch biosynthetic process	Metabolism / osmoregulation	1
+OG0022377	NADH-ubiquinone reductase complex 1 MLRQ subunit	unknown	Metabolism / osmoregulation	1
+OG0022377	NADH-ubiquinone reductase complex 1 MLRQ subunit	unknown	Metabolism / osmoregulation	1
+OG0022407	ATP-dependent 6-phosphofructokinase 2	glycolytic process through fructose-6-phosphate	Metabolism / osmoregulation	2
+OG0022470	lea protein group3	response to water deprivation	Protein aggregation / membrane stability	1
+OG0022470	lea protein group3	response to water deprivation	Protein aggregation / membrane stability	9
+OG0022704	Aconitate hydratase	citrate metabolic process	Metabolism / osmoregulation	1
+OG0022704	Aconitate hydratase	citrate metabolic process	Metabolism / osmoregulation	2
+OG0022807	GrpE protein homolog	protein folding	Protein folding / stability	1
+OG0023753	Senescence domain-containing protein	unknown	Cold signal transduction	1
+OG0023941	Protein HEAT-STRESS-ASSOCIATED 32	heat acclimation	Protein folding / stability	1
+OG0024036	transketolase	pentose-phosphate shunt	Metabolism / osmoregulation	1
+OG0024297	Dipeptidylpeptidase IV N-terminal domain-containing protein	unknown	Other	2
+OG0024318	Dehydrin		Protein aggregation / membrane stability	1
+OG0024384	Golgi apparatus membrane protein TVP15	unknown	Other	1
+OG0025011	Non-symbiotic hemoglobin	oxygen transport	Detoxification / ROS scavenging	2
+OG0025041	Germin-like protein 8-14		Detoxification / ROS scavenging	1
+OG0025089	"Outer envelope pore protein 16-2, chloroplastic"	amino acid transmembrane transport	Other	2
+OG0025315	VOC domain-containing protein	response to oxidative stress	Other	1
+OG0025374	GDSL esterase/lipase	lipid metabolic process	Lipid metabolism	1
+OG0025930	gibberellin 20-oxidase4	response to molecule of fungal origin	Other	1
+OG0026582	"Starch synthase, chloroplastic/amyloplastic"	starch biosynthetic process	Metabolism / osmoregulation	1
+OG0026991	FAD-binding PCMH-type domain-containing protein	unknown	Metabolism / osmoregulation	1
+OG0029632	12-oxophytodienoate reductase 1	defense response	Other	1
+OG0037479	"Starch synthase, chloroplastic/amyloplastic"	starch biosynthetic process	Metabolism / osmoregulation	1
+OG0051958	Abscisic stress ripening	response to water deprivation	Cold signal transduction	2

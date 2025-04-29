@@ -1,0 +1,301 @@
+rank,species,protein_id,orthogroup,log2FC,DAP,description,BP
+1,Ag,Ag00001aa069057_T001,OG0013692,2.7204973704823456,Up,Phospholipid-binding protein,NA
+2,Ag,Ag00001aa124402_T001,OG0010710,2.7057567820497974,Up,chitinase,polysaccharide catabolic process
+3,Ag,Ag00001aa071693_T001,OG0012032,2.685043089476681,Up,Actin-depolymerizing factor 2,actin filament depolymerization
+4,Ag,Ag00001aa122642_T001,OG0011610,2.6470842126289535,Up,Subtilisin-chymotrypsin inhibitor-2A,response to wounding
+5,Ag,Ag00001aa157044_T001,OG0016166,2.636682617168484,Up,SMP domain-containing protein,NA
+6,Ag,Ag00001aa069574_T002,OG0022470,2.595503660502742,Up,Late embryogenesis abundant protein 3,cold acclimation
+7,Ag,Ag00001aa111933_T001,OG0022470,2.541019153133559,Up,Late embryogenesis abundant protein 3,cold acclimation
+8,Ag,Ag00001aa114791_T001,OG0002925,2.453649266043291,Up,NA,NA
+9,Ag,Ag00001aa020048_T001,OG0008483,2.4515408330178317,Up,NA,NA
+10,Ag,Ag00001aa014453_T001,OG0000288,2.3881895371560837,Up,Class I heat shock protein 1,protein folding
+11,Ag,Ag00001aa078823_T001,OG0000288,2.3801753117420255,Up,Class I heat shock protein 1,protein folding
+12,Ag,Ag00001aa064944_T001,OG0022470,2.339137384919585,Up,Late embryogenesis abundant protein 3,cold acclimation
+13,Ag,Ag00001aa120298_T001,OG0008270,2.283329168051641,Up,GH18 domain-containing protein,carbohydrate metabolic process
+14,Ag,Ag00001aa097918_T001,OG0000288,2.2764966656403565,Up,Class I heat shock protein 1,protein folding
+15,Ag,Ag00001aa097924_T001,OG0000288,2.25368678273227,Up,Class I heat shock protein 1,protein folding
+16,Ag,Ag00001aa028565_T001,OG0009444,2.249445341085839,Up,Low-temperature-induced 65 kDa protein,response to abscisic acid
+17,Ag,Ag00001aa013246_T001,OG0005269,2.211012193485512,Up,Ribonuclease 1,anthocyanin-containing compound biosynthetic process
+18,Ag,Ag00001aa143736_T001,OG0000288,2.125320473714413,Up,Class I heat shock protein 1,protein folding
+19,Ag,Ag00001aa006944_T001,OG0020442,2.120351940365222,Up,NA,positive regulation of DNA-templated transcription
+20,Ag,Ag00001aa041516_T001,OG0009444,2.106348319505147,Up,Low-temperature-induced 65 kDa protein,response to abscisic acid
+21,Ag,Ag00001aa100594_T001,OG0015134,2.0854246562526777,Up,"Heat shock protein, mitochondrial",response to heat
+22,Ag,Ag00001aa052871_T001,NA,2.0765590951316044,Up,23.2 kDa heat shock protein-like,protein folding
+23,Ag,Ag00001aa121107_T001,OG0009444,2.0721058004804194,Up,Low-temperature-induced 65 kDa protein,response to abscisic acid
+24,Ag,Ag00001aa116892_T001,OG0025357,2.0538064436957937,Up,rRNA N-glycosylase,negative regulation of translation
+25,Ag,Ag00001aa023522_T001,OG0016454,2.0538064436957937,Up,"39 kDa EF-Hand containing protein, putative, expressed",NA
+26,Ag,Ag00001aa009144_T001,NA,2.035975743665129,Up,"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",glycolytic process
+27,Ag,Ag00001aa064445_T001,OG0013692,2.034919984349159,Up,Phospholipid-binding protein,NA
+28,Ag,Ag00001aa102742_T001,OG0016578,2.032100843167024,Up,Small heat shock protein 26,response to heat
+29,Ag,Ag00001aa076340_T001,OG0026292,1.973794929652606,Up,NA,NA
+30,Ag,Ag00001aa064448_T001,OG0008398,1.9392265777282087,Up,pyruvate decarboxylase,aromatic amino acid family catabolic process to alcohol via Ehrlich pathway
+31,Ag,Ag00001aa047463_T001,OG0008092,1.9263790251998787,Up,protein-disulfide reductase,cellular oxidant detoxification
+32,Ag,Ag00001aa099855_T001,OG0041136,1.9160944229383583,Up,Preproricin (Fragment),negative regulation of translation
+33,Ag,Ag00001aa015316_T001,OG0005796,1.8999489861896717,Up,Peroxidase,hydrogen peroxide catabolic process
+34,Ag,Ag00001aa004824_T001,OG0000654,1.899562360154693,Up,Dirigent protein (Fragment),phenylpropanoid biosynthetic process
+35,Ag,Ag00001aa022279_T001,OG0000034,1.892196710465485,Up,Heat shock protein 70,protein folding
+36,Ag,Ag00001aa156538_T001,OG0000110,1.8675011509223944,Up,Heat shock protein 83,protein folding
+37,Ag,Ag00001aa129885_T002,OG0016166,1.8483975995281936,Up,Late embryogenesis abundant,NA
+38,Ag,Ag00001aa106444_T001,OG0016166,1.8387501183331385,Up,Late embryogenesis abundant,NA
+39,Ag,Ag00001aa004820_T001,OG0000654,1.8213020398895297,Up,Dirigent protein (Fragment),phenylpropanoid biosynthetic process
+40,Ag,Ag00001aa110604_T001,OG0001296,1.8184415757641648,Up,Thioredoxin domain-containing protein,response to cold
+41,Ag,Ag00001aa151368_T001,OG0010082,1.8122928448732711,Up,Peroxidase,hydrogen peroxide catabolic process
+42,Ag,Ag00001aa012571_T001,OG0022704,1.811881996218668,Up,Aconitate hydratase,cellular aldehyde metabolic process
+43,Ag,Ag00001aa141013_T001,OG0010191,1.8069426645777624,Up,Malic enzyme,pyruvate metabolic process
+44,Ag,Ag00001aa012894_T001,OG0006941,1.7845039829295666,Up,Zeamatin,defense response to fungus
+45,Ag,Ag00001aa123995_T001,OG0016115,1.78114985171021,Up,23.2 kDa heat shock protein-like,protein folding
+46,Ag,Ag00001aa104490_T001,OG0013697,1.7794698572951697,Up,NADP-dependent oxidoreductase domain-containing protein,NA
+47,Ag,Ag00001aa009716_T001,OG0016578,1.7523204284596705,Up,Small heat shock protein 26,response to heat
+48,Ag,Ag00001aa018649_T001,OG0008582,1.729008870337863,Up,Embryonic protein DC-8,cold acclimation
+49,Ag,Ag00001aa019394_T001,NA,1.7154541271157178,Up,Heat shock protein 70,protein folding
+50,Ag,Ag00001aa118595_T001,OG0000288,1.7110543218120664,Up,Small heat shock protein HSP,protein folding
+1,Mg,Misin09G141100.1.v7.1,OG0022377,2.9847771772757756,Up,NADH-ubiquinone reductase complex 1 MLRQ subunit,NA
+2,Mg,Misin01G469600.1.v7.1,OG0008582,2.611845794872104,Up,Embryonic protein DC-8,response to water deprivation
+3,Mg,Misin12G126200.1.v7.1,OG0013447,2.380816624539516,Up,Malate synthase,glyoxylate cycle
+4,Mg,Misin17G174300.1.v7.1,OG0013697,2.2404548128082737,Up,NADP-dependent oxidoreductase domain-containing protein,small molecule metabolic process
+5,Mg,Misin17G041200.1.v7.1,OG0000837,2.1873280477037573,Up,NA,NA
+6,Mg,MisinT394200.1.v7.1,OG0008494,2.0688298519542805,Up,UDP-glucose 4-epimerase,galactose metabolic process
+7,Mg,Misin17G219700.1.v7.1,OG0022470,2.05031217075348,Up,NA,cold acclimation
+8,Mg,Misin07G519500.1.v7.1,OG0005715,2.0452056317175273,Up,Eukaryotic translation initiation factor 3 subunit G,formation of cytoplasmic translation initiation complex
+9,Mg,Misin01G106600.1.v7.1,OG0021805,2.041464020649706,Up,Luminal-binding protein,protein folding
+10,Mg,Misin01G486600.1.v7.1,OG0015799,2.022619601684521,Up,Beta-amylase,starch metabolic process
+11,Mg,Misin12G096700.1.v7.1,OG0039078,1.999771562814678,Up,NADP-dependent oxidoreductase domain-containing protein,small molecule metabolic process
+12,Mg,Misin13G081600.1.v7.1,OG0016166,1.9931695068307325,Up,Late embryogenesis abundant protein D-34-like,NA
+13,Mg,Misin18G151700.1.v7.1,OG0016973,1.9678726797234425,Up,Reticulon-like protein (Fragment),tryptophan biosynthetic process
+14,Mg,Misin14G086000.1.v7.1,OG0002524,1.9174520289505512,Up,GRAM domain-containing protein,maintenance of seed dormancy by absisic acid
+15,Mg,Misin14G145400.1.v7.1,OG0014160,1.9030598804461365,Up,Ureidoglycolate hydrolase,purine nucleobase metabolic process
+16,Mg,MisinT036500.1.v7.1,OG0017067,1.8749205243781744,Up,Tryptophan synthase,tryptophan biosynthetic process
+17,Mg,Misin17G176700.1.v7.1,OG0013692,1.8578476160269464,Up,NA,NA
+18,Mg,MisinT206400.1.v7.1,OG0021874,1.8553323895720413,Up,galactinol--sucrose galactosyltransferase,response to water deprivation
+19,Mg,Misin02G173100.1.v7.1,OG0009444,1.825056923791063,Up,NA,response to abscisic acid
+20,Mg,Misin02G374500.1.v7.1,OG0001139,1.8063062231374805,Up,Bet v I/Major latex protein domain-containing protein,abscisic acid-activated signaling pathway
+21,Mg,Misin16G248000.1.v7.1,OG0022194,1.7977212366360331,Up,Water stress and hypersensitive response domain-containing protein,response to desiccation
+22,Mg,Misin08G045800.1.v7.1,OG0023272,1.7489703732088666,Up,SNF1-related protein kinase regulatory subunit gamma-like PV42a,embryo sac development
+23,Mg,Misin18G197900.1.v7.1,OG0019355,1.7110967936803845,Up,tryptophan synthase,tryptophan biosynthetic process
+24,Mg,Misin05G381000.1.v7.1,OG0005796,1.6770884249862987,Up,Peroxidase,hydrogen peroxide catabolic process
+25,Mg,Misin03G046400.1.v7.1,OG0025362,1.6488561173197829,Up,tryptophan synthase,tryptophan biosynthetic process
+26,Mg,Misin11G222200.1.v7.1,NA,1.5934960267674187,Up,(S)-2-hydroxy-acid oxidase,response to other organism
+27,Mg,Misin01G418600.1.v7.1,OG0023753,1.5835474000281122,Up,Senescence domain-containing protein,NA
+28,Mg,Misin01G050700.1.v7.1,OG0042291,1.542149417182183,Up,"Stem-specific protein TSJT1, putative, expressed",NA
+29,Mg,Misin18G170000.1.v7.1,OG0005873,1.5157964293322683,Up,Glutathione S-transferase,glutathione metabolic process
+30,Mg,Misin17G173700.1.v7.1,OG0022454,1.489484751059735,Up,Aminotransferase class-III,NA
+31,Mg,Misin10G188700.1.v7.1,OG0023602,1.480668473108693,Up,14-3-3 domain-containing protein,protein localization
+32,Mg,Misin02G359400.1.v7.1,OG0000596,1.470758777381406,Up,Hydroxyproline-rich glycoprotein family protein,NA
+33,Mg,Misin05G400200.1.v7.1,OG0015482,1.42449782852791,Up,DUF255 domain-containing protein,carbohydrate metabolic process
+34,Mg,Misin02G401700.1.v7.1,OG0006466,1.402622431170499,Up,anthranilate synthase,tryptophan biosynthetic process
+35,Mg,Misin17G257700.1.v7.1,OG0020508,1.395967536280257,Up,AAA+ ATPase domain-containing protein,cell division
+36,Mg,Misin05G021700.1.v7.1,OG0009505,1.394232884139548,Up,4-methyl-5-thiazole monophosphate biosynthesis protein,glyoxal metabolic process
+37,Mg,Misin05G140500.1.v7.1,OG0014118,1.3366977609223287,Up,"Outer envelope pore protein 16-2, chloroplastic",amino acid transmembrane transport
+38,Mg,Misin05G173500.1.v7.1,OG0000891,1.323165928546216,Up,"Thiamine thiazole synthase, chloroplastic",response to cold
+39,Mg,Misin03G281400.1.v7.1,OG0014773,1.306513042500675,Up,Glucose-6-phosphate/phosphate translocator 2,monocarboxylic acid transport
+40,Mg,Misin11G171000.1.v7.1,OG0013568,1.3029032692056064,Up,Calcium-transporting ATPase,response to water deprivation
+41,Mg,Misin08G281600.1.v7.1,OG0012590,1.258996839160906,Up,Peptidase M48 domain-containing protein,proteolysis involved in protein catabolic process
+42,Mg,Misin07G346000.1.v7.1,OG0009746,1.2112000064662436,Up,Pectinesterase inhibitor domain-containing protein,NA
+43,Mg,Misin19G055000.1.v7.1,OG0002559,1.2030374886916455,Up,Pre-mRNA-processing-splicing factor 8A,"mRNA splicing, via spliceosome"
+44,Mg,Misin09G173300.1.v7.1,OG0023602,1.1965686458784943,Up,NA,NA
+45,Mg,Misin12G270100.1.v7.1,OG0035352,1.1947673980108289,Up,DJ-1 homolog D,lactate biosynthetic process
+46,Mg,Misin01G502300.1.v7.1,OG0018330,1.152859731372018,Up,Blue fluorescent1,tryptophan biosynthetic process
+47,Mg,Misin01G018500.1.v7.1,OG0018028,1.1465203971073687,Up,Galactokinase,galactose metabolic process
+48,Mg,Misin07G367300.1.v7.1,OG0009761,1.138774247590945,Up,glutathione transferase,glutathione metabolic process
+49,Mg,Misin18G109800.1.v7.1,OG0024817,1.1326264600193368,Up,Pyruvate dehydrogenase E1 component subunit alpha,acetyl-CoA biosynthetic process from pyruvate
+50,Mg,Misin12G201000.1.v7.1,OG0020723,1.1145843684749526,Up,(S)-2-hydroxy-acid oxidase,response to other organism
+1,Pv,PvWBCH1.9NG479100.4.v1.1,NA,3.85169907708625,Up,Embryonic protein DC-8,response to water deprivation
+2,Pv,PvWBCH1.3NG170900.1.v1.1,OG0022470,3.6288902190278183,Up,Late embryogenesis abundant protein 3,cold acclimation
+3,Pv,PvWBCH1.9KG072500.1.v1.1,OG0004932,3.5320675522890306,Up,Isoflavone 2'-hydroxylase,NA
+4,Pv,PvWBCH1.3KG225700.1.v1.1,OG0013692,3.288949104584587,Up,PEBP (Phosphatidylethanolamine-binding protein) family protein,NA
+5,Pv,PvWBCH1.1KG182300.1.v1.1,OG0002545,3.1333991254171982,Up,Dehydrin,cold acclimation
+6,Pv,PvWBCH1.6NG112900.1.v1.1,OG0016166,3.127633279725874,Up,SMP domain-containing protein,NA
+7,Pv,PvWBCH1.3KG178100.1.v1.1,OG0022470,2.9980149292696834,Up,Late embryogenesis abundant protein 3,cold acclimation
+8,Pv,PvWBCH1.8KG137800.1.v1.1,OG0022377,2.957543200757105,Up,NA,NA
+9,Pv,PvWBCH1.5KG009700.1.v1.1,OG0012263,2.945982185997463,Up,Water stress and hypersensitive response domain-containing protein,response to desiccation
+10,Pv,PvWBCH1.9NG029700.1.v1.1,OG0012032,2.8669079781431663,Up,Actin-depolymerizing factor 3,actin filament depolymerization
+11,Pv,PvWBCH1.3KG337600.1.v1.1,OG0002524,2.828834649468056,Up,GRAM domain-containing protein,maintenance of seed dormancy by absisic acid
+12,Pv,PvWBCH1.9KG056000.1.v1.1,OG0000642,2.745667602052679,Up,Glutathione S-transferase,glutathione metabolic process
+13,Pv,PvWBCH1.5NG360500.1.v1.1,OG0013321,2.7400640588468588,Up,Nematode resistance protein-like HSPRO2,tryptophan catabolic process to kynurenine
+14,Pv,PvWBCH1.1NG299100.1.v1.1,OG0010901,2.6827979987016484,Up,NA,transmembrane transport
+15,Pv,PvWBCH1.8KG089500.1.v1.1,OG0000863,2.593592805864596,Up,Xylanase inhibitor protein 1,defense response to fungus
+16,Pv,PvWBCH1.9KG185700.1.v1.1,OG0009444,2.580627910457265,Up,Low-temperature-induced 65 kDa protein,response to abscisic acid
+17,Pv,PvWBCH1.9KG029500.1.v1.1,OG0012032,2.5651096965318345,Up,Actin-depolymerizing factor 3,actin filament depolymerization
+18,Pv,PvWBCH1.9NG181900.1.v1.1,OG0009444,2.5563067842249767,Up,Low-temperature-induced 65 kDa protein,response to abscisic acid
+19,Pv,PvWBCH1.3NG315700.1.v1.1,OG0002524,2.5195419045784364,Up,GRAM domain-containing protein,maintenance of seed dormancy by absisic acid
+20,Pv,PvWBCH1.9KG512900.1.v1.1,OG0001959,2.4985061891886793,Up,chitinase,polysaccharide catabolic process
+21,Pv,PvWBCH1.9NG055800.1.v1.1,OG0000642,2.412239566263399,Up,Glutathione S-transferase,glutathione metabolic process
+22,Pv,PvWBCH1.9KG488800.1.v1.1,OG0008582,2.3239464554216678,Up,Embryonic protein DC-8,cold acclimation
+23,Pv,PvWBCH1.2NG099200.1.v1.1,OG0029632,2.3109217352303437,Up,12-oxophytodienoate reductase 1,oxylipin biosynthetic process
+24,Pv,PvWBCH1.3KG087700.1.v1.1,OG0008648,2.2770920825043133,Up,UMP-CMP kinase,nucleoside monophosphate phosphorylation
+25,Pv,PvWBCH1.7KG090500.2.v1.1,NA,2.2175409398625243,Up,"1,4-alpha-glucan branching enzyme",starch metabolic process
+26,Pv,PvWBCH1.5NG350300.1.v1.1,OG0000034,2.142740172116082,Up,Heat shock protein 70,protein folding
+27,Pv,PvWBCH1.4NG037300.1.v1.1,OG0002559,2.105342840286222,Up,MPN domain-containing protein,spliceosomal tri-snRNP complex assembly
+28,Pv,PvWBCH1.7KG234800.1.v1.1,OG0020442,2.101650076094435,Up,Embryonic protein DC-8,NA
+29,Pv,PvWBCH1.5KG266500.1.v1.1,OG0007798,2.089498150839103,Up,Glutathione S-transferase,glutathione metabolic process
+30,Pv,PvWBCH1.9KG381100.1.v1.1,OG0021543,2.083383587710083,Up,"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",glycolytic process
+31,Pv,PvWBCH1.1NG251700.1.v1.1,OG0009809,2.0717626693000915,Up,Dehydrin,cold acclimation
+32,Pv,PvWBCH1.1NG326900.1.v1.1,OG0007520,2.058316495590823,Up,Class III heat shock protein,protein folding
+33,Pv,PvWBCH1.3KG223000.1.v1.1,OG0013697,2.0125686735030555,Up,NADP-dependent oxidoreductase domain-containing protein,NA
+34,Pv,PvWBCH1.9KG395300.1.v1.1,OG0025089,1.9862288802273995,Up,"Outer envelope pore protein 16-2, chloroplastic",amino acid transmembrane transport
+35,Pv,PvWBCH1.4KG166000.1.v1.1,OG0026991,1.9726926540042649,Up,FAD-binding PCMH-type domain-containing protein,NA
+36,Pv,PvWBCH1.5KG363600.1.v1.1,OG0000034,1.9645834627768648,Up,Heat shock protein 70,protein folding
+37,Pv,PvWBCH1.9KG495500.1.v1.1,OG0010777,1.9601409803107688,Up,SMP domain-containing protein,NA
+38,Pv,PvWBCH1.4KG012300.1.v1.1,OG0005018,1.9593992347721212,Up,"Multiple organellar RNA editing factor 2, chloroplastic",mRNA processing
+39,Pv,PvWBCH1.1KG077700.1.v1.1,OG0015134,1.946356571633634,Up,"Heat shock protein, mitochondrial",response to heat
+40,Pv,PvWBCH1.2NG036100.1.v1.1,OG0001162,1.926758531986465,Up,NA,base-excision repair
+41,Pv,PvWBCH1.9KG134700.1.v1.1,OG0025315,1.903809558578697,Up,VOC domain-containing protein,NA
+42,Pv,PvWBCH1.3KG190900.1.v1.1,OG0018783,1.8964656161894256,Up,Heat shock protein 101,cellular response to heat
+43,Pv,PvWBCH1.5NG129100.1.v1.1,OG0014118,1.882838655767251,Up,"Outer envelope pore protein 16-2, chloroplastic",amino acid transmembrane transport
+44,Pv,PvWBCH1.7KG134800.1.v1.1,OG0022407,1.873813198359087,Up,ATP-dependent 6-phosphofructokinase 2,fructose 6-phosphate metabolic process
+45,Pv,PvWBCH1.5NG010300.1.v1.1,OG0009496,1.8698714061777129,Up,AAA+ ATPase domain-containing protein,pollen sperm cell differentiation
+46,Pv,PvWBCH1.4KG275100.1.v1.1,OG0003555,1.8615584195720287,Up,"1,4-alpha-glucan branching enzyme",starch metabolic process
+47,Pv,PvWBCH1.5KG299900.1.v1.1,OG0010191,1.839959587489532,Up,Malic enzyme,pyruvate metabolic process
+48,Pv,PvWBCH1.4NG206200.1.v1.1,OG0001891,1.8265993302731016,Up,Phosphoglycerate kinase,glycolytic process
+49,Pv,PvWBCH1.9NG503500.1.v1.1,OG0001959,1.8221182747293443,Up,chitinase,polysaccharide catabolic process
+50,Pv,PvWBCH1.5KG283000.1.v1.1,OG0020387,1.7957669477823923,Up,Prenylcysteine oxidase / farnesylcysteine lyase,NA
+1,Sn,Sn00001aa067886_T001,NA,3.0652276227756188,Up,Barwin domain-containing protein,defense response to fungus
+2,Sn,Sn00001aa051893_T001,OG0006941,3.032100843167024,Up,Zeamatin,defense response to fungus
+3,Sn,Sn00001aa056018_T001,OG0022470,2.8155754288625725,Up,ABA-inducible protein PHV A1,cold acclimation
+4,Sn,Sn00001aa050399_T001,OG0001959,2.785550551739256,Up,chitinase,polysaccharide catabolic process
+5,Sn,Sn00001aa069853_T001,NA,2.650994269338053,Up,NA,NA
+6,Sn,Sn00001aa062552_T001,OG0001959,2.5258183220340236,Up,chitinase,polysaccharide catabolic process
+7,Sn,Sn00001aa004579_T001,OG0009444,2.498761465671852,Up,NA,response to abscisic acid
+8,Sn,Sn00001aa010391_T001,NA,2.47534433714261,Up,UDP-glucose 4-epimerase GEPI48,galactose metabolic process
+9,Sn,Sn00001aa092671_T001,OG0013697,2.4081683707081063,Up,Aldehyde reductase,L-ascorbic acid biosynthetic process
+10,Sn,Sn00001aa030610_T001,OG0022407,2.323370069061269,Up,ATP-dependent 6-phosphofructokinase 2,fructose 6-phosphate metabolic process
+11,Sn,Sn00001aa010629_T001,OG0008528,2.3115031154682697,Up,Safener induced1,NA
+12,Sn,Sn00001aa014488_T001,OG0025089,2.2451913930643084,Up,"Outer envelope pore protein 16-2, chloroplastic",amino acid transmembrane transport
+13,Sn,Sn00001aa060716_T002,OG0017067,2.2332745389909343,Up,Tryptophan synthase,tryptophan biosynthetic process
+14,Sn,Sn00001aa002111_T004,OG0016454,2.2252749298695695,Up,"39 kDa EF-Hand containing protein, putative, expressed",NA
+15,Sn,Sn00001aa005515_T001,OG0000642,2.215678596607928,Up,Glutathione S-transferase,glutathione metabolic process
+16,Sn,Sn00001aa050948_T001,OG0002524,2.2094533656289497,Up,GRAM domain-containing protein,maintenance of seed dormancy by absisic acid
+17,Sn,Sn00001aa099345_T002,OG0023941,2.2035144111307585,Up,Protein HEAT-STRESS-ASSOCIATED 32,post-transcriptional regulation of gene ...
+18,Sn,Sn00001aa011441_T001,OG0018330,2.200378797984026,Up,Blue fluorescent1,tryptophan biosynthetic process
+19,Sn,Sn00001aa035637_T001,OG0024384,2.1414327909292954,Up,Golgi apparatus membrane protein TVP15,NA
+20,Sn,Sn00001aa088201_T001,OG0013568,2.1358631653686793,Up,Calcium-transporting ATPase,response to water deprivation
+21,Sn,Sn00001aa000144_T001,OG0018330,2.126312130328704,Up,Blue fluorescent1,tryptophan biosynthetic process
+22,Sn,Sn00001aa010461_T001,OG0021543,2.037733627446515,Up,"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",glycolytic process
+23,Sn,Sn00001aa040888_T001,OG0009496,1.973794929652606,Up,AAA+ ATPase domain-containing protein,pollen sperm cell differentiation
+24,Sn,Sn00001aa014825_T001,OG0021022,1.8773516264492625,Up,Heat shock 70 kDa protein 8,protein folding
+25,Sn,Sn00001aa103117_T001,OG0013692,1.8619553641448696,Up,NA,NA
+26,Sn,Sn00001aa080797_T001,OG0016973,1.8507994231254832,Up,Reticulon-like protein (Fragment),tryptophan biosynthetic process
+27,Sn,Sn00001aa001175_T001,OG0021543,1.8143453349632197,Up,"phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",glycolytic process
+28,Sn,Sn00001aa006179_T001,OG0015482,1.77568270173906,Up,DUF255 domain-containing protein,carbohydrate metabolic process
+29,Sn,Sn00001aa082341_T001,OG0024036,1.751892138404309,Up,transketolase,pentose-phosphate shunt
+30,Sn,Sn00001aa086694_T001,OG0010361,1.6544355408453997,Up,Glucose-1-phosphate adenylyltransferase,starch biosynthetic process
+31,Sn,Sn00001aa041377_T001,OG0000288,1.652142272136664,Up,Class I heat shock protein 1,protein folding
+32,Sn,Sn00001aa023333_T004,OG0000289,1.6290068334271774,Up,Alcohol dehydrogenase 1,formaldehyde catabolic process
+33,Sn,Sn00001aa072988_T001,NA,1.5959809789656203,Up,Pyruvate dehydrogenase E1 component subunit alpha,acetyl-CoA biosynthetic process from pyruvate
+34,Sn,Sn00001aa073864_T002,NA,1.5940707568515382,Up,DJ-1/PfpI domain-containing protein,glyoxal metabolic process
+35,Sn,Sn00001aa045518_T001,OG0005483,1.5680321047712789,Up,Class II heat shock protein,protein folding
+36,Sn,Sn00001aa008298_T001,OG0005710,1.5621813564718672,Up,UspA domain-containing protein,response to cold
+37,Sn,Sn00001aa007255_T001,OG0007798,1.5400272692575072,Up,Glutathione S-transferase,glutathione metabolic process
+38,Sn,Sn00001aa021863_T001,OG0008882,1.5315686088149625,Up,Cysteine proteinase inhibitor,defense response
+39,Sn,Sn00001aa006768_T001,OG0012924,1.467801156488407,Up,Cysteine proteinase inhibitor,NA
+40,Sn,Sn00001aa023974_T001,OG0024297,1.45575462218619,Up,Dipeptidylpeptidase IV N-terminal domain-containing protein,NA
+41,Sn,Sn00001aa053988_T001,OG0019331,1.43349363984688,Up,TATA-binding protein interacting (TIP20) domain-containing protein,SCF complex assembly
+42,Sn,Sn00001aa100959_T001,OG0022195,1.4021764249794826,Up,Glucose-1-phosphate adenylyltransferase,starch biosynthetic process
+43,Sn,Sn00001aa001519_T001,OG0020952,1.3555801473773594,Up,Clp R domain-containing protein,cellular response to heat
+44,Sn,Sn00001aa092320_T001,OG0000823,1.3538878362849074,Up,Glutathione S-transferase,glutathione metabolic process
+45,Sn,Sn00001aa065278_T001,NA,1.3533232911628967,Up,"Fructose-1,6-bisphosphatase, cytosolic",response to abscisic acid
+46,Sn,Sn00001aa089776_T001,NA,1.3253864146597734,Up,tryptophan synthase,tryptophan biosynthetic process
+47,Sn,Sn00001aa008159_T001,NA,1.2998307618223703,Up,CobW C-terminal domain-containing protein,NA
+48,Sn,Sn00001aa031675_T002,OG0003720,1.2738142445870366,Up,Dienelactone hydrolase domain-containing protein,NA
+49,Sn,Sn00001aa007068_T001,OG0010191,1.2732174731034955,Up,Malic enzyme,pyruvate metabolic process
+50,Sn,Sn00001aa012896_T001,OG0017439,1.254594043033141,Up,Peroxidase,hydrogen peroxide catabolic process
+1,Trip19,Td00001aa022594_T002,OG0022470,5.00162211964968,Up,"Late embryogenesis abundant protein, group 3",cold acclimation
+2,Trip19,Td00001aa029496_T001,OG0016115,4.34027740476625,Up,22.0 kDa class IV heat shock protein-like,protein folding
+3,Trip19,Td00001aa040338_T001,OG0051958,3.81424277977989,Up,Abscisic stress ripening,NA
+4,Trip19,Td00001aa013159_T001,OG0006288,3.69231559916945,Up,TLC domain-containing protein,NA
+5,Trip19,Td00001aa022969_T001,OG0013697,3.6585542606509,Up,Aldose reductase,prostaglandin biosynthetic process
+6,Trip19,Td00001aa027412_T001,OG0024318,3.43175666019445,Up,Dehydrin,NA
+7,Trip19,Td00001aa005038_T001,OG0009930,3.29851169276436,Up,Seed biotin-containing protein SBP65,cold acclimation
+8,Trip19,Td00001aa023916_T001,OG0014428,3.22265002245148,Up,Polygalacturonase inhibitor,chromatin remodeling
+9,Trip19,Td00001aa014362_T001,OG0016578,3.10802256251641,Up,"Heat shock protein, chloroplastic",response to heat
+10,Trip19,Td00001aa004040_T001,OG0009809,3.06626144226872,Up,Dehydrin,cold acclimation
+11,Trip19,Td00001aa026590_T004,OG0016454,2.94990839795332,Up,"39 kDa EF-Hand containing protein, putative, expressed",NA
+12,Trip19,Td00001aa024450_T001,OG0000642,2.94598218599746,Up,Glutathione S-transferase,glutathione metabolic process
+13,Trip19,Td00001aa025492_T002,OG0012185,2.91838623444635,Up,Methionine gamma-lyase,transsulfuration
+14,Trip19,Td00001aa032866_T001,OG0014118,2.89005751138785,Up,"Outer envelope pore protein 16-2, chloroplastic",amino acid transmembrane transport
+15,Trip19,Td00001aa026762_T001,OG0000568,2.7454524831317,Up,Ent-cassadiene C2-hydroxylase,diterpenoid metabolic process
+16,Trip19,Td00001aa017178_T002,NA,2.72399534471519,Up,Dehydrin,cold acclimation
+17,Trip19,Td00001aa004295_T001,OG0012515,2.62854031926276,Up,Temperature-induced lipocalin,response to reactive oxygen species
+18,Trip19,Td00001aa014939_T002,OG0008494,2.62480276525295,Up,UDP-glucose 4-epimerase,galactose metabolic process
+19,Trip19,Td00001aa033192_T001,OG0000288,2.5528688710113,Up,16.9 kDa class I heat shock protein 1,protein folding
+20,Trip19,Td00001aa000735_T001,OG0002718,2.44810804371056,Up,X8 domain-containing protein,carbohydrate metabolic process
+21,Trip19,Td00001aa019065_T001,OG0005483,2.32567423412026,Up,Small heat shock protein HSP17.8,protein folding
+22,Trip19,Td00001aa022732_T002,OG0025011,2.29425313644451,Up,Globin domain-containing protein,NA
+23,Trip19,Td00001aa024451_T001,OG0000642,2.27142567609293,Up,Glutathione S-transferase,glutathione metabolic process
+24,Trip19,Td00001aa020613_T001,OG0017265,2.2606279081267,Up,Transmembrane protein,NA
+25,Trip19,Td00001aa031042_T001,OG0013692,2.24549566281992,Up,PEBP (Phosphatidylethanolamine-binding protein) family protein,NA
+26,Trip19,Td00001aa021652_T001,OG0022704,2.15962918582123,Up,Aconitate hydratase,cellular aldehyde metabolic process
+27,Trip19,Td00001aa033337_T001,OG0003421,2.13027195451886,Up,KOW domain-containing protein,translation
+28,Trip19,Td00001aa010483_T002,NA,2.09085343045111,Up,Malic enzyme,pyruvate metabolic process
+29,Trip19,Td00001aa033308_T001,OG0000288,2.0799753767206,Up,Class I heat shock protein 1,protein folding
+30,Trip19,Td00001aa024207_T001,OG0012032,2.0621217119078,Up,Actin-depolymerizing factor 3,actin filament depolymerization
+31,Trip19,Td00001aa027099_T003,NA,2.01899017538475,Up,Fe2OG dioxygenase domain-containing protein,biosynthetic process
+32,Trip19,Td00001aa025429_T004,OG0013350,2.00108161572545,Up,Protein DETOXIFICATION,xenobiotic detoxification by transmembrane export across the plasma membrane
+33,Trip19,Td00001aa008985_T001,OG0005483,1.97452931248388,Up,Small heat shock protein HSP17.8,protein folding
+34,Trip19,Td00001aa019363_T002,OG0008548,1.89878879711155,Up,phosphoenolpyruvate carboxykinase (ATP),gluconeogenesis
+35,Trip19,Td00001aa003480_T001,OG0005710,1.89103026784092,Up,UspA domain-containing protein,response to cold
+36,Trip19,Td00001aa019280_T001,OG0000034,1.86591881455221,Up,Heat shock protein 70,protein folding
+37,Trip19,Td00001aa037279_T002,OG0008674,1.82007682109751,Up,"Starch synthase, chloroplastic/amyloplastic",starch biosynthetic process
+38,Trip19,Td00001aa001511_T001,OG0014697,1.79659775404831,Up,glutathione transferase,glutathione metabolic process
+39,Trip19,Td00001aa033621_T001,OG0005483,1.79327165449808,Up,Small heat shock protein HSP17.8,protein folding
+40,Trip19,Td00001aa039232_T002,OG0002524,1.78826808286684,Up,GRAM domain-containing protein,maintenance of seed dormancy by absisic acid
+41,Trip19,Td00001aa003277_T001,OG0005728,1.7578766597479,Up,Phloem-specific lectin,NA
+42,Trip19,Td00001aa040575_T001,OG0001162,1.73984810269933,Up,NA,NA
+43,Trip19,Td00001aa027713_T001,OG0014866,1.70884937710518,Up,"Acetyltransferase, GNAT family protein, expressed",NA
+44,Trip19,Td00001aa007022_T003,OG0000566,1.67807190511264,Up,Cytochrome P450 family 72 subfamily A polypeptide 8,lipid metabolic process
+45,Trip19,Td00001aa002372_T002,OG0026582,1.67400860861723,Up,"Starch synthase, chloroplastic/amyloplastic",starch biosynthetic process
+46,Trip19,Td00001aa038053_T001,OG0037479,1.65260121759652,Up,"Starch synthase, chloroplastic/amyloplastic",starch biosynthetic process
+47,Trip19,Td00001aa020162_T001,OG0015977,1.63273352595054,Up,W2 domain-containing protein,NA
+48,Trip19,Td00001aa041578_T002,OG0000110,1.61306010689612,Up,Heat shock protein 83,protein folding
+49,Trip19,Td00001aa012013_T001,OG0008132,1.60169651648096,Up,adenylate kinase,nucleoside monophosphate phosphorylation
+50,Trip19,Td00001aa014170_T002,OG0011183,1.59836520532364,Up,inositol-3-phosphate synthase,inositol biosynthetic process
+1,Trip22,Td00001aa022594_T002,OG0022470,5.15286983726258,Up,"Late embryogenesis abundant protein, group 3",cold acclimation
+2,Trip22,Td00001aa040338_T001,OG0051958,4.46209581983767,Up,Abscisic stress ripening,NA
+3,Trip22,Td00001aa042603_T001,OG0020846,4.01716732894824,Up,NA,NA
+4,Trip22,Td00001aa014362_T001,OG0016578,3.75210187624437,Up,"Heat shock protein, chloroplastic",response to heat
+5,Trip22,Td00001aa029496_T001,OG0016115,3.62932009661684,Up,22.0 kDa class IV heat shock protein-like,protein folding
+6,Trip22,Td00001aa033307_T001,OG0000288,3.62361199877895,Up,Class I heat shock protein 1,protein folding
+7,Trip22,Td00001aa039438_T001,OG0015161,3.56106245486314,Up,WIBG Mago-binding domain-containing protein,NA
+8,Trip22,Td00001aa012719_T001,OG0010710,3.49115946660423,Up,chitinase,polysaccharide catabolic process
+9,Trip22,Td00001aa026590_T004,OG0016454,3.31048923636263,Up,"39 kDa EF-Hand containing protein, putative, expressed",NA
+10,Trip22,Td00001aa033192_T001,OG0000288,3.10600439833267,Up,16.9 kDa class I heat shock protein 1,protein folding
+11,Trip22,Td00001aa022969_T001,OG0013697,3.00185831055543,Up,Aldose reductase,prostaglandin biosynthetic process
+12,Trip22,Td00001aa019280_T001,OG0000034,2.84663795876977,Up,Heat shock protein 70,protein folding
+13,Trip22,Td00001aa032866_T001,OG0014118,2.83079195291855,Up,"Outer envelope pore protein 16-2, chloroplastic",amino acid transmembrane transport
+14,Trip22,Td00001aa004040_T001,OG0009809,2.82923915273416,Up,Dehydrin,cold acclimation
+15,Trip22,Td00001aa004295_T001,OG0012515,2.81770281159142,Up,Temperature-induced lipocalin,response to reactive oxygen species
+16,Trip22,Td00001aa029174_T001,OG0010710,2.66542749919589,Up,chitinase,polysaccharide catabolic process
+17,Trip22,Td00001aa040575_T001,OG0001162,2.6468049312422,Up,NA,NA
+18,Trip22,Td00001aa024379_T002,OG0012053,2.57830625764065,Up,Stem-specific protein TSJT1,NA
+19,Trip22,Td00001aa002232_T001,OG0014638,2.56882364389705,Up,NA,NA
+20,Trip22,Td00001aa021652_T001,OG0022704,2.49441149662558,Up,Aconitate hydratase,cellular aldehyde metabolic process
+21,Trip22,Td00001aa033308_T001,OG0000288,2.47147107764907,Up,Class I heat shock protein 1,protein folding
+22,Trip22,Td00001aa038053_T001,OG0037479,2.31393466521083,Up,"Starch synthase, chloroplastic/amyloplastic",starch biosynthetic process
+23,Trip22,Td00001aa029231_T001,OG0013447,2.30336577348362,Up,Malate synthase,glyoxylate cycle
+24,Trip22,Td00001aa033760_T001,OG0009509,2.26760181332722,Up,Heme-binding protein 2,NA
+25,Trip22,Td00001aa008985_T001,OG0005483,2.23839749777842,Up,Small heat shock protein HSP17.8,protein folding
+26,Trip22,Td00001aa019363_T002,OG0008548,2.21222440575296,Up,phosphoenolpyruvate carboxykinase (ATP),gluconeogenesis
+27,Trip22,Td00001aa039232_T002,OG0002524,2.19856578703108,Up,GRAM domain-containing protein,maintenance of seed dormancy by absisic acid
+28,Trip22,Td00001aa027028_T002,OG0014966,2.18723137671358,Up,Protein DETOXIFICATION,xenobiotic detoxification by transmembrane export across the plasma membrane
+29,Trip22,Td00001aa007217_T002,OG0010227,2.15470966559879,Up,UspA domain-containing protein,NA
+30,Trip22,Td00001aa019065_T001,OG0005483,2.12670543560304,Up,Small heat shock protein HSP17.8,protein folding
+31,Trip22,Td00001aa002847_T001,OG0001162,2.12593693016137,Up,Cylicin-1,translation
+32,Trip22,Td00001aa003480_T001,OG0005710,2.11911379050249,Up,UspA domain-containing protein,response to cold
+33,Trip22,Td00001aa002603_T003,OG0011742,2.08634453136465,Up,Chloroplast mRNA-binding protein CSP41 (Fragment),monosaccharide metabolic process
+34,Trip22,Td00001aa035379_T002,OG0004961,1.9720120328064,Up,Fe2OG dioxygenase domain-containing protein,NA
+35,Trip22,Td00001aa014878_T002,OG0020982,1.96480823701547,Up,Sucrose synthase,starch metabolic process
+36,Trip22,Td00001aa037279_T002,OG0008674,1.94483175247498,Up,"Starch synthase, chloroplastic/amyloplastic",starch biosynthetic process
+37,Trip22,Td00001aa001268_T005,OG0013614,1.93542222127546,Up,Beta-glucosidase 31,carbohydrate metabolic process
+38,Trip22,Td00001aa027912_T001,OG0024297,1.91560856990097,Up,Dipeptidylpeptidase IV N-terminal domain-containing protein,NA
+39,Trip22,Td00001aa010483_T001,OG0010191,1.88407057170545,Up,Malic enzyme,pyruvate metabolic process
+40,Trip22,Td00001aa001511_T001,OG0014697,1.82096946220412,Up,glutathione transferase,glutathione metabolic process
+41,Trip22,Td00001aa007570_T001,OG0005796,1.78930961136018,Up,Peroxidase,hydrogen peroxide catabolic process
+42,Trip22,Td00001aa002372_T002,OG0026582,1.7666852950229,Up,"Starch synthase, chloroplastic/amyloplastic",starch biosynthetic process
+43,Trip22,Td00001aa020796_T002,OG0010361,1.76667903044458,Up,Glucose-1-phosphate adenylyltransferase,starch biosynthetic process
+44,Trip22,Td00001aa041145_T001,OG0021221,1.75967378190207,Up,Small GTP binding protein Rab5,protein transport
+45,Trip22,Td00001aa013828_T001,OG0010777,1.69482436171345,Up,SMP domain-containing protein,NA
+46,Trip22,Td00001aa039340_T001,OG0025082,1.69467916332653,Up,Abscisic stress ripening,cellular oxidant detoxification
+47,Trip22,Td00001aa019508_T001,OG0021022,1.65962626439646,Up,Heat shock 70 kDa protein 8,protein folding
+48,Trip22,Td00001aa011371_T001,OG0003919,1.65283576932598,Up,Acyl transferase 5,lignin biosynthetic process
+49,Trip22,Td00001aa007022_T003,OG0000566,1.63106772296827,Up,Cytochrome P450 family 72 subfamily A polypeptide 8,lipid metabolic process
+50,Trip22,Td00001aa019248_T001,OG0003817,1.60195121908597,Up,GST N-terminal domain-containing protein,NA
