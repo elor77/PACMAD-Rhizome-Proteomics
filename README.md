@@ -52,11 +52,11 @@ The scripts in this repository contain hardcoded paths that reflect my original 
 
 ## Species Analyzed
 
-- **Tripsacum dactyloides** (Eastern gamagrass): Closest perennial relative to maize
-- **Andropogon gerardii** (Big bluestem): Dominant tallgrass prairie species
-- **Miscanthus × giganteus** (Giant miscanthus): Perennial biomass crop
-- **Panicum virgatum** (Switchgrass): Perennial bioenergy grass
-- **Sorghastrum nutans** (Indian grass): Native prairie grass
+- **Tripsacum dactyloides** (Eastern gamagrass)
+- **Andropogon gerardii** (Big bluestem)
+- **Miscanthus × giganteus** (Giant miscanthus)
+- **Panicum virgatum** (Switchgrass)
+- **Sorghastrum nutans** (Indian grass)
 
 ## Dependencies
 
