@@ -41,6 +41,15 @@ The scripts in this repository contain hardcoded paths that reflect my original 
 - **uniprot/**: UniProt annotations for top cold-responsive proteins
   - Includes results from DIAMOND BLASTp against SwissProt
 
+  ### Supplemental Code S1–S3 (Protein Reassignment Pipeline for *M. giganteus*)
+
+| ID | Script | Description |
+|:--:|:---|:---|
+| S1 | [`1_import_Ag_Mg_data.R`](scripts/1_data_import/1_import_Ag_Mg_data.R) | Imports original Ag/Mg multiplexed peptide intensities and metadata |
+| S2 | [`2_map_Mg_peptides_to_proteins.R`](scripts/1_data_import/2_map_Mg_peptides_to_proteins.R) | Re-aligns *M. giganteus* peptides to the *M. giganteus* proteome using DIAMOND |
+| S3 | [`3_summarize_Mg_proteins.R`](scripts/1_data_import/3_summarize_Mg_proteins.R) | Re-aggregates peptides into protein-level summaries using a multi-tiered tie-breaker |
+
+
 ## Species Analyzed
 
 - **Tripsacum dactyloides** (Eastern gamagrass): Closest perennial relative to maize
