@@ -1,0 +1,51 @@
+GO.ID,Term,Annotated,Significant,Expected,elimFisher
+GO:0006457,protein folding,61,50,26.13,1.3e-10
+GO:0009408,response to heat,56,50,23.99,1.8e-10
+GO:0042542,response to hydrogen peroxide,23,22,9.85,8.1e-08
+GO:0005982,starch metabolic process,32,27,13.71,1.1e-06
+GO:0009651,response to salt stress,35,28,15,5.7e-06
+GO:0005977,glycogen metabolic process,12,12,5.14,3.5e-05
+GO:0009631,cold acclimation,15,14,6.43,5.7e-05
+GO:0006006,glucose metabolic process,14,13,6,0.00013
+GO:0034605,cellular response to heat,10,10,4.28,0.00020
+GO:0000162,tryptophan biosynthetic process,13,12,5.57,0.00028
+GO:0033554,cellular response to stress,51,38,21.85,0.00055
+GO:0006090,pyruvate metabolic process,38,29,16.28,0.00080
+GO:0006749,glutathione metabolic process,29,21,12.42,0.00106
+GO:0046185,aldehyde catabolic process,11,10,4.71,0.00133
+GO:0009737,response to abscisic acid,39,26,16.71,0.00193
+GO:0006767,water-soluble vitamin metabolic process,13,11,5.57,0.00244
+GO:0006081,cellular aldehyde metabolic process,21,19,9,0.00259
+GO:0010608,post-transcriptional regulation of gene ...,10,9,4.28,0.00287
+GO:0000272,polysaccharide catabolic process,46,29,19.71,0.00383
+GO:0009414,response to water deprivation,33,22,14.14,0.00437
+GO:0001101,response to acid chemical,42,30,17.99,0.00534
+GO:0006096,glycolytic process,21,15,9,0.00719
+GO:0009409,response to cold,40,31,17.14,0.00736
+GO:0048609,multicellular organismal reproductive pr...,16,12,6.85,0.00899
+GO:0006032,chitin catabolic process,11,9,4.71,0.00981
+GO:0006397,mRNA processing,11,9,4.71,0.00981
+GO:0006163,purine nucleotide metabolic process,41,29,17.57,0.01072
+GO:0072521,purine-containing compound metabolic pro...,43,30,18.42,0.01187
+GO:0051259,protein complex oligomerization,41,25,17.57,0.01314
+GO:0044282,small molecule catabolic process,57,33,24.42,0.01342
+GO:0016998,cell wall macromolecule catabolic proces...,17,12,7.28,0.01882
+GO:0042364,water-soluble vitamin biosynthetic proce...,10,8,4.28,0.01920
+GO:0009404,toxin metabolic process,10,8,4.28,0.01920
+GO:0009064,glutamine family amino acid metabolic pr...,10,8,4.28,0.01920
+GO:0051239,regulation of multicellular organismal p...,10,8,4.28,0.01920
+GO:0046165,alcohol biosynthetic process,10,8,4.28,0.01920
+GO:0009620,response to fungus,40,24,17.14,0.01954
+GO:0009415,response to water,40,28,17.14,0.02436
+GO:0050832,defense response to fungus,25,16,10.71,0.02554
+GO:0006950,response to stress,296,181,126.82,0.02587
+GO:1901566,organonitrogen compound biosynthetic pro...,105,60,44.99,0.02805
+GO:0043604,amide biosynthetic process,45,26,19.28,0.02825
+GO:0019252,starch biosynthetic process,14,10,6,0.02874
+GO:0043603,amide metabolic process,78,48,33.42,0.04002
+GO:0043043,peptide biosynthetic process,34,20,14.57,0.04173
+GO:0098754,detoxification,67,36,28.7,0.04196
+GO:0072522,purine-containing compound biosynthetic ...,11,8,4.71,0.04425
+GO:0009743,response to carbohydrate,11,8,4.71,0.04425
+GO:0006164,purine nucleotide biosynthetic process,11,8,4.71,0.04425
+GO:0006002,fructose 6-phosphate metabolic process,11,8,4.71,0.04425

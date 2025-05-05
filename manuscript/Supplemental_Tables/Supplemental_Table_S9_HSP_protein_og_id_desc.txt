@@ -1,0 +1,162 @@
+OG0000034	Ag00001aa022279_T001	Heat shock protein 70
+OG0000034	Ag00001aa047169_T001	Heat shock protein 70
+OG0000034	PvWBCH1.5KG363600.1.v1.1	Heat shock protein 70
+OG0000034	PvWBCH1.5NG350300.1.v1.1	Heat shock protein 70
+OG0000034	Td00001aa008295_T001	Heat shock protein 70
+OG0000034	Td00001aa014533_T001	Heat shock protein 70
+OG0000034	Td00001aa019280_T001	Heat shock protein 70
+OG0000034	Td00001aa024202_T001	Heat shock protein 70
+OG0000110	Ag00001aa156538_T001	Heat shock protein 83
+OG0000110	Td00001aa001425_T001	Heat shock protein 90
+OG0000110	Td00001aa021209_T001	Heat shock protein 90
+OG0000110	Td00001aa031609_T001	Heat shock protein 90
+OG0000110	Td00001aa036498_T001	Heat shock protein 90
+OG0000110	Td00001aa041578_T002	Heat shock protein 83
+OG0000288	Ag00001aa014453_T001	Class I heat shock protein 1
+OG0000288	Ag00001aa078823_T001	Class I heat shock protein 1
+OG0000288	Ag00001aa097918_T001	Class I heat shock protein 1
+OG0000288	Ag00001aa097924_T001	Class I heat shock protein 1
+OG0000288	Ag00001aa118595_T001	Small heat shock protein HSP
+OG0000288	Ag00001aa143736_T001	Class I heat shock protein 1
+OG0000288	Sn00001aa041377_T001	Class I heat shock protein 1
+OG0000288	Td00001aa009246_T001	Class I heat shock protein 1
+OG0000288	Td00001aa033192_T001	16.9 kDa class I heat shock protein 1
+OG0000288	Td00001aa033192_T001	Class I heat shock protein 1
+OG0000288	Td00001aa033307_T001	Class I heat shock protein 1
+OG0000288	Td00001aa033308_T001	Class I heat shock protein 1
+OG0001076	Td00001aa040065_T001	SHSP domain-containing protein
+OG0001287	Td00001aa023612_T002	Heat shock 70 kDa protein 14
+OG0001287	Td00001aa023626_T001	Heat shock 70 kDa protein 14
+OG0001287	Td00001aa030570_T001	Heat shock 70 kDa protein 14
+OG0001287	Td00001aa030572_T001	Heat shock 70 kDa protein 14
+OG0001474	Td00001aa017960_T001	Heat shock transcription factor
+OG0001474	Td00001aa042675_T001	Heat shock transcription factor
+OG0001787	Ag00001aa009579_T001	Small heat shock protein HSP
+OG0001787	Td00001aa014480_T001	SHSP domain-containing protein
+OG0001787	Td00001aa019317_T001	Class I small heat shock protein 18 kDa
+OG0002120	Td00001aa009247_T001	Class I heat shock protein 1
+OG0002310	Td00001aa009173_T001	DNAJ heat shock N-terminal domain-containing protein
+OG0002310	Td00001aa009364_T001	DNAJ heat shock N-terminal domain-containing protein
+OG0002396	Td00001aa025490_T001	Heat shock 70 kDa protein, mitochondrial
+OG0002396	Td00001aa026996_T003	Heat shock 70 kDa protein, mitochondrial
+OG0002627	Td00001aa036931_T001	Heat shock protein, mitochondrial
+OG0002746	Td00001aa012865_T001	DNAJ heat shock N-terminal domain-containing protein
+OG0003821	Td00001aa014536_T002	Heat shock protein 70
+OG0003990	Td00001aa032419_T001	Heat shock protein DnaJ cysteine-rich domain superfamily
+OG0004387	Td00001aa003830_T003	Heat shock 70 kDa protein 17
+OG0004387	Td00001aa017359_T001	Heat shock 70 kDa protein 17
+OG0004696	Td00001aa022313_T001	SHSP domain-containing protein
+OG0004702	Td00001aa023468_T001	Heat shock protein DnaJ with tetratricopeptide repeat
+OG0004702	Td00001aa030501_T001	Heat shock protein DnaJ with tetratricopeptide repeat
+OG0005437	Td00001aa025839_T001	SHSP domain-containing protein
+OG0005437	Td00001aa026737_T001	SHSP domain-containing protein
+OG0005483	Sn00001aa045518_T001	Class II heat shock protein
+OG0005483	Td00001aa008985_T001	Small heat shock protein HSP17.8
+OG0005483	Td00001aa019065_T001	Small heat shock protein HSP17.8
+OG0005483	Td00001aa033621_T001	Small heat shock protein HSP17.8
+OG0006284	Td00001aa019284_T001	Heat shock protein 70
+OG0006284	Td00001aa029776_T001	Heat shock protein 70
+OG0006673	Td00001aa011767_T001	SHSP domain-containing protein
+OG0006673	Td00001aa011771_T001	SHSP domain-containing protein
+OG0006673	Td00001aa041085_T001	SHSP domain-containing protein
+OG0006673	Td00001aa041089_T001	SHSP domain-containing protein
+OG0006689	Td00001aa022839_T001	21.7 kDa class VI heat shock protein
+OG0006689	Td00001aa031143_T001	21.7 kDa class VI heat shock protein
+OG0006750	Td00001aa002801_T001	SHSP domain-containing protein
+OG0006750	Td00001aa040593_T001	SHSP domain-containing protein
+OG0007256	Td00001aa020072_T001	Class I heat shock protein 1
+OG0007520	Misin07G513900.1.v7.1	Class II heat shock protein
+OG0007520	PvWBCH1.1NG326900.1.v1.1	Class III heat shock protein
+OG0007520	Td00001aa003426_T001	17.4 kDa class III heat shock protein
+OG0007520	Td00001aa003426_T001	18 class III heat shock protein
+OG0007520	Td00001aa017651_T001	17.4 kDa class III heat shock protein
+OG0007598	Td00001aa033045_T001	Heat shock protein DnaJ with tetratricopeptide repeat
+OG0007848	Td00001aa009946_T001	SHSP domain-containing protein
+OG0008584	Td00001aa013844_T002	Heat shock transcription factor A7a1
+OG0008630	Td00001aa036826_T001	Heat shock protein, peroxisomal
+OG0009129	PvWBCH1.2NG232500.1.v1.1	Heat shock 70 kDa protein, mitochondrial
+OG0009129	Td00001aa021240_T002	Heat shock 70 kDa protein, mitochondrial
+OG0009410	Td00001aa025176_T003	Heat shock protein DnaJ, cysteine-rich domain superfamily
+OG0009556	Td00001aa009142_T001	SHSP domain-containing protein
+OG0009556	Td00001aa033388_T001	SHSP domain-containing protein
+OG0009567	Td00001aa033306_T001	Heat shock protein 2
+OG0010188	Td00001aa010503_T001	Heat shock transcription factor
+OG0010266	Ag00001aa017786_T001	15.7 kDa heat shock protein, peroxisomal-like
+OG0010266	Td00001aa006887_T001	15.7 kDa heat shock protein, peroxisomal-like
+OG0010321	Td00001aa037543_T001	Heat shock protein binding protein
+OG0010776	Td00001aa013830_T001	SHSP domain-containing protein
+OG0011004	Ag00001aa007822_T001	SHSP domain-containing protein
+OG0011004	Td00001aa015825_T001	SHSP domain-containing protein
+OG0011004	Td00001aa026602_T001	SHSP domain-containing protein
+OG0011118	Td00001aa014542_T001	SHSP domain-containing protein
+OG0011118	Td00001aa019281_T001	SHSP domain-containing protein
+OG0012085	Td00001aa024696_T001	Heat shock transcription factor
+OG0012144	Td00001aa025142_T001	SHSP domain-containing protein
+OG0012145	Td00001aa027185_T001	SHSP domain-containing protein
+OG0012306	Td00001aa033302_T001	Class I heat shock protein 1
+OG0012564	Td00001aa003826_T001	17.4 kDa class I heat shock protein 3
+OG0013157	Td00001aa036507_T001	SHSP domain-containing protein
+OG0013157	Td00001aa036507_T001	Small heat shock protein, chloroplastic-like
+OG0013317	Td00001aa008294_T001	SHSP domain-containing protein
+OG0014264	Td00001aa036771_T001	Heat shock factor binding protein
+OG0015093	Td00001aa016005_T001	Cytosolic class I small heat shock protein type 2 (Fragment)
+OG0015093	Td00001aa016005_T001	SHSP domain-containing protein
+OG0015134	Ag00001aa100594_T001	Heat shock protein, mitochondrial
+OG0015134	PvWBCH1.1KG077700.1.v1.1	Heat shock protein, mitochondrial
+OG0015134	Td00001aa005271_T001	Heat shock protein, mitochondrial
+OG0015563	Td00001aa026563_T004	Heat shock 70 kDa protein 16
+OG0015563	Td00001aa034747_T003	Heat shock 70 kDa protein 16
+OG0015605	Td00001aa024975_T002	Stromal 70 kDa heat shock-related protein, chloroplastic
+OG0015605	Td00001aa027311_T001	Stromal 70 kDa heat shock-related protein, chloroplastic
+OG0016115	Ag00001aa123995_T001	23.2 kDa heat shock protein-like
+OG0016115	Td00001aa012926_T001	22.0 kDa class IV heat shock protein
+OG0016115	Td00001aa012926_T001	Class IV heat shock protein
+OG0016115	Td00001aa029496_T001	22.0 kDa class IV heat shock protein-like
+OG0016300	Td00001aa017572_T001	Heat shock protein, mitochondrial
+OG0016300	Td00001aa017572_T001	SHSP domain-containing protein
+OG0016578	Ag00001aa009716_T001	Small heat shock protein 26
+OG0016578	Ag00001aa102742_T001	Small heat shock protein 26
+OG0016578	Td00001aa014362_T001	Heat shock protein, chloroplastic
+OG0016578	Td00001aa014362_T001	Small heat shock protein, chloroplastic
+OG0017667	Td00001aa026738_T001	SHSP domain-containing protein
+OG0017809	Td00001aa006467_T001	SHSP domain-containing protein
+OG0018022	Td00001aa000791_T001	15.4 kDa class V heat shock protein
+OG0018783	PvWBCH1.3KG190900.1.v1.1	Heat shock protein 101
+OG0018783	Td00001aa022640_T001	Heat shock protein 101
+OG0019101	Td00001aa035268_T001	Calmodulin-binding heat-shock protein
+OG0019413	Td00001aa038591_T002	Heat shock protein 40
+OG0019535	Td00001aa031559_T001	Heat shock protein 90-5, chloroplastic
+OG0019540	Td00001aa030189_T001	Heat shock protein DnaJ, cysteine-rich domain-containing protein
+OG0020094	Td00001aa040219_T001	SHSP domain-containing protein
+OG0020412	Td00001aa006771_T001	Heat shock protein DnaJ, cysteine-rich domain containing protein
+OG0020906	Ag00001aa023812_T001	SHSP domain-containing protein
+OG0020906	Td00001aa015826_T001	SHSP domain-containing protein
+OG0021022	Ag00001aa009888_T001	Heat shock 70 kDa protein 8
+OG0021022	Ag00001aa019017_T001	Heat shock 70 kDa protein 8
+OG0021022	PvWBCH1.9NG442300.1.v1.1	Heat shock 70 kDa protein 8
+OG0021022	Sn00001aa014825_T001	Heat shock 70 kDa protein 8
+OG0021022	Td00001aa019508_T001	Heat shock 70 kDa protein 8
+OG0021382	Td00001aa006317_T002	Hsp90 protein, expressed
+OG0021382	Td00001aa039056_T003	Hsp90 protein, expressed
+OG0021616	Td00001aa001478_T001	Heat shock protein 90-5, chloroplastic
+OG0022398	Td00001aa003439_T003	Putative lipase/calmodulin-binding heat-shock protein
+OG0023039	Td00001aa013236_T001	Heat shock protein-related-like
+OG0023344	Td00001aa003403_T005	Hsp70-Hsp90 organizing protein 2
+OG0024320	Td00001aa036502_T001	Heat shock protein STI
+OG0026876	Td00001aa015805_T001	SHSP domain-containing protein
+OG0028043	Td00001aa034438_T001	Heat shock protein 70
+OG0028328	Td00001aa035610_T001	Heat shock SSB1
+OG0028328	Td00001aa041389_T001	Heat shock SSB1
+OG0029497	Td00001aa004876_T002	Heat-shock protein DnaJ
+OG0037475	Td00001aa038012_T001	Heat shock
+OG0037475	Td00001aa040168_T001	Heat shock
+OG0049991	Td00001aa001374_T001	Heat shock 70 kDa protein, mitochondrial
+OG0050034	Td00001aa001884_T001	Heat shock factor binding protein
+OG0050580	Td00001aa027187_T001	SHSP domain-containing protein
+OG0052093	Td00001aa006386_T001	SHSP domain-containing protein
+OG0052143	Td00001aa006886_T001	SHSP domain-containing protein
+OG0052293	Td00001aa008750_T002	Heat shock transcription factor
+OG0052417	Td00001aa009243_T001	Class I heat shock protein 1
+OG0052418	Td00001aa009248_T001	Heat shock protein 2
+OG0053225	Td00001aa017180_T001	SHSP domain-containing protein
+OG0053266	Td00001aa017591_T001	DNAJ heat shock N-terminal domain-containing protein isoform 1
