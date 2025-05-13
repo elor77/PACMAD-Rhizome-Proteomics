@@ -1,0 +1,111 @@
+
+                               AmphipaSeeK v1.3.5
+             - prediction of in-plane membrane anchoring segments -
+
+AUHTOR    : Nicolas Sapay, Institut de Biologie et Chimie de Proteines
+            UMR 5086 Centre National de la Recherche Scientifique - University Lyon 1
+            Lyon, France
+NAME      : AmphipaSeeK
+VERSION   : release 1.3.5
+CONTACT   : Any bug or comment can be reported to <pbiladm@ibcp.fr>
+REFERENCE : Sapay,N., Guermeur,Y., Deleage,G. (2006) Prediction of in-plane membrane
+            anchors in monotopic proteins using a SVM classifier, BMC Bioinformatics, 7:255
+USAGE     :
+	>Nowhere|JohnDoe  <--- sequence header
+	================
+	1       10
+	|........|....  <------ sequence position
+	APVVLSRRVLASAS  <------ protein sequence
+	__AAAAAAA_____  <------ predicted membrane topology : 'A'=in-plane | '_'=non in-plane
+	chhhhhhhhhhhcc  <------ predicted secondary structure (if available)
+	11224553210001  <------ amphipathy : from 0=low to 5=high amphipathy
+	                                     based on the sequence average <muH>
+
+>Td_LEA3
+========
+1       10        20        30        40        50        60        70        80
+|........|.........|.........|.........|.........|.........|.........|.........|
+MASHQDKASYQAGETKARTEEKTGQAVGATKDTAQHAKDRASDAAGHAEATKQRAAETAEATKQRAAETAEATKQRAAET
+________________________________________________________________________________
+cccccchhhhhhhccxxhhhhccchhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+31232222222233233333355222222333343333443334321111122222233222222222332222222223
+
+81      90       100       110       120       130       140       150       160
+|........|.........|.........|.........|.........|.........|.........|.........|
+AEATKQKAAETAEATKQKAAEYAKDTAVSGKDKSGGVIQQATEQVKSAAAGAKDAVMNTLGMGGDNKQGDTDTTKDSSTI
+________________________________________________________________________________
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhcccccchhhhhhhhhhhhhhhhhhhhhhhcccccccccccccccccccc
+32222222222222222223354333321211122333345554333334423222223342101110022221225444
+
+161    170       180       190       200       210       220       230       240
+|........|.........|.........|.........|.........|.........|.........|.........|
+TRDH
+____
+cccc
+3455
+
+
+>Td_LEA3    : aligned sequence 1/4
+==================================
+1       10        20        30        40        50        60        70        80
+|........|.........|.........|.........|.........|.........|.........|.........|
+MASHQDKASYQAGETKARTEEKTGQAVGATKDTAQHAKDRASDAAGHAEATKQRAAETAEATKQRAAETAEATKQRAAET
+A_AAA___________________________________________________________________________
+31232222222233233333355222222333343333443334321111122222233222222222332222222223
+
+81      90       100       110       120       130       140       150       160
+|........|.........|.........|.........|.........|.........|.........|.........|
+AEATKQKAAETAEATKQKAAEYAKDTAVSGKDKSGGVIQQATEQVKSAAAGAKDAVMNTLGMGGDNKQGDTDTTKDSSTI
+________________________________________________________________________________
+32222222222222222223354333321211122333345554333334423222223342101110022221225444
+
+161    170       180       190       200       210       220       230       240
+|........|.........|.........|.........|.........|.........|.........|.........|
+TRDH
+____
+3455
+
+
+>Td_LEA3    : aligned sequence 2/4
+==================================
+1       10        20        30        40        50        60        70        80
+|........|.........|.........|.........|.........|.........|.........|.........|
+MASNQNQASYAAGETKARTEEKTGQMMDKAGQATEATKQKAGEAKDKTAQTAQAAKDRAAESKDQTGSFLGEKTEAAKQK
+________________________________________________________________________________
+13322111112012113333355445544543332222222223333322332333211223312211221223221222
+
+81      90       100       110       120       130       140       150       160
+|........|.........|.........|.........|.........|.........|.........|.........|
+AAEATDAAKQKASETAQYAQERSSDAAQYTKESAVAGKDKTGSVLQQAGETVVSAVVGAKDAVANTLGMGGDN
+_________________________________________________________________________
+2333333332333343322233333333322232111111233444544544332222222222233433332
+
+
+>Td_LEA3    : aligned sequence 3/4
+==================================
+1       10        20        30        40        50        60        70        80
+|........|.........|.........|.........|.........|.........|.........|.........|
+YAKETVVSGKDKSAGVIQQVWLVHQLRPFHVPTNLVVRIERNSGLLMAFLLCFDSQATEQVKSAAAGAKDAVMNTLGMGG
+___________________________________________AA___________________________________
+22222221211122343222201233323344443555544343220122111222333433333442222222333332
+
+81      90       100       110       120       130       140       150       160
+|........|.........|.........|.........|.........|.........|.........|.........|
+DN
+__
+31
+
+
+>Td_LEA3    : aligned sequence 4/4
+==================================
+1       10        20        30        40        50        60        70        80
+|........|.........|.........|.........|.........|.........|.........|.........|
+MATHEQSYGAGEAKGRAEEKTGQTTEAMKQKAQEAKERTYETAQQGKDKTLSATEAANQKARETTEAAKQKAQELTQSAR
+________________________________________________________________________________
+11121011111112222223322221222333323322333332222222112212343333344332233333443333
+
+81      90       100       110       120       130       140       150       160
+|........|.........|.........|.........|.........|.........|.........|.........|
+EKTQETTHSTRETAEAAKEKTGGILQQTGEQVKNLAKGATESLKQTFGMGEGNEE
+________________________________________________AAA____
+2222122333334433212222233233444445445454443333221011222
