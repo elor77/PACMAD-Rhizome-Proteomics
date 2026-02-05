@@ -1,0 +1,128 @@
+OG0022470	Ag00001aa064944_T001	Late embryogenesis abundant protein 3
+OG0022470	Ag00001aa069574_T002	Late embryogenesis abundant protein 3
+OG0022470	Ag00001aa111933_T001	Late embryogenesis abundant protein 3
+OG0022470	Misin17G219700.1.v7.1	Late embryogenesis abundant protein 3
+OG0022470	PvWBCH1.3KG178100.1.v1.1	Late embryogenesis abundant protein 3
+OG0022470	PvWBCH1.3NG170900.1.v1.1	Late embryogenesis abundant protein 3
+OG0022470	Sn00001aa056018_T001	Late embryogenesis abundant protein 3
+OG0022470	Td00001aa022594_T002	Late embryogenesis abundant protein 3
+OG0001605	Td00001aa041248_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0001605	Td00001aa041262_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0001759	Td00001aa029094_T002	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0002545	Td00001aa023452_T001	Dehydrin
+OG0002942	Td00001aa007902_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0003281	Td00001aa000757_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0003582	Td00001aa007373_T001	Late embryogenesis abundant protein, group 3
+OG0003616	Td00001aa006934_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0003616	Td00001aa009917_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0004003	Td00001aa001429_T001	Late embryogenesis abundant
+OG0004003	Td00001aa021207_T001	Late embryogenesis abundant
+OG0004232	Td00001aa008976_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0004232	Td00001aa033693_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0004360	Td00001aa005073_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0004360	Td00001aa016499_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0004448	Td00001aa009546_T001	Embryonic protein DC-8
+OG0004565	Td00001aa007010_T001	Water stress and hypersensitive response domain-containing protein
+OG0004565	Td00001aa010072_T001	Water stress and hypersensitive response domain-containing protein
+OG0005069	Td00001aa030768_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0005114	Td00001aa002497_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0005402	Td00001aa025149_T001	Dehydrin 13
+OG0005402	Td00001aa027181_T001	Dehydrin 13
+OG0005613	Td00001aa020431_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0005613	Td00001aa038179_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0006914	Td00001aa021687_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0008233	Td00001aa012971_T001	Late embryogenesis abundant domain-containing protein / LEA domain-containing protein
+OG0008582	Td00001aa013898_T001	Embryonic protein DC-8
+OG0008698	Td00001aa037514_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0008698	Td00001aa037515_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0008698	Td00001aa037516_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0008698	Td00001aa037517_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009095	Td00001aa021047_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009291	Td00001aa024100_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009444	Td00001aa025551_T001	Low-temperature-induced 65 kDa protein
+OG0009454	Td00001aa025621_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009454	Td00001aa026912_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009685	Td00001aa006487_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009685	Td00001aa006488_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009686	Td00001aa006512_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009713	Td00001aa020290_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009713	Td00001aa039684_T002	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009723	Td00001aa016483_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0009809	Td00001aa004040_T001	Dehydrin
+OG0009809	Td00001aa017178_T001	Dehydrin
+OG0010072	Td00001aa026247_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0010664	Td00001aa012474_T001	Late embryogenesis abundant
+OG0010747	Td00001aa012990_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0010747	Td00001aa029584_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0011315	Td00001aa041276_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0011761	Td00001aa002498_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0011762	Td00001aa020741_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0011913	Td00001aa001154_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0011937	Td00001aa024678_T001	Late embryogenesis abundant protein D-34
+OG0012263	Td00001aa009804_T001	Water stress and hypersensitive response domain-containing protein
+OG0012713	Td00001aa032825_T001	Late embryogenesis abundant protein Lea5
+OG0013154	Td00001aa036522_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0013271	Td00001aa023436_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0013271	Td00001aa030534_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0013809	Td00001aa015485_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0013947	Td00001aa014058_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0013947	Td00001aa019644_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0014241	Td00001aa039028_T001	Late embryogenesis abundant protein
+OG0014339	Td00001aa038576_T001	Late embryogenesis abundant protein
+OG0014477	Td00001aa030566_T001	Late embryogenesis abundant protein
+OG0015291	Td00001aa004055_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0015604	Td00001aa024968_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0015604	Td00001aa027316_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0015787	Td00001aa020601_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0015857	Td00001aa036070_T001	Water stress and hypersensitive response domain-containing protein
+OG0015993	Td00001aa028047_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0016229	Td00001aa028133_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0016372	Td00001aa031081_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0016769	Td00001aa041195_T001	Late embryogenesis abundant protein 6
+OG0017362	Td00001aa002459_T001	Water stress and hypersensitive response domain-containing protein
+OG0017542	Td00001aa027906_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0017923	Td00001aa004049_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0018401	Td00001aa022356_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0018407	Td00001aa023417_T001	Late embryogenesis abundant protein Lea5
+OG0018420	Td00001aa008471_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0018448	Td00001aa025475_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0018507	Td00001aa028450_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0018655	Td00001aa037854_T001	Late embryogenesis abundant protein (LEA) family protein
+OG0018655	Td00001aa038081_T001	Late embryogenesis abundant protein (LEA) family protein
+OG0018655	Td00001aa040183_T001	Late embryogenesis abundant protein (LEA) family protein
+OG0018655	Td00001aa040235_T001	Late embryogenesis abundant protein (LEA) family protein
+OG0018788	Td00001aa022686_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0019131	Td00001aa037323_T002	Dehydrin
+OG0019142	Td00001aa037512_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0019579	Td00001aa023565_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0019721	Td00001aa002625_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0020755	Td00001aa013383_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0020755	Td00001aa013384_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0020755	Td00001aa040247_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0021024	Td00001aa014213_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0021361	Td00001aa038997_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0021575	Td00001aa013051_T001	Late embryogenesis abundant protein-related / LEA protein-related
+OG0021575	Td00001aa029681_T001	Late embryogenesis abundant protein-related / LEA protein-related
+OG0022194	Td00001aa031470_T001	Desiccation protectant protein Lea
+OG0022536	Td00001aa019081_T001	Late embryogenesis abundant protein 1
+OG0022809	Td00001aa038513_T001	Seed albumin protein of a late embryogenesis abundant group 1
+OG0023180	Td00001aa024677_T001	Late embryogenesis abundant protein D-34
+OG0023370	Td00001aa032824_T001	Late embryogenesis abundant protein Lea5
+OG0023812	Td00001aa041250_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0023812	Td00001aa041264_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0024150	Td00001aa008157_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0024318	Td00001aa027412_T001	Dehydrin
+OG0025692	Td00001aa014606_T001	Dehydrin
+OG0025777	Td00001aa041246_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0025778	Td00001aa041249_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0025778	Td00001aa041263_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0025943	Td00001aa030355_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0026281	Td00001aa042360_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0026732	Td00001aa023931_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0027839	Td00001aa004470_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0032239	Td00001aa041275_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0037402	Td00001aa032700_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0051017	Td00001aa031588_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0051785	Td00001aa037840_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0052268	Td00001aa008457_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein
+OG0053584	Td00001aa020595_T001	Late embryogenesis abundant protein LEA-2 subgroup domain-containing protein

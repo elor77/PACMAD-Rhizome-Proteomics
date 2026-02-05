@@ -1,7 +1,0 @@
-Reviewer access details
-Log in to the PRIDE website using the following details:
- Project accession: PXD063668
- Token: 3F4qJpB5V7JS
-Alternatively, reviewer can access the dataset by logging in to the PRIDE website using the following account details:
- Username: reviewer_pxd063668@ebi.ac.uk
- Password: b0OmJwfAKX3Q

@@ -1,56 +1,64 @@
 # PACMAD-Rhizome-Proteomics
 
-This repository contains data and scripts for the manuscript: "Cross-Species Rhizome Proteomics Uncovers Conserved Freezing-Tolerance Strategies In Temperate Prairie Grasses: Insights For Improving Maize Cold Tolerance"
+Code and data repository for the manuscript:
+
+**"Constrained evolution of a core winter proteome across independently cold-adapted PACMAD grasses"**
+
+Elad Oren, Jingjing Zhai, Travis E. Rooney, Ruthie Angelovici, Charles O. Hale, Lara J. Brindisi, Sheng-Kai Hsu, Christine M. Gault, Jian Hua, Thuy La, Nicholas Lepak, Qin Fu, Edward S. Buckler, M. Cinta Romay
+
+*Corresponding authors:* Elad Oren (eladoren@volcani.agri.gov.il), M. Cinta Romay (mcr72@cornell.edu)
 
 ## Overview
 
-This study analyzes proteomics data from rhizomes of multiple grass species (Tripsacum, Andropogon, Miscanthus, Panicum, and Sorghastrum) collected in summer and winter to identify conserved and species-specific cold adaptation mechanisms. The findings highlight the convergent evolution of cold tolerance strategies across independently evolved PACMAD grasses, with particular focus on the role of LEA3 proteins and other cryoprotectants.
+This study compares seasonal rhizome proteomes (winter vs. summer) from five independently cold-adapted PACMAD grass species grown in a common garden in Ithaca, NY (USDA Hardiness Zone 6a). Using TMTpro-labeled quantitative proteomics, we show that shared cold-responsive proteins exhibit substantially higher cross-species fold-change correlation (ρ = 0.80) than background proteins (ρ = 0.45), revealing evolutionary constraint on protein-level response magnitude. LEA3 was the only ortholog elevated across all five species. Structural comparison of the Tripsacum and maize LEA3 orthologs revealed a 15-amino-acid insertion in maize that disrupts the conserved 11-mer motif architecture, suggesting that transcriptional induction alone does not ensure freezing tolerance.
+
+## Species Analyzed
+
+| Species | Common Name | Cultivar/Entry |
+|---|---|---|
+| *Tripsacum dactyloides* × *T. floridanum* | Eastern gamagrass × Florida gamagrass | Multiple hybrid genotypes |
+| *Andropogon gerardii* | Big bluestem | Sentinel |
+| *Miscanthus* × *giganteus* | Giant miscanthus | — |
+| *Panicum virgatum* | Switchgrass | Dust Devil |
+| *Sorghastrum nutans* | Indiangrass | Golden Sunset |
 
 ## Important Note About File Paths
 
-The scripts in this repository contain hardcoded paths that reflect my original development environment. You should adjust code where necessary to match your local file structure. 
+The scripts contain hardcoded paths from the original development environment. Adjust paths as needed to match your local file structure.
 
 ## Directory Structure
 
-- **data/**: Raw proteomics data files and RNA-seq data from different grass species
-  - Includes essential RNA-seq data files `RNAseq_DEG_maize_tissues.RData` and `RNAseq_DEG_Td.RData`
-  
-- **tables/**: Result tables from analyses (differential abundance, GO enrichment, etc.)
-  - Contains orthogroup assignments, log2FC values, and functional annotations
-  
-- **scripts/**: R scripts organized by analysis stage:
-  - **1_data_import/**: Scripts for importing and cleaning TMT proteomics data
-  - **2_data_transformation/**: Scripts for transforming protein abundance data to long format
-  - **3_differential_analysis/**: Scripts for differential abundance analysis (DAPs)
-  - **4_multispecies_comparison/**: Scripts for cross-species comparisons and PCA analysis
-  - **5_functional_analysis/**: Scripts for GO term enrichment and cold-category classification
-  - **6_cold_categories_analysis/**: Scripts for cold response categorization of top proteins
-  - **7_phylogenetic_analysis/**: Scripts for protein family tree visualization (LEA, HSP, EF1)
-  - **8_rna_integration/**: Scripts for correlating protein and RNA abundance across tissues
-  - **utils/**: Utility scripts for sequence extraction and annotation
-  
-- **phylogeny/**: RAxML tree files for HSP, LEA, and EF1 protein families
-  - Contains best trees for phylogenetic analysis of key protein families
-  
-- **annotations/**: Functional annotations from PANNZER
-  - Includes PANNZER GO term assignments for differentially accumulated proteins
-  
-- **sequences/**: Aligned and unaligned protein sequences
-  - Contains protein sequences for LEA, HSP, and EF1 families used in phylogenetic analyses
-  
-- **uniprot/**: UniProt annotations for top cold-responsive proteins
-  - Includes results from DIAMOND BLASTp against SwissProt
+```
+├── data/                    # Raw proteomics and RNA-seq data files
+│   ├── RNAseq_DEG_maize_tissues.RData
+│   └── RNAseq_DEG_Td.RData
+│
+├── scripts/                 # R scripts organized by analysis stage
+│   ├── 1_data_import/       # TMT proteomics data import and cleaning
+│   ├── 2_data_transformation/  # Protein abundance → long format
+│   ├── 3_differential_analysis/  # Differential abundance (DAPs)
+│   ├── 4_multispecies_comparison/  # Cross-species PCA and correlations
+│   ├── 5_functional_analysis/  # GO enrichment and cold-category classification
+│   ├── 6_cold_categories_analysis/  # Cold response categorization of top proteins
+│   ├── 7_phylogenetic_analysis/  # Protein family tree visualization (LEA, HSP, EF1)
+│   ├── 8_rna_integration/   # Protein–RNA abundance correlation across tissues
+│   └── utils/               # Sequence extraction and annotation utilities
+│
+├── tables/                  # Result tables (DAPs, GO enrichment, log2FC, orthogroups)
+├── annotations/             # PANNZER GO term assignments for DAPs
+├── sequences/               # Aligned and unaligned protein sequences (LEA, HSP, EF1)
+├── uniprot/                 # DIAMOND BLASTp results against SwissProt
+├── phylogeny/               # RAxML best trees for EF1, LEA, and HSP families
+│
+├── LEA3_structure/          # Structural modeling and analysis of LEA3 proteins
+│   ├── AlphaFold_output/    # AlphaFold3 3D structure predictions (Tripsacum & maize)
+│   ├── AmphipaSeek/         # Amphipathic helix identification results
+│   └── ProtScale/           # Kyte-Doolittle hydropathy analysis outputs
+│
+└── manuscript/              # Manuscript files and figures
+```
 
-- **phylogeny/**: Phylogenetic tree files generated with RAxML
-  - Includes trees for EF1, LEA, and HSP protein families 
-
-- **LEA3_structure**: Structural modeling outputs and analyses for LEA3 proteins
-  - **AlphaFold_output/**: Contains the 3D structure predictions for Tripsacum and maize LEA3 protein generated by AlphaFol3. 
-  - **AmphipaSeek/**: Contains AmphipaSeek results identifying amphipathic helices in LEA3 sequences.
-  - **ProtScale/**: Contains ProtScale analyses of LEA3 protein physicochemical properties.
-
-
-  ### Supplemental Code S1–S3 (Protein Reassignment Pipeline for *M. giganteus*)
+### Supplemental Code S1–S3 (Protein Reassignment Pipeline for *M. giganteus*)
 
 | ID | Script | Description |
 |:--:|:---|:---|
@@ -58,14 +66,15 @@ The scripts in this repository contain hardcoded paths that reflect my original 
 | S2 | [`2_map_Mg_peptides_to_proteins.R`](scripts/1_data_import/2_map_Mg_peptides_to_proteins.R) | Re-aligns *M. giganteus* peptides to the *M. giganteus* proteome using DIAMOND |
 | S3 | [`3_summarize_Mg_proteins.R`](scripts/1_data_import/3_summarize_Mg_proteins.R) | Re-aggregates peptides into protein-level summaries using a multi-tiered tie-breaker |
 
+## Data Availability
 
-## Species Analyzed
-
-- **Tripsacum dactyloides** (Eastern gamagrass) and **Tripsacum floridanum** (Florida gamagrass) 
-- **Andropogon gerardii** (Big bluestem)
-- **Miscanthus × giganteus** (Giant miscanthus)
-- **Panicum virgatum** (Switchgrass)
-- **Sorghastrum nutans** (Indian grass)
+- **Proteomics data**: ProteomeXchange / PRIDE, accession [PXD063668](https://www.ebi.ac.uk/pride/archive/projects/PXD063668) (public access).
+  To match PRIDE file names to species, seasons, batches, and TMT channels, see the sample key file: [`Supplemental_Table_S12_PRIDE_File_Key_PXD063668.xlsx`](manuscript/Supplemental_Tables/Supplemental_Table_S12_PRIDE_File_Key_PXD063668.xlsx).
+- **RNA-seq data (maize)**: NCBI BioProject [PRJNA705456](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA705456)
+- **RNA-seq data (Tripsacum)**: NCBI BioProject [PRJNA1260937](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1260937)
+- **Genome assemblies**:
+  - *T. dactyloides*, *A. gerardii*, *S. nutans* — [MaizeGDB PanAnd](https://maizegdb.org/PanAnd_project)
+  - *M. giganteus* (Msinensis_497_v7.0), *P. virgatum* (Pvirgatumvar_WBCHAP1_778_v1.0) — [JGI Data Portal](https://data.jgi.doe.gov/)
 
 ## Dependencies
 
@@ -74,17 +83,22 @@ The scripts in this repository contain hardcoded paths that reflect my original 
 - ggplot2, FactoMineR, factoextra (visualization and multivariate analysis)
 - ggtree, phytools, ape (phylogenetic analysis)
 - topGO (Gene Ontology enrichment)
+- DESeq2 (differential gene expression for RNA-seq)
 
 ### External Tools
-- seqkit (for sequence extraction)
-- RAxML (for phylogenetic tree construction)
-- PANNZER (for functional annotation)
-- DIAMOND (for protein sequence comparison)
+- [seqkit](https://bioinf.shenwei.me/seqkit/) v2.0 — sequence extraction
+- [RAxML](https://cme.h-its.org/exelixis/web/software/raxml/) v8.2.13 — phylogenetic tree construction (PROTGAMMAJTT, 100 bootstraps)
+- [PANNZER2](http://ekhidna2.biocenter.helsinki.fi/sanspanz/) — functional annotation
+- [DIAMOND](https://github.com/bbuchfink/diamond) v2.1.9 — protein sequence comparison
+- [MAFFT](https://mafft.cbrc.jp/alignment/software/) v7.475 — multiple sequence alignment
+- [AlphaFold3](https://alphafoldserver.com/) — protein structure prediction
+- [STAR](https://github.com/alexdobin/STAR) v2.7.10b — RNA-seq read alignment
+- [Proteome Discoverer](https://www.thermofisher.com/order/catalog/product/OPTON-31795) 2.5 — MS data processing
 
 ## Citation
 
-[Will update soon]
+[Manuscript under review — citation will be updated upon publication]
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
