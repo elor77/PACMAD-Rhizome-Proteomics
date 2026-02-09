@@ -45,7 +45,7 @@ library(ggpubr)       # Publication-ready plots
 
 # Set working directory and output path
 # setwd("YOUR_WORKING_DIRECTORY")
-output_dir <- "/Users/eo235/Library/CloudStorage/OneDrive-Personal/Projects/BucklerLab/PACMAD-Rhizome-Proteomics/manuscript_revised/anaylsis"
+output_dir <- "/Users/eo235/Library/CloudStorage/OneDrive-Personal/Projects/BucklerLab/PACMAD-Rhizome-Proteomics/archive_revisions/manuscript_revised/evo_conservation"
 if (!dir.exists(output_dir)) dir.create(output_dir, recursive = TRUE)
 
 # Define input files
@@ -336,3 +336,96 @@ final_stats_table$Significance <- case_when(
 # Print and save
 print(final_stats_table)
 write_csv(final_stats_table, file.path(output_dir, "Evolution_Statistics_Table_relaxed.csv"))
+
+# ==============================================================================
+# 12. SENSITIVITY ANALYSIS: EXCLUDING SORGHASTRUM NUTANS (n=2)
+# ==============================================================================
+
+# Re-filter matrices dropping Sn, requiring 3 of 4 remaining species
+keep_if_3_of_4 <- function(mat) {
+  mat_vals <- mat %>% select(-orthogroup)
+  n_present <- rowSums(!is.na(mat_vals))
+  mat %>% filter(n_present >= 3)
+}
+
+mat_logfc_noSn <- mat_logfc %>% select(-Sn) %>% keep_if_3_of_4()
+mat_winter_noSn <- mat_winter %>% select(-Sn) %>% keep_if_3_of_4()
+mat_summer_noSn <- mat_summer %>% select(-Sn) %>% keep_if_3_of_4()
+
+# Harmonize
+common_ogs_noSn <- Reduce(intersect, list(
+  mat_logfc_noSn$orthogroup,
+  mat_winter_noSn$orthogroup,
+  mat_summer_noSn$orthogroup
+))
+cat("Orthogroups without Sn:", length(common_ogs_noSn), "\n")
+
+mat_logfc_noSn <- mat_logfc_noSn %>% filter(orthogroup %in% common_ogs_noSn)
+mat_winter_noSn <- mat_winter_noSn %>% filter(orthogroup %in% common_ogs_noSn)
+mat_summer_noSn <- mat_summer_noSn %>% filter(orthogroup %in% common_ogs_noSn)
+
+# Recount DAPs excluding Sn
+dap_counts_noSn <- df_logfc %>%
+  filter(orthogroup %in% common_ogs_noSn) %>%
+  filter(species %in% c("Ag", "Mg", "Pv", "Trip19", "Trip22", "Td")) %>%
+  mutate(is_dap = if_else(DAP != "NS" & !is.na(DAP), 1, 0)) %>%
+  group_by(orthogroup) %>%
+  summarise(n_dap = sum(is_dap))
+
+ogs_conserved_noSn <- dap_counts_noSn %>% filter(n_dap >= 2) %>% pull(orthogroup)
+ogs_background_noSn <- dap_counts_noSn %>% filter(n_dap <= 1) %>% pull(orthogroup)
+
+cat("Conserved Cold (no Sn):", length(ogs_conserved_noSn), "\n")
+cat("Background (no Sn):", length(ogs_background_noSn), "\n")
+
+# Correlations
+res_fc_c_noSn <- filter_and_corr(mat_logfc_noSn, ogs_conserved_noSn)
+res_fc_b_noSn <- filter_and_corr(mat_logfc_noSn, ogs_background_noSn)
+res_ab_sum_c_noSn <- filter_and_corr(mat_summer_noSn, ogs_conserved_noSn)
+res_ab_sum_b_noSn <- filter_and_corr(mat_summer_noSn, ogs_background_noSn)
+res_ab_win_c_noSn <- filter_and_corr(mat_winter_noSn, ogs_conserved_noSn)
+res_ab_win_b_noSn <- filter_and_corr(mat_winter_noSn, ogs_background_noSn)
+
+# Summary table
+sensitivity_table <- data.frame(
+  Metric = c("Abundance (Summer)", "Abundance (Winter)", "Response (Log2FC)"),
+  N_Background = c(res_ab_sum_b_noSn$n, res_ab_win_b_noSn$n, res_fc_b_noSn$n),
+  N_Conserved  = c(res_ab_sum_c_noSn$n, res_ab_win_c_noSn$n, res_fc_c_noSn$n),
+  Median_Background_rho = c(
+    median(res_ab_sum_b_noSn$corr, na.rm = TRUE),
+    median(res_ab_win_b_noSn$corr, na.rm = TRUE),
+    median(res_fc_b_noSn$corr, na.rm = TRUE)
+  ),
+  Median_Conserved_rho = c(
+    median(res_ab_sum_c_noSn$corr, na.rm = TRUE),
+    median(res_ab_win_c_noSn$corr, na.rm = TRUE),
+    median(res_fc_c_noSn$corr, na.rm = TRUE)
+  ),
+  P_Value = c(
+    get_wilcox_p(res_ab_sum_b_noSn, res_ab_sum_c_noSn),
+    get_wilcox_p(res_ab_win_b_noSn, res_ab_win_c_noSn),
+    get_wilcox_p(res_fc_b_noSn, res_fc_c_noSn)
+  )
+)
+
+sensitivity_table$Significance <- case_when(
+  sensitivity_table$P_Value < 0.001 ~ "***",
+  sensitivity_table$P_Value < 0.01  ~ "**",
+  sensitivity_table$P_Value < 0.05  ~ "*",
+  TRUE ~ "ns"
+)
+
+cat("\n=== SENSITIVITY ANALYSIS: Excluding S. nutans ===\n")
+print(sensitivity_table)
+write_csv(sensitivity_table, file.path(output_dir, "Evolution_Statistics_Sensitivity_noSn.csv"))
+
+# Compare original vs sensitivity
+cat("\n=== COMPARISON ===\n")
+cat("Response (Log2FC) — Original P:", 
+    get_wilcox_p(res_fc_b, res_fc_c), "\n")
+cat("Response (Log2FC) — Without Sn P:", 
+    get_wilcox_p(res_fc_b_noSn, res_fc_c_noSn), "\n")
+cat("Response (Log2FC) — Original median conserved:", 
+    median(res_fc_c$corr, na.rm = TRUE), "\n")
+cat("Response (Log2FC) — Without Sn median conserved:", 
+    median(res_fc_c_noSn$corr, na.rm = TRUE), "\n")
