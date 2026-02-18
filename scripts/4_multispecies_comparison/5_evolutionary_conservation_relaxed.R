@@ -429,3 +429,4 @@ cat("Response (Log2FC) — Original median conserved:",
     median(res_fc_c$corr, na.rm = TRUE), "\n")
 cat("Response (Log2FC) — Without Sn median conserved:", 
     median(res_fc_c_noSn$corr, na.rm = TRUE), "\n")
+
