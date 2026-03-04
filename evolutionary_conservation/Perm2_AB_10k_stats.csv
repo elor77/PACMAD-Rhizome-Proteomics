@@ -1,0 +1,3 @@
+Test,Observed_delta,Null_mean,Null_SD,Residual_delta,P_value,N_perm
+A. Naive,0.3617,0.0018,0.0564,0.3599,0,10000
+B. |FC|-stratified,0.3617,0.2241,0.0309,0.1376,0,10000

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="634" viewBox="0 0 780 634">
+<style>
+  .species-name { font-family: 'Times New Roman', Times, serif; font-size: 13px; }
+  .species-cold { font-family: 'Times New Roman', Times, serif; font-size: 13px; font-weight: bold; }
+  .subtribe { font-family: Arial, Helvetica, sans-serif; font-size: 10px; fill: #888; }
+  .clade-label { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; }
+  .legend-text { font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+  .footnote { font-family: Arial, Helvetica, sans-serif; font-size: 9px; fill: #666; }
+</style>
+<rect width="780" height="634" fill="white"/>
+
+<line x1="180" y1="145.0546875" x2="180" y2="79.0" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="180" y1="79.0" x2="209.62962962962962" y2="79.0" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="180" y1="145.0546875" x2="180" y2="211.109375" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="180" y1="211.109375" x2="367.962962962963" y2="211.109375" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="209.62962962962962" y1="79.0" x2="209.62962962962962" y2="60" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="209.62962962962962" y1="60" x2="430" y2="60" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="209.62962962962962" y1="79.0" x2="209.62962962962962" y2="98" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="209.62962962962962" y1="98" x2="430" y2="98" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="367.962962962963" y1="211.109375" x2="367.962962962963" y2="155.0" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="367.962962962963" y1="155.0" x2="394.81481481481484" y2="155.0" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="367.962962962963" y1="211.109375" x2="367.962962962963" y2="267.21875" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="367.962962962963" y1="267.21875" x2="372.5925925925926" y2="267.21875" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="394.81481481481484" y1="155.0" x2="394.81481481481484" y2="136" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="394.81481481481484" y1="136" x2="430" y2="136" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="394.81481481481484" y1="155.0" x2="394.81481481481484" y2="174" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="394.81481481481484" y1="174" x2="430" y2="174" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="372.5925925925926" y1="267.21875" x2="372.5925925925926" y2="212" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="372.5925925925926" y1="212" x2="430" y2="212" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="372.5925925925926" y1="267.21875" x2="372.5925925925926" y2="322.4375" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="372.5925925925926" y1="322.4375" x2="373.51851851851853" y2="322.4375" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="373.51851851851853" y1="322.4375" x2="373.51851851851853" y2="250" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="373.51851851851853" y1="250" x2="430" y2="250" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="373.51851851851853" y1="322.4375" x2="373.51851851851853" y2="394.875" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="373.51851851851853" y1="394.875" x2="397.5925925925926" y2="394.875" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="397.5925925925926" y1="394.875" x2="397.5925925925926" y2="321.25" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="397.5925925925926" y1="321.25" x2="398.51851851851853" y2="321.25" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="397.5925925925926" y1="394.875" x2="397.5925925925926" y2="468.5" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="397.5925925925926" y1="468.5" x2="406.85185185185185" y2="468.5" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="398.51851851851853" y1="321.25" x2="398.51851851851853" y2="288" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="398.51851851851853" y1="288" x2="430" y2="288" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="398.51851851851853" y1="321.25" x2="398.51851851851853" y2="354.5" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="398.51851851851853" y1="354.5" x2="401.2962962962963" y2="354.5" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="401.2962962962963" y1="354.5" x2="401.2962962962963" y2="326" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="401.2962962962963" y1="326" x2="430" y2="326" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="401.2962962962963" y1="354.5" x2="401.2962962962963" y2="383.0" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="401.2962962962963" y1="383.0" x2="408.7037037037037" y2="383.0" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="408.7037037037037" y1="383.0" x2="408.7037037037037" y2="364" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="408.7037037037037" y1="364" x2="430" y2="364" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="408.7037037037037" y1="383.0" x2="408.7037037037037" y2="402" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="408.7037037037037" y1="402" x2="430" y2="402" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="406.85185185185185" y1="468.5" x2="406.85185185185185" y2="440" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="406.85185185185185" y1="440" x2="430" y2="440" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="406.85185185185185" y1="468.5" x2="406.85185185185185" y2="497.0" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="406.85185185185185" y1="497.0" x2="409.6296296296296" y2="497.0" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="409.6296296296296" y1="497.0" x2="409.6296296296296" y2="478" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="409.6296296296296" y1="478" x2="430" y2="478" stroke="#2166AC" stroke-width="3" stroke-linecap="round"/>
+<line x1="409.6296296296296" y1="497.0" x2="409.6296296296296" y2="516" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<line x1="409.6296296296296" y1="516" x2="430" y2="516" stroke="#666666" stroke-width="2" stroke-linecap="round"/>
+<circle cx="430" cy="60" r="4" fill="#B2182B"/>
+<text x="445" y="64" class="species-name"><tspan font-style="italic">Setaria viridis</tspan></text>
+<text x="640" y="64" class="subtribe">Cenchrinae</text>
+<circle cx="430" cy="98" r="4" fill="#2166AC"/>
+<text x="410" y="103" text-anchor="middle" font-size="16" fill="#2166AC">❄</text>
+<text x="445" y="102" class="species-cold"><tspan font-style="italic">Panicum virgatum</tspan></text>
+<text x="640" y="102" class="subtribe">Panicinae</text>
+<circle cx="430" cy="136" r="4" fill="#B2182B"/>
+<text x="445" y="140" class="species-name"><tspan font-style="italic">Zea mays</tspan></text>
+<text x="640" y="140" class="subtribe">Tripsacinae</text>
+<circle cx="430" cy="174" r="4" fill="#2166AC"/>
+<text x="410" y="179" text-anchor="middle" font-size="16" fill="#2166AC">❄</text>
+<text x="445" y="178" class="species-cold"><tspan font-style="italic">Tripsacum dactyloides</tspan></text>
+<text x="640" y="178" class="subtribe">Tripsacinae</text>
+<circle cx="430" cy="212" r="4" fill="#B2182B"/>
+<text x="445" y="216" class="species-name"><tspan font-style="italic">Coix lacryma-jobi</tspan></text>
+<text x="640" y="216" class="subtribe">Rottboelliinae</text>
+<circle cx="430" cy="250" r="4" fill="#2166AC"/>
+<text x="410" y="255" text-anchor="middle" font-size="16" fill="#2166AC">❄</text>
+<text x="445" y="254" class="species-cold"><tspan font-style="italic">Sorghastrum nutans*</tspan></text>
+<text x="640" y="254" class="subtribe">Apludinae</text>
+<circle cx="430" cy="288" r="4" fill="#B2182B"/>
+<text x="445" y="292" class="species-name"><tspan font-style="italic">Themeda triandra</tspan></text>
+<text x="640" y="292" class="subtribe">Anthistiriinae</text>
+<circle cx="430" cy="326" r="4" fill="#B2182B"/>
+<text x="445" y="330" class="species-name"><tspan font-style="italic">Cymbopogon nardus</tspan></text>
+<text x="640" y="330" class="subtribe">Anthistiriinae</text>
+<circle cx="430" cy="364" r="4" fill="#B2182B"/>
+<text x="445" y="368" class="species-name"><tspan font-style="italic">Hyparrhenia bracteata</tspan></text>
+<text x="640" y="368" class="subtribe">Andropogoninae</text>
+<circle cx="430" cy="402" r="4" fill="#2166AC"/>
+<text x="410" y="407" text-anchor="middle" font-size="16" fill="#2166AC">❄</text>
+<text x="445" y="406" class="species-cold"><tspan font-style="italic">Andropogon gerardii</tspan></text>
+<text x="640" y="406" class="subtribe">Andropogoninae</text>
+<circle cx="430" cy="440" r="4" fill="#B2182B"/>
+<text x="445" y="444" class="species-name"><tspan font-style="italic">Sorghum bicolor</tspan></text>
+<text x="640" y="444" class="subtribe">Sorghinae</text>
+<circle cx="430" cy="478" r="4" fill="#2166AC"/>
+<text x="410" y="483" text-anchor="middle" font-size="16" fill="#2166AC">❄</text>
+<text x="445" y="482" class="species-cold"><tspan font-style="italic">Miscanthus sinensis†</tspan></text>
+<text x="640" y="482" class="subtribe">Saccharinae</text>
+<circle cx="430" cy="516" r="4" fill="#B2182B"/>
+<text x="445" y="520" class="species-name"><tspan font-style="italic">Saccharum officinarum</tspan></text>
+<text x="640" y="520" class="subtribe">Saccharinae</text>
+<line x1="720" y1="48" x2="720" y2="110" stroke="#999" stroke-width="1.5"/>
+<line x1="720" y1="48" x2="725" y2="48" stroke="#999" stroke-width="1.5"/>
+<line x1="720" y1="110" x2="725" y2="110" stroke="#999" stroke-width="1.5"/>
+<text x="729" y="83.0" class="clade-label" fill="#555">Paniceae</text>
+<line x1="720" y1="124" x2="720" y2="528" stroke="#999" stroke-width="1.5"/>
+<line x1="720" y1="124" x2="725" y2="124" stroke="#999" stroke-width="1.5"/>
+<line x1="720" y1="528" x2="725" y2="528" stroke="#999" stroke-width="1.5"/>
+<text x="729" y="330.0" class="clade-label" fill="#555">Andropogoneae</text>
+<circle cx="30" cy="569" r="4" fill="#2166AC"/>
+<text x="40" y="573" class="legend-text">Freezing-tolerant (independent gain)</text>
+<circle cx="30" cy="589" r="4" fill="#B2182B"/>
+<text x="40" y="593" class="legend-text">Tropical/warm-adapted (ancestral state)</text>
+<text x="270" y="573" class="legend-text">❄ = Independent cold tolerance gain</text>
+<line x1="270" y1="586" x2="300" y2="586" stroke="#666666" stroke-width="2"/>
+<text x="305" y="590" class="legend-text">Warm-adapted ancestor</text>
+<line x1="270" y1="603" x2="300" y2="603" stroke="#2166AC" stroke-width="3"/>
+<text x="305" y="607" class="legend-text">Cold-adapted lineage</text>
+<text x="30" y="626" class="footnote">Topology from GPWG III (Bianconi et al. 2025, New Phytologist); ASTRAL-Pro nuclear species tree. *Position from S. fuscescens. †Proxy for M. ×giganteus.</text>
+<circle cx="180" cy="145.0546875" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="209.62962962962962" cy="79.0" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="367.962962962963" cy="211.109375" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="394.81481481481484" cy="155.0" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="372.5925925925926" cy="267.21875" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="373.51851851851853" cy="322.4375" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="397.5925925925926" cy="394.875" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="398.51851851851853" cy="321.25" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="401.2962962962963" cy="354.5" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="408.7037037037037" cy="383.0" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="406.85185185185185" cy="468.5" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+<circle cx="409.6296296296296" cy="497.0" r="3.5" fill="white" stroke="#B2182B" stroke-width="1.5"/>
+</svg>
