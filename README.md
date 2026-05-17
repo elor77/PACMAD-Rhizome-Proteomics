@@ -2,7 +2,7 @@
 
 Code and data repository for:
 
-**"Constrained evolution of a core winter proteome across independently cold-adapted PACMAD grasses"**
+**"Evolutionary constraint on a core winter proteome across independently cold-adapted PACMAD grasses"**
 
 Oren E, Zhai J, Rooney TE, Angelovici R, Hale CO, Brindisi LJ, Hsu S-K, Gault CM, Hua J, La T, Lepak N, Fu Q, Buckler ES, Romay MC
 
@@ -33,7 +33,7 @@ Scripts contain hardcoded paths from the original development environment; adjus
 └── manuscript/              # Manuscript files and figures
 ```
 
-### Supplemental Code S1–S3 (Protein Reassignment Pipeline for *M. giganteus*)
+### Supplemental S1-S3 Code (Protein Reassignment Pipeline for *M. giganteus*)
 
 | ID | Script | Description |
 |:--:|:---|:---|
